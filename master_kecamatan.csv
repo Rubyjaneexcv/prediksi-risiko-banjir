@@ -1,0 +1,2857 @@
+NAME_2,NAME_3,lat,long,elevation,ndvi,slope,landcover_class
+bogor,babakanmadang,-6.5917,106.902,501.913,0.564,5.001,9
+bogor,bojonggede,-6.4774,106.7927,133.589,0.429,0.293,1
+bogor,caringin,-6.7366,106.866,765.651,0.513,4.954,9
+bogor,cariu,-6.5273,107.1371,143.845,0.652,2.107,9
+bogor,ciampea,-6.5742,106.698,212.619,0.569,1.34,9
+bogor,ciawi,-6.7091,106.8937,925.94,0.465,6.501,9
+bogor,cibinong,-6.4839,106.8354,134.037,0.429,0.322,1
+bogor,cibungbulang,-6.5761,106.661,236.566,0.516,1.249,9
+bogor,cigombong,-6.7461,106.8128,688.475,0.576,4.624,9
+bogor,cigudeg,-6.4937,106.5461,309.2,0.489,3.666,9
+bogor,cijeruk,-6.686,106.7843,717.352,0.568,7.732,9
+bogor,cileungsi,-6.4094,106.9962,69.866,0.502,0.251,9
+bogor,ciomas,-6.6095,106.762,268.719,0.419,1.946,1
+bogor,cisarua,-6.6985,106.9552,1216.752,0.41,7.714,9
+bogor,ciseeng,-6.4556,106.6785,99.044,0.588,0.396,9
+bogor,citeureup,-6.525,106.8924,229.087,0.563,2.772,9
+bogor,dramaga,-6.5888,106.7298,248.285,0.541,1.71,9
+bogor,gunungputri,-6.4052,106.9313,81.462,0.354,0.389,1
+bogor,gunungsindur,-6.3871,106.6872,72.997,0.418,0.372,9
+bogor,jasinga,-6.4806,106.4559,163.412,0.528,1.993,9
+bogor,jonggol,-6.4961,107.0456,186.743,0.616,2.153,9
+bogor,klapanunggal,-6.483,106.9553,203.856,0.561,3.061,9
+bogor,kemang,-6.5025,106.7345,143.048,0.59,0.625,9
+bogor,leuwiliang,-6.6402,106.6099,556.464,0.497,3.837,9
+bogor,leuwisadeng,-6.5736,106.5877,306.672,0.575,4.096,9
+bogor,megamendung,-6.6635,106.9177,877.32,0.479,5.463,9
+bogor,nanggung,-6.6725,106.5377,848.241,0.428,5.957,9
+bogor,pamijahan,-6.6933,106.6596,827.34,0.475,5.169,9
+bogor,parung,-6.4349,106.7128,104.116,0.47,0.338,9
+bogor,parungpanjang,-6.3768,106.5551,65.388,0.436,0.569,9
+bogor,rancabungur,-6.5217,106.7137,144.929,0.654,0.575,9
+bogor,rumpin,-6.4596,106.6311,152.23,0.514,1.981,9
+bogor,sukajaya,-6.6313,106.4705,847.126,0.382,5.604,9
+bogor,sukamakmur,-6.5936,107.0201,641.209,0.588,5.807,9
+bogor,sukaraja,-6.5792,106.8408,276.337,0.523,1.706,9
+bogor,tajurhalang,-6.469,106.7596,128.261,0.532,0.34,9
+bogor,tamansari,-6.6564,106.7458,715.585,0.486,6.987,9
+bogor,tanjungsari,-6.6115,107.1406,362.528,0.659,5.549,9
+bogor,tenjo,-6.3723,106.4794,60.385,0.497,0.368,9
+bogor,tenjolaya,-6.6537,106.708,736.012,0.503,6.928,9
+kota bogor,bogorbarat,-6.5732,106.7655,207.937,0.354,0.658,1
+kota bogor,bogorselatan,-6.6447,106.8135,368.391,0.472,1.807,9
+kota bogor,bogortengah,-6.5932,106.7986,250.378,0.256,0.88,1
+kota bogor,bogortimur,-6.6207,106.8264,322.856,0.358,1.429,1
+kota bogor,bogorutara,-6.5708,106.8196,209.387,0.405,0.831,1
+kota bogor,tanahsareal,-6.5468,106.7855,184.459,0.369,0.639,1
+kota tangerang,batuceper,-6.1618,106.6703,10.341,0.211,0.068,1
+kota tangerang,benda,-6.13,106.6657,8.372,0.252,0.098,1
+kota tangerang,cibodas,-6.2058,106.608,19.751,0.138,0.128,1
+kota tangerang,ciledug,-6.2386,106.7059,21.279,0.24,0.132,1
+kota tangerang,cipondoh,-6.1862,106.683,11.897,0.23,0.115,1
+kota tangerang,jatiuwung,-6.198,106.5753,20.101,0.159,0.172,1
+kota tangerang,karangtengah,-6.2101,106.7097,13.076,0.241,0.156,1
+kota tangerang,karawaci,-6.1812,106.618,16.788,0.181,0.102,1
+kota tangerang,larangan,-6.2392,106.733,21.351,0.213,0.155,1
+kota tangerang,neglasari,-6.1429,106.6302,11.542,0.29,0.072,1
+kota tangerang,periuk,-6.1675,106.5943,12.531,0.222,0.129,1
+kota tangerang,pinang,-6.2153,106.6662,19.041,0.285,0.132,1
+kota tangerang,tangerang,-6.1888,106.6406,17.193,0.194,0.112,1
+tangerang selatan,ciputat,-6.3082,106.7277,44.431,0.325,0.212,1
+tangerang selatan,ciputattimur,-6.2988,106.7556,41.355,0.256,0.245,1
+tangerang selatan,pamulang,-6.3395,106.7391,59.039,0.314,0.233,1
+tangerang selatan,pondokaren,-6.2664,106.7114,28.61,0.269,0.18,1
+tangerang selatan,serpong,-6.3113,106.6807,42.596,0.34,0.214,1
+tangerang selatan,serpongutara,-6.2536,106.663,26.59,0.254,0.18,1
+tangerang selatan,setu,-6.3637,107.0373,54.164,0.365,0.359,9
+tangerang,balaraja,-6.2048,106.4427,20.277,0.262,0.173,1
+tangerang,cikupa,-6.218,106.5159,25.2,0.222,0.147,1
+tangerang,cisauk,-6.3391,106.6302,51.37,0.365,0.313,9
+tangerang,cisoka,-6.2598,106.4167,26.713,0.33,0.26,9
+tangerang,curug,-6.2426,106.5661,30.753,0.187,0.142,1
+tangerang,gunungkaler,-6.0957,106.3742,8.194,0.265,0.068,2
+tangerang,jambe,-6.3238,106.4992,43.823,0.417,0.302,9
+tangerang,jayanti,-6.2068,106.3983,18.626,0.316,0.144,9
+tangerang,kelapadua,-6.2426,106.6094,27.206,0.178,0.146,1
+tangerang,kemiri,-6.0878,106.4638,5.064,0.286,0.09,2
+tangerang,kosambi,-6.0809,106.685,3.034,0.181,0.058,1
+tangerang,kresek,-6.1444,106.4044,11.706,0.264,0.093,2
+tangerang,kronjo,-6.0703,106.4282,4.048,0.306,0.069,2
+tangerang,legok,-6.3048,106.565,43.009,0.352,0.179,9
+tangerang,mauk,-6.058,106.5207,3.228,0.222,0.07,2
+tangerang,mekarbaru,-6.062,106.3871,4.93,0.217,0.066,2
+tangerang,pagedangan,-6.2973,106.6175,39.721,0.292,0.198,9
+tangerang,pakuhaji,-6.0602,106.6063,3.922,0.325,0.061,2
+tangerang,panongan,-6.2789,106.5262,36.953,0.295,0.192,9
+tangerang,pasarkemis,-6.1589,106.5525,14.061,0.211,0.127,1
+tangerang,rajeg,-6.1163,106.5103,8.659,0.285,0.105,2
+tangerang,sepatan,-6.1183,106.5801,8.849,0.277,0.052,1
+tangerang,sepatantimur,-6.1199,106.6084,9.449,0.277,0.066,1
+tangerang,sindangjaya,-6.1689,106.4989,17.038,0.267,0.132,9
+tangerang,solear,-6.3069,106.4215,39.539,0.368,0.297,9
+tangerang,sukadiri,-6.0699,106.559,4.864,0.305,0.063,2
+tangerang,sukamulya,-6.1604,106.4362,14.287,0.261,0.136,2
+tangerang,teluknaga,-6.0499,106.6582,3.313,0.248,0.071,7
+tangerang,tigaraksa,-6.2657,106.4673,29.506,0.373,0.225,9
+depok,beji,-6.3731,106.819,78.676,0.372,0.279,1
+depok,bojongsari,-6.3943,106.7378,87.016,0.35,0.265,1
+depok,cilodong,-6.4303,106.8379,106.017,0.325,0.295,1
+depok,cimanggis,-6.3677,106.8694,74.634,0.319,0.278,1
+depok,cinere,-6.3315,106.7894,54.274,0.187,0.287,1
+depok,cipayung,-6.3253,106.9036,106.638,0.332,0.3,1
+depok,limo,-6.3686,106.7808,73.923,0.324,0.284,1
+depok,pancoranmas,-6.3984,106.7998,89.403,0.319,0.285,1
+depok,sawangan,-6.4067,106.7641,91.287,0.4,0.296,9
+depok,sukmajaya,-6.3973,106.8436,88.001,0.269,0.34,1
+depok,tapos,-6.4192,106.8805,98.048,0.473,0.278,1
+bekasi,babelan,-6.1257,107.0341,3.768,0.232,0.07,2
+bekasi,bojongmangu,-6.4389,107.1778,48.869,0.578,0.584,9
+bekasi,cabangbungin,-6.0781,107.1363,3.757,0.35,0.053,2
+bekasi,cibarusah,-6.434,107.1108,52.034,0.597,0.394,2
+bekasi,cibitung,-6.2357,107.1004,14.027,0.301,0.106,2
+bekasi,cikarangbarat,-6.2973,107.0941,29.644,0.223,0.174,1
+bekasi,cikarangpusat,-6.3596,107.1836,34.68,0.435,0.347,1
+bekasi,cikarangselatan,-6.3385,107.1279,41.443,0.346,0.306,1
+bekasi,cikarangtimur,-6.2885,107.209,15.164,0.375,0.085,2
+bekasi,cikarangutara,-6.2754,107.1556,17.902,0.306,0.13,1
+bekasi,karangbahagia,-6.2172,107.197,10.334,0.334,0.08,2
+bekasi,kedungwaringin,-6.2516,107.2483,10.722,0.398,0.076,2
+bekasi,muaragembong,-6.0033,107.0499,1.597,0.233,0.046,7
+bekasi,pebayuran,-6.1593,107.2485,7.055,0.336,0.061,2
+bekasi,serangbaru,-6.3956,107.1143,47.778,0.507,0.25,9
+bekasi,setu,-6.3637,107.0373,51.932,0.415,0.202,9
+bekasi,sukakarya,-6.1449,107.1856,5.911,0.328,0.05,2
+bekasi,sukatani,-6.1918,107.1559,9.292,0.353,0.08,2
+bekasi,sukawangi,-6.1187,107.091,3.12,0.35,0.044,2
+bekasi,tambelang,-6.167,107.1273,5.555,0.35,0.072,2
+bekasi,tambunselatan,-6.2571,107.0543,20.065,0.2,0.152,1
+bekasi,tambunutara,-6.1927,107.0611,8.214,0.28,0.091,1
+bekasi,tarumajaya,-6.1219,106.9975,2.309,0.238,0.051,2
+kota bekasi,bantargebang,-6.3385,106.9912,46.555,0.212,0.262,1
+kota bekasi,bekasibarat,-6.2336,106.9628,17.765,0.198,0.161,1
+kota bekasi,bekasiselatan,-6.2582,106.9778,22.99,0.209,0.103,1
+kota bekasi,bekasitimur,-6.2421,107.0191,19.269,0.154,0.113,1
+kota bekasi,bekasiutara,-6.2074,107.0064,13.259,0.176,0.12,1
+kota bekasi,jatiasih,-6.3072,106.9524,39.466,0.288,0.259,1
+kota bekasi,jatisampurna,-6.3654,106.9249,69.311,0.349,0.278,1
+kota bekasi,medansatria,-6.1989,106.9836,10.53,0.184,0.136,1
+kota bekasi,mustikajaya,-6.3076,107.0166,32.768,0.208,0.179,1
+kota bekasi,pondokgede,-6.2691,106.9299,24.987,0.269,0.142,1
+kota bekasi,pondokmelati,-6.3095,106.9282,38.409,0.288,0.242,1
+kota bekasi,rawalumbu,-6.2812,106.9942,27.96,0.129,0.131,1
+jakarta barat,cengkareng,-6.1515,106.7369,5.286,0.171,0.059,1
+jakarta barat,grogolpetamburan,-6.1634,106.7865,6.01,0.176,0.06,1
+jakarta barat,kalideres,-6.1346,106.7039,5.258,0.21,0.071,1
+jakarta barat,kebonjeruk,-6.1895,106.7691,10.059,0.155,0.118,1
+jakarta barat,kembangan,-6.1982,106.7418,10.349,0.22,0.126,1
+jakarta barat,palmerah,-6.1917,106.7956,10.559,0.138,0.122,1
+jakarta barat,tamansari,-6.1481,106.8184,6.894,0.091,0.061,9
+jakarta barat,tambora,-6.1475,106.8035,5.895,0.105,0.048,1
+jakarta utara,cilincing,-6.1243,106.9421,3.19,0.237,0.068,1
+jakarta utara,kelapagading,-6.161,106.9037,5.514,0.155,0.062,1
+jakarta utara,koja,-6.1215,106.905,3.739,0.148,0.063,1
+jakarta utara,pademangan,-6.1301,106.8381,3.198,0.183,0.104,1
+jakarta utara,penjaringan,-6.115,106.7639,3.083,0.182,0.074,1
+jakarta utara,tanjungpriok,-6.1319,106.875,4.06,0.138,0.101,1
+jakarta selatan,cilandak,-6.2927,106.7933,37.329,0.232,0.193,1
+jakarta selatan,jagakarsa,-6.334,106.8224,57.304,0.268,0.27,1
+jakarta selatan,kebayoranbaru,-6.2447,106.8014,22.272,0.247,0.16,1
+jakarta selatan,kebayoranlama,-6.2495,106.7801,25.395,0.224,0.143,1
+jakarta selatan,mampangprapatan,-6.2523,106.821,21.604,0.232,0.146,1
+jakarta selatan,pancoran,-6.2553,106.8436,25.372,0.17,0.19,1
+jakarta selatan,pasarminggu,-6.2908,106.8293,35.89,0.228,0.23,1
+jakarta selatan,pesanggrahan,-6.2504,106.7587,23.82,0.274,0.178,1
+jakarta selatan,setiabudi,-6.2196,106.83,17.99,0.138,0.133,1
+jakarta selatan,tebet,-6.2289,106.8509,17.948,0.127,0.137,1
+jakarta timur,cakung,-6.1885,106.9409,7.969,0.196,0.102,1
+jakarta timur,cipayung,-6.4297,106.8028,48.413,0.36,0.257,1
+jakarta timur,ciracas,-6.3339,106.8784,53.48,0.27,0.263,1
+jakarta timur,durensawit,-6.2325,106.9206,16.888,0.211,0.139,1
+jakarta timur,jatinegara,-6.2273,106.8774,18.159,0.16,0.126,1
+jakarta timur,kramatjati,-6.2763,106.8654,30.295,0.193,0.152,1
+jakarta timur,makasar,-6.2663,106.8911,25.658,0.266,0.16,1
+jakarta timur,matraman,-6.2036,106.8645,12.702,0.16,0.132,1
+jakarta timur,pasarrebo,-6.3264,106.8573,48.623,0.26,0.252,1
+jakarta timur,pulogadung,-6.1932,106.889,10.47,0.18,0.136,1
+jakarta pusat,cempakaputih,-6.1809,106.8681,8.401,0.154,0.095,1
+jakarta pusat,gambir,-6.1715,106.8181,7.605,0.127,0.061,1
+jakarta pusat,joharbaru,-6.1821,106.8546,8.969,0.158,0.076,1
+jakarta pusat,kemayoran,-6.1627,106.8558,6.168,0.134,0.103,1
+jakarta pusat,menteng,-6.1958,106.8353,10.741,0.198,0.099,1
+jakarta pusat,sawahbesar,-6.1539,106.8332,7.059,0.122,0.09,1
+jakarta pusat,senen,-6.1842,106.8459,10.007,0.193,0.092,1
+jakarta pusat,tanahabang,-6.2054,106.8094,12.45,0.133,0.13,1
+Aceh Selatan,kluettengah,3.4275,97.3563,1206.326,0.862,10.498,8
+Aceh Selatan,kluettimur,3.1722,97.4563,456.291,0.806,8.488,8
+Aceh Selatan,meukek,3.5632,97.1723,1197.789,0.858,10.954,8
+Aceh Selatan,samadua,3.3469,97.1932,534.657,0.741,8.676,10
+Aceh Selatan,tapaktuan,3.2862,97.2287,601.413,0.649,10.497,10
+Aceh Selatan,trumon,2.6548,97.7086,46.794,0.878,0.53,10
+Aceh Singkil,simpangkanan,2.4295,98.0379,87.944,0.838,1.236,10
+Agam,kamangmagek,-0.1963,100.4105,1065.463,0.46,6.346,8
+Agam,lubukbasung,-0.2928,100.0092,149.687,0.766,2.184,8
+Agam,palembayan,-0.1591,100.1671,530.366,0.778,4.801,10
+Agam,tanjungmutiara,-0.2906,99.8799,13.072,0.817,0.302,10
+Bandung,baleendah,-7.0123,107.6388,700.969,0.484,2.32,10
+Bandung,bojongsoang,-6.9837,107.6646,664.544,0.294,0.093,10
+Bandung,ciparay,-7.0454,107.6981,791.542,0.524,2.593,2
+Bandung,dayeuhkolot,-6.9728,107.6131,668.262,0.34,0.279,10
+Bandung,majalaya,-7.0537,107.7434,696.275,0.417,0.93,10
+Bandung,paseh,-7.0688,107.7955,914.925,0.582,4.702,10
+Bandung,rancaekek,-6.9801,107.7669,668.961,0.324,0.165,2
+Bandung,solokanjeruk,-7.0109,107.7489,666.918,0.275,0.079,2
+Bandung Barat,ngamprah,-6.8368,107.5114,810.419,0.456,3.476,10
+Banjar,astambul,-3.3192,114.9274,20.368,0.617,0.336,10
+Banjar,karangintan,-3.4887,114.9813,101.822,0.644,2.017,10
+Banjar,mataraman,-3.3346,115.0343,61.826,0.657,0.99,8
+Banjar,pengaron,-3.308,115.1689,93.986,0.68,1.24,10
+Banyumas,cilongok,-7.3726,109.1494,597.775,0.597,5.325,8
+Banyumas,kalibagor,-7.4877,109.3044,45.763,0.69,0.807,10
+Banyumas,purwokertoselatan,-7.4466,109.2442,72.001,0.545,0.536,10
+Banyumas,rawalo,-7.5232,109.1644,48.656,0.639,1.482,10
+Banyuwangi,kabat,-8.2704,114.3107,88.693,0.673,1.222,10
+Barru,balusu,-4.3281,119.6872,194.352,0.585,3.844,10
+Barru,mallusetasi,-4.1558,119.6791,307.82,0.631,5.226,10
+Batang,batang,-6.9084,109.7293,14.901,0.361,0.326,10
+Batang,reban,-7.1072,109.8799,971.328,0.609,5.897,8
+Bengkulu Tengah,merigisakti,-3.6256,102.4193,221.889,0.823,2.979,10
+Blitar,gandusari,-7.9942,112.3336,675.052,0.761,4.348,10
+Blora,cepu,-7.1632,111.5667,42.571,0.611,0.352,2
+Bojonegoro,gondang,-7.4021,111.8283,246.227,0.69,2.355,10
+Bojonegoro,tambakrejo,-7.2978,111.6299,103.915,0.632,0.779,10
+Boyolali,musuk,-7.5682,110.5281,805.259,0.558,5.2,8
+Brebes,bulakamba,-6.88,108.9448,5.73,0.294,0.069,10
+Brebes,ketanggungan,-7.0334,108.8836,99.966,0.542,1.948,10
+Brebes,wanasari,-6.8751,109.0067,6.439,0.375,0.085,10
+Bungo,rantaupandan,-1.6482,101.9377,162.057,0.4,1.445,10
+Buol,bukal,0.9335,121.3949,281.885,0.762,4.101,10
+Buol,momunu,1.1077,121.3699,111.742,0.699,2.416,8
+Buol,palelehbarat,1.0372,121.8413,640.711,0.669,9.759,10
+Cilacap,majenang,-7.2639,108.7551,267.295,0.645,3.772,10
+Cirebon,mundu,-6.7751,108.5812,21.414,0.427,0.838,10
+Cirebon,plered,-6.6819,108.505,9.531,0.362,0.161,2
+Cirebon,plumbon,-6.706,108.477,21.964,0.425,0.248,0
+Dompu,kilo,-8.3673,118.3926,306.622,0.715,4.854,10
+Empat Lawang,muarapinang,-3.8605,103.09,785.157,0.542,5.775,8
+Empat Lawang,tebingtinggi,-3.6032,103.0561,303.465,0.438,2.921,8
+Enrekang,enrekang,-3.5089,119.778,392.685,0.742,7.647,10
+Gresik,balongpanggang,-7.2692,112.4366,23.745,0.579,0.189,10
+Gresik,cerme,-7.2172,112.5558,8.314,0.291,0.117,10
+Grobogan,brati,-7.0229,110.8907,81.973,0.678,1.559,10
+Grobogan,godong,-7.0521,110.7545,16.324,0.612,0.083,10
+Grobogan,grobogan,-7.0143,110.9568,116.136,0.719,1.942,10
+Grobogan,karangrayung,-7.1489,110.7649,56.813,0.689,0.742,8
+Grobogan,kedungjati,-7.1713,110.633,85.755,0.706,0.98,8
+Grobogan,klambu,-7.0015,110.8124,54.003,0.687,1.561,10
+Grobogan,penawangan,-7.1029,110.8313,28.535,0.7,0.17,10
+Grobogan,tanggungharjo,-7.1033,110.6165,34.22,0.645,0.746,10
+Grobogan,tegowanu,-7.0379,110.6266,11.23,0.529,0.091,10
+Indramayu,anjatan,-6.3764,107.9465,15.389,0.299,0.076,10
+Indramayu,bongas,-6.38,108.0175,8.476,0.284,0.079,10
+Indramayu,patrol,-6.3196,108.0012,5.671,0.301,0.096,10
+Indramayu,sukra,-6.2911,107.948,5.687,0.415,0.083,10
+Jepara,bangsri,-6.5302,110.7737,158.101,0.417,1.748,10
+Jepara,donorojo,-6.4432,110.9147,119.304,0.441,3.434,10
+Jepara,jepara,-6.5773,110.6732,24.209,0.379,0.585,10
+Jepara,kedung,-6.6817,110.6547,10.352,0.476,0.279,10
+Jepara,mlonggo,-6.5217,110.7051,31.37,0.406,0.608,10
+Jepara,tahunan,-6.6237,110.686,46.654,0.455,0.666,10
+Kapuas Hulu,putussibauselatan,0.8157,112.9328,45.485,0.675,0.272,8
+Kapuas Hulu,putussibauutara,1.1271,113.1049,403.067,0.657,4.378,10
+Karawang,banyusari,-6.3026,107.5399,13.251,0.281,0.102,10
+Karawang,cibuaya,-6.016,107.3283,1.801,0.409,0.047,10
+Karawang,cikampek,-6.4137,107.4365,55.102,0.405,0.562,8
+Karawang,cilamayakulon,-6.2186,107.5153,1.246,0.36,0.094,10
+Karawang,cilamayawetan,-6.2272,107.5784,2.278,0.328,0.083,10
+Karawang,cilebar,-6.133,107.4132,1.407,0.357,0.048,10
+Karawang,jatisari,-6.3558,107.5221,25.523,0.347,0.125,10
+Karawang,kutawaluya,-6.1744,107.3462,4.014,0.249,0.055,10
+Karawang,lemahabang,-6.2838,107.4566,7.954,0.374,0.101,10
+Karawang,pedes,-6.0908,107.3719,3.776,0.367,0.06,10
+Karawang,purwasari,-6.3695,107.4095,29.637,0.366,0.291,10
+Karawang,telukjambebarat,-6.3574,107.2456,42.015,0.439,0.526,10
+Karawang,telukjambetimur,-6.3413,107.2894,27.576,0.401,0.335,10
+Katingan,tasikpayawan,-2.051,113.4438,34.46,0.62,0.199,8
+Kendal,weleri,-6.9825,110.0734,39.363,0.648,1.414,8
+Kepulauan Mentawai,siporaselatan,-2.244,99.7179,73.394,0.603,1.779,8
+Kepulauan Mentawai,siporautara,-2.1411,99.6061,66.296,0.603,1.525,10
+Kepulauan Sangihe,manganitu,3.5316,125.515,288.202,0.739,7.919,10
+Kepulauan Sangihe,tamako,3.4594,125.5442,251.984,0.723,6.756,10
+Ketapang,nangatayap,-1.4816,110.5672,106.757,0.762,2.134,10
+Ketapang,simpanghulu,-0.546,110.2374,69.196,0.691,1.101,10
+Ketapang,sungailaur,-0.8243,110.5244,90.279,0.724,1.115,8
+Klaten,bayat,-7.772,110.6549,131.363,0.536,1.078,8
+Klaten,cawas,-7.7617,110.7128,103.725,0.478,0.337,10
+Kota Bandung,gedebage,-6.9536,107.6975,667.447,0.38,0.148,0
+Kota Bandung,rancasari,-6.9545,107.6739,670.539,0.307,0.16,10
+Kota Bima,mpunda,-8.4725,118.74,94.168,0.58,2.874,8
+Kota Cirebon,harjamukti,-6.7614,108.5483,32.919,0.474,0.928,8
+Kota Medan,medanlabuhan,3.719,98.695,4.176,0.471,0.069,5
+Kota Pekalongan,pekalonganbarat,-6.8965,109.6602,7.589,0.227,0.082,10
+Kota Pekalongan,pekalongantimur,-6.8948,109.6891,6.836,0.207,0.079,10
+Kota Pekalongan,pekalonganutara,-6.8709,109.6848,3.721,0.152,0.095,10
+Kota Tegal,margadana,-6.8736,109.0962,3.214,0.301,0.087,10
+Kota Tegal,tegalbarat,-6.8575,109.1162,2.882,0.193,0.096,10
+Kota Tegal,tegaltimur,-6.8639,109.1445,4.457,0.257,0.105,10
+Kotawaringin Barat,pangkalanlada,-2.5141,111.7759,17.912,0.676,0.172,8
+Kudus,jati,-6.8287,110.8389,11.954,0.45,0.182,0
+Kudus,mejobo,-6.8399,110.8888,9.259,0.574,0.105,10
+Lahat,gumaytalang,-3.7805,103.4589,254.938,0.422,2.093,8
+Lahat,kikimtimur,-3.6293,103.3831,109.152,0.412,0.454,8
+Lahat,lahat,-3.7277,103.544,123.85,0.512,0.64,10
+Lahat,pajarbulan,-3.9618,103.2862,815.094,0.587,3.781,8
+Lampung Timur,pasirsakti,-5.5388,105.778,4.667,0.28,0.102,10
+Lebak,cimarga,-6.4532,106.222,79.069,0.682,0.893,8
+Lebak,cipanas,-6.5531,106.3666,293.79,0.591,3.507,10
+Lebak,curugbitung,-6.4356,106.3974,94.465,0.527,0.622,8
+Lebak,lebakgedong,-6.6309,106.4063,826.31,0.397,6.743,8
+Lebak,maja,-6.3681,106.3651,56.467,0.511,0.493,10
+Lebak,sajira,-6.475,106.3369,132.172,0.575,1.334,8
+Lima Puluh Kota,guguak,-0.1409,100.5267,633.516,0.526,3.196,10
+Lima Puluh Kota,harau,-0.1197,100.6956,764.305,0.457,5.152,10
+Lima Puluh Kota,mungka,-0.0576,100.5813,804.588,0.491,4.52,10
+Lombok Timur,selong,-8.6605,116.5337,129.603,0.642,1.256,8
+Lombok Utara,kayangan,-8.3081,116.311,539.962,0.742,5.464,10
+Magelang,kajoran,-7.4956,110.0824,756.981,0.679,4.911,10
+Majalengka,maja,-6.9028,108.2755,515.596,0.686,4.05,8
+Majalengka,sukahaji,-6.8136,108.2961,198.776,0.641,2.811,10
+Malang,dau,-7.9498,112.5355,1103.184,0.565,7.986,8
+Mandailing Natal,natal,0.7159,99.184,285.841,0.817,3.636,10
+Mandailing Natal,rantobaek,0.5198,99.3773,131.832,0.823,1.804,10
+Mandailing Natal,sinunukan,0.4711,99.2422,28.915,0.819,0.413,10
+Merangin,nalotantan,-2.0186,102.1769,124.778,0.452,0.822,10
+Mojokerto,sooko,-7.5016,112.41,31.187,0.562,0.161,10
+Musi Rawas,megangsakti,-2.9675,103.0208,42.288,0.556,0.128,10
+Padang Pariaman,batanganai,-0.7532,100.3155,169.303,0.729,3.195,10
+Padang Pariaman,enamlingkung,-0.6297,100.2667,49.859,0.721,0.535,10
+Padang Pariaman,padangsago,-0.5354,100.2093,129.011,0.777,1.486,8
+Padang Pariaman,sungaigeringging,-0.4366,100.1058,266.807,0.772,2.937,8
+Padang Pariaman,sungailimau,-0.5064,100.0773,45.677,0.818,1.017,8
+Pandeglang,pagelaran,-6.4191,105.8561,12.296,0.455,0.32,8
+Pandeglang,panimbang,-6.5265,105.714,43.99,0.477,1.166,10
+Pandeglang,sindangresmi,-6.5436,105.919,30.933,0.589,0.447,8
+Pandeglang,sobang,-6.6058,105.7804,45.873,0.566,0.565,10
+Pandeglang,sukaresmi,-6.501,105.8383,9.522,0.354,0.188,10
+Pasaman Barat,kinali,-0.067,99.8918,106.505,0.822,1.69,8
+Pasaman Barat,ranahbatahan,0.434,99.4604,191.433,0.815,2.123,8
+Pasuruan,gondangwetan,-7.7088,112.9117,24.877,0.676,0.301,10
+Pasuruan,grati,-7.7381,113.0025,37.671,0.644,0.756,8
+Pasuruan,kraton,-7.6442,112.852,20.989,0.457,0.294,10
+Pasuruan,winongan,-7.7492,112.9442,46.607,0.683,1.358,8
+Pati,dukuhseti,-6.4642,111.0088,22.98,0.379,0.514,2
+Pati,gabus,-6.816,111.0358,9.359,0.603,0.112,10
+Pati,kayen,-6.9035,110.9884,66.528,0.696,1.375,10
+Pati,margoyoso,-6.6078,111.0591,31.656,0.454,0.644,10
+Pati,pati,-6.7403,111.0574,12.166,0.442,0.203,2
+Pati,sukolilo,-6.9356,110.8934,91.599,0.681,1.743,10
+Pekalongan,kajen,-7.0594,109.5755,196.872,0.647,3.294,10
+Pekalongan,karanganyar,-7.0491,109.6272,187.513,0.671,2.999,8
+Pekalongan,karangdadap,-6.9784,109.691,42.025,0.536,0.774,10
+Pekalongan,sragi,-6.9478,109.5528,12.331,0.408,0.076,10
+Pemalang,bodeh,-7.0332,109.477,86.91,0.63,1.276,8
+Pemalang,comal,-6.8844,109.5319,10.507,0.445,0.097,2
+Pemalang,ulujami,-6.8404,109.5408,5.659,0.28,0.094,10
+Pesawaran,negerikaton,-5.2871,105.1038,103.089,0.565,0.464,10
+Pesawaran,waylima,-5.4305,105.0232,170.164,0.493,1.791,10
+Pinrang,cempa,-3.7313,119.5431,10.749,0.402,0.099,10
+Pinrang,duampanua,-3.6466,119.5573,83.127,0.633,2.004,8
+Pinrang,mattirobulu,-3.8726,119.6511,40.337,0.586,0.958,10
+Pinrang,paleteang,-3.7702,119.6758,21.58,0.734,0.271,10
+Pinrang,patampanua,-3.7181,119.6994,31.94,0.679,0.442,10
+Pinrang,tiroang,-3.8131,119.7149,16.71,0.584,0.132,10
+Pinrang,watangsawitto,-3.7988,119.6264,12.156,0.433,0.107,10
+Polewali Mandar,alu,-3.3689,118.9661,400.287,0.806,6.446,8
+Polewali Mandar,limboro,-3.451,119.0151,211.077,0.752,4.293,8
+Polewali Mandar,tinambung,-3.5061,119.012,32.905,0.687,1.345,8
+Pulau Morotai,morotaijaya,2.5092,128.4815,324.133,0.718,5.72,8
+Pulau Morotai,morotaitimur,2.2006,128.5355,324.243,0.829,5.666,10
+Pulau Morotai,morotaiutara,2.3899,128.5723,291.276,0.74,4.928,8
+Rokan Hilir,pujud,1.4168,100.6003,30.907,0.567,0.277,10
+Sanggau,meliau,-0.2658,110.3354,85.524,0.652,1.667,8
+Sekadau,belitanghulu,0.5161,111.1269,44.559,0.674,0.38,8
+Sekadau,sekadauhulu,-0.155,110.9306,69.667,0.601,0.964,10
+Bojonegoro,bojonegoro,-7.1557,111.8941,20.329,0.504,0.158,10
+Bojonegoro,kasiman,-7.1155,111.6406,53.612,0.592,0.555,10
+Bojonegoro,malo,-7.113,111.7059,56.96,0.616,1.26,10
+Bojonegoro,padangan,-7.1834,111.6135,40.28,0.589,0.286,8
+Bojonegoro,sukosewu,-7.2492,111.931,40.158,0.724,0.231,2
+Bojonegoro,trucuk,-7.1231,111.8364,28.355,0.564,0.318,2
+Boyolali,andong,-7.3674,110.7636,162.204,0.655,0.823,10
+Boyolali,karanggede,-7.3706,110.6574,297.365,0.545,1.701,10
+Boyolali,klego,-7.3695,110.7095,241.745,0.598,1.577,10
+Boyolali,ngemplak,-7.5091,110.7684,123.992,0.527,0.334,10
+Boyolali,nogosari,-7.4604,110.7571,143.004,0.636,0.482,8
+Brebes,bumiayu,-7.2444,108.9854,165.997,0.675,2.191,10
+Bungo,tanahtumbuh,-1.4822,101.88,131.797,0.589,0.797,8
+Buol,paleleh,1.005,121.9972,424.326,0.611,7.528,10
+Ciamis,sukadana,-7.2728,108.4518,191.326,0.755,1.117,10
+Cianjur,naringgul,-7.3519,107.3338,629.506,0.715,5.335,10
+Cilacap,wanareja,-7.306,108.6814,232.928,0.62,3.055,10
+Cirebon,klangenan,-6.6678,108.4516,11.963,0.441,0.135,10
+Cirebon,panguragan,-6.6171,108.4615,4.458,0.235,0.056,10
+Cirebon,suranenggala,-6.6316,108.523,2.455,0.14,0.061,2
+Cirebon,susukan,-6.6253,108.3595,15.73,0.433,0.153,10
+Demak,bonang,-6.8472,110.5914,3.45,0.485,0.039,10
+Demak,dempet,-6.9589,110.7394,11.272,0.591,0.073,10
+Demak,guntur,-6.9805,110.6029,7.617,0.566,0.065,10
+Demak,karangawen,-7.076,110.5608,37.043,0.532,0.522,10
+Demak,mranggen,-7.038,110.5183,30.864,0.5,0.495,10
+Demak,sayung,-6.9244,110.5214,3.094,0.241,0.056,10
+Dompu,dompu,-8.4915,118.477,373.65,0.595,4.157,10
+Dompu,pekat,-8.3211,117.9155,468.096,0.627,4.789,10
+Dompu,woja,-8.5318,118.398,232.791,0.623,3.868,10
+Donggala,sindue,-0.5654,119.8513,419.997,0.714,4.838,8
+Flores Timur,ileboleng,-8.3647,123.2695,248.121,0.467,8.828,8
+Garut,singajaya,-7.4781,107.9175,770.317,0.554,5.651,10
+Gayo Lues,pining,4.0021,97.6741,1179.101,0.624,9.032,10
+Gayo Lues,terangun,4.049,96.9169,1065.217,0.79,9.61,10
+Gresik,benjeng,-7.2426,112.4899,14.727,0.677,0.094,10
+Grobogan,geyer,-7.2303,110.9365,93.926,0.554,0.695,8
+Grobogan,purwodadi,-7.0985,110.9155,29.777,0.59,0.091,10
+Grobogan,tawangharjo,-7.044,111.0091,107.002,0.572,1.314,8
+Halmahera Utara,galelabarat,1.837,127.7804,68.08,0.721,1.534,10
+Halmahera Utara,kaobarat,1.3337,127.794,201.567,0.682,2.353,8
+Hulu Sungai Selatan,angkinang,-2.7185,115.2728,10.804,0.465,0.093,10
+Hulu Sungai Selatan,kalumpang,-2.798,115.127,5.907,0.627,0.035,10
+Hulu Sungai Selatan,kandangan,-2.7261,115.2228,10.585,0.608,0.067,10
+Hulu Sungai Selatan,loksado,-2.8063,115.4813,438.653,0.531,5.504,8
+Hulu Sungai Selatan,padangbatung,-2.8512,115.3216,103.768,0.548,1.587,10
+Hulu Sungai Selatan,simpur,-2.768,115.1898,9.401,0.623,0.079,10
+Hulu Sungai Tengah,barabai,-2.5795,115.3881,18.677,0.492,0.091,8
+Hulu Sungai Tengah,batubenawa,-2.6172,115.4369,47.701,0.53,0.841,8
+Hulu Sungai Tengah,hantakan,-2.6822,115.4925,291.777,0.544,4.133,10
+Hulu Sungai Tengah,pandawan,-2.5516,115.3227,10.76,0.495,0.095,10
+Hulu Sungai Utara,amuntaitengah,-2.4789,115.2645,8.62,0.513,0.059,8
+Hulu Sungai Utara,haurgading,-2.3714,115.2335,10.865,0.415,0.067,8
+Indragiri Hilir,gaung,-0.054,102.9898,20.76,0.452,0.138,8
+Indramayu,bangodua,-6.517,108.2788,13.161,0.238,0.1,10
+Indramayu,indramayu,-6.3462,108.3397,2.81,0.186,0.07,10
+Indramayu,losarang,-6.371,108.1749,2.832,0.187,0.054,10
+Indramayu,pasekan,-6.2744,108.3045,0.379,0.172,0.059,10
+Indramayu,sindang,-6.332,108.2974,2.603,0.335,0.065,10
+Indramayu,widasari,-6.4666,108.2733,8.629,0.239,0.072,2
+Jember,ambulu,-8.3813,113.6069,40.067,0.58,1.488,8
+Jember,jelbuk,-8.0538,113.724,688.221,0.599,6.022,10
+Jember,kalisat,-8.123,113.8069,242.51,0.763,1.261,8
+Jember,kaliwates,-8.1847,113.6761,85.842,0.545,0.68,0
+Jember,pakusari,-8.1574,113.7695,159.671,0.746,0.783,8
+Jember,patrang,-8.1354,113.6998,181.003,0.676,1.885,10
+Jember,rambipuji,-8.2315,113.597,48.56,0.613,0.339,10
+Jember,sumbersari,-8.178,113.728,110.63,0.602,0.57,8
+Jember,tempurejo,-8.4118,113.7639,283.529,0.711,5.311,10
+Jepara,welahan,-6.7651,110.7074,6.837,0.444,0.109,10
+Jombang,kesamben,-7.4693,112.3286,27.032,0.492,0.069,10
+Jombang,mojoagung,-7.5897,112.3611,102.88,0.67,1.352,10
+Jombang,peterongan,-7.5147,112.276,31.725,0.495,0.099,10
+Kampar,kampar,0.2792,101.1267,73.204,0.505,0.621,8
+Kampar,tambang,0.3727,101.308,28.722,0.443,0.215,8
+Karangasem,sidemen,-8.4832,115.4394,332.098,0.62,3.966,8
+Kendal,brangsong,-6.9568,110.2214,16.64,0.584,0.589,10
+Kendal,gemuh,-6.9976,110.1171,43.384,0.691,0.839,8
+Kendal,limbangan,-7.1642,110.2871,615.943,0.557,5.979,10
+Kendal,ngampel,-6.9885,110.1846,32.408,0.705,0.632,10
+Kendal,patebon,-6.8953,110.1833,6.191,0.52,0.101,2
+Kendal,rowosari,-6.9249,110.065,6.456,0.618,0.108,10
+Kepulauan Anambas,jemaja,3.0082,105.7039,84.43,0.391,3.443,10
+Kepulauan Anambas,palmatak,3.3364,106.2657,71.138,0.301,2.668,10
+Kepulauan Anambas,siantan,3.2058,106.2376,185.43,0.306,5.258,10
+Kepulauan Anambas,siantantimur,3.137,106.3433,72.247,0.421,2.405,10
+Kepulauan Sangihe,kendahe,3.7066,125.4262,409.506,0.707,10.245,10
+Kepulauan Sangihe,tahuna,3.625,125.4836,125.629,0.655,4.949,8
+Ketapang,benuakayong,-1.7733,110.2128,16.956,0.539,0.167,8
+Klaten,gantiwarno,-7.7773,110.5595,135.803,0.593,0.992,2
+Klaten,klatenselatan,-7.7199,110.5879,159.69,0.517,0.551,8
+Kolaka Utara,lambai,-3.5818,121.0507,959.249,0.51,10.702,10
+Kolaka Utara,ranteangin,-3.6132,121.0704,559.664,0.677,9.419,10
+Kolaka Utara,wawo,-3.6496,121.1441,1002.903,0.659,9.261,10
+Kota Bima,raba,-8.4575,118.8035,273.131,0.706,3.557,10
+Kota Bima,rasanaetimur,-8.4886,118.8222,296.625,0.706,3.954,8
+Kota Malang,klojen,-7.9745,112.626,462.274,0.313,0.712,10
+Kota Malang,sukun,-7.9931,112.611,457.936,0.439,0.935,10
+Kota Pasuruan,purworejo,-7.6583,112.8984,12.46,0.418,0.157,10
+Kota Semarang,ngaliyan,-7.0001,110.3272,94.078,0.485,1.886,10
+Kota Semarang,tembalang,-7.0485,110.461,86.563,0.455,1.856,8
+Kota Semarang,tugu,-6.9619,110.3299,3.984,0.321,0.328,6
+Kota Solok,lubuksikarah,-0.795,100.6108,757.448,0.457,5.064,10
+Kota Solok,tanjungharapan,-0.7626,100.6609,468.032,0.503,2.38,8
+Kudus,kaliwungu,-6.79,110.7943,15.485,0.455,0.301,10
+Kudus,undaan,-6.9069,110.8267,8.61,0.525,0.114,2
+Kupang,kupangtengah,-10.1434,123.7249,66.218,0.623,1.257,10
+Lamongan,babat,-7.109,112.2144,14.149,0.483,0.266,2
+Lamongan,deket,-7.0994,112.4549,5.69,0.21,0.02,2
+Lamongan,glagah,-7.0738,112.5044,5.358,0.218,0.045,10
+Lamongan,kalitengah,-7.0198,112.394,5.45,0.312,0.031,10
+Lamongan,karangbinangun,-7.0324,112.4607,5.483,0.31,0.032,2
+Lamongan,kedungpring,-7.1858,112.2037,37.711,0.61,0.464,10
+Lamongan,kembangbahu,-7.2037,112.3611,32.325,0.694,0.347,10
+Lamongan,lamongan,-7.1256,112.393,6.816,0.344,0.049,10
+Lamongan,laren,-6.9743,112.271,16.831,0.426,0.305,10
+Lamongan,modo,-7.2189,112.138,47.933,0.672,0.619,10
+Lamongan,pucuk,-7.0928,112.2928,9.143,0.486,0.131,10
+Lamongan,sekaran,-7.0521,112.2668,6.867,0.373,0.038,10
+Lamongan,sugio,-7.1811,112.2745,36.245,0.706,0.399,10
+Lamongan,sukodadi,-7.1147,112.3369,8.43,0.456,0.072,10
+Lamongan,tikung,-7.1887,112.4122,21.738,0.73,0.249,10
+Lamongan,turi,-7.0712,112.3863,5.85,0.235,0.026,10
+Landak,airbesar,0.8263,110.0506,355.62,0.655,4.055,10
+Landak,kualabehe,0.6325,109.9521,98.334,0.659,1.052,10
+Landak,mandor,0.3224,109.4022,40.544,0.555,0.788,8
+Landak,meranti,0.7385,109.7419,106.642,0.623,0.871,10
+Landak,sengahtemila,0.3461,109.6893,72.285,0.628,1.542,8
+Lingga,lingga,-0.2067,104.6142,116.303,0.486,3.472,10
+Lingga,singkep,-0.523,104.4817,38.71,0.586,1.001,10
+Lombok Barat,lembar,-8.7457,116.0947,140.177,0.448,3.07,10
+Lombok Tengah,jonggat,-8.6711,116.2211,114.003,0.624,0.953,10
+Lombok Tengah,prayabarat,-8.8183,116.2099,104.002,0.541,1.638,10
+Lombok Tengah,prayatimur,-8.7873,116.3807,103.296,0.455,0.655,2
+Lombok Tengah,pujut,-8.8512,116.3103,86.638,0.527,1.2,10
+Lombok Timur,sambelia,-8.3466,116.6209,475.242,0.52,7.547,10
+Luwu Utara,malangke,-2.7514,120.4383,10.863,0.591,0.084,10
+Majalengka,cikijing,-7.0055,108.366,740.514,0.554,4.13,10
+Majalengka,kertajati,-6.6427,108.1311,42.045,0.643,0.19,10
+Malinau,malinaubarat,3.3653,116.6491,149.907,0.663,1.855,8
+Malinau,malinaukota,3.5611,116.6816,23.659,0.544,0.549,8
+Minahasa,pineleng,1.4071,124.7872,435.426,0.604,6.647,8
+Minahasa,tombariri,1.3684,124.674,244.742,0.733,4.381,8
+Minahasa,tombulu,1.4022,124.8867,398.42,0.554,5.319,10
+Minahasa Utara,kalawat,1.451,124.9291,124.542,0.689,1.53,8
+Nagekeo,aesesa,-8.5682,121.2624,261.786,0.611,4.065,8
+Ngada,soa,-8.7035,121.0669,406.657,0.773,2.213,8
+Nganjuk,loceret,-7.6978,111.8851,249.837,0.631,2.46,8
+Nganjuk,pace,-7.6849,111.9232,88.669,0.645,0.925,10
+Nunukan,sembakung,3.7898,117.1722,29.676,0.527,0.306,10
+Ogan Komering Ulu Selatan,sindangdanau,-4.4498,103.5445,1247.902,0.803,7.634,10
+Pamekasan,pamekasan,-7.1577,113.4737,26.149,0.581,0.402,10
+Pamekasan,pegantenan,-7.0396,113.477,184.369,0.667,2.097,10
+Pandeglang,carita,-6.2794,105.8618,199.555,0.612,4.468,10
+Pandeglang,labuan,-6.3706,105.8363,17.762,0.583,0.504,10
+Pandeglang,patia,-6.4796,105.8776,14.19,0.717,0.225,10
+Pasuruan,tosari,-7.8996,112.9038,1776.863,0.346,7.56,8
+Pekalongan,kedungwuni,-6.9651,109.6506,19.137,0.345,0.244,8
+Pekalongan,siwalan,-6.8894,109.5874,6.081,0.3,0.063,10
+Pekalongan,tirto,-6.9009,109.637,7.867,0.236,0.076,10
+Penajam Paser Utara,sepaku,-0.9455,116.7166,112.356,0.66,1.472,10
+Pesisir Selatan,lengayang,-1.5744,100.8304,662.353,0.74,6.473,10
+Pidie,delima,5.3369,95.8997,18.106,0.597,0.262,2
+Pidie,glumpangbaro,5.28,96.0305,13.313,0.631,0.189,10
+Pidie,indrajaya,5.3122,95.9357,22.279,0.645,0.209,10
+Pidie,mila,5.2849,95.8858,62.595,0.67,1.047,8
+Pidie,padangtiji,5.3536,95.8174,162.129,0.613,2.874,8
+Pidie,pidie,5.3746,95.9363,8.333,0.415,0.172,10
+Polewali Mandar,tapango,-3.3122,119.2533,257.02,0.61,5.188,8
+Poso,pamonatimur,-1.8691,120.794,773.229,0.708,3.644,10
+Purworejo,bagelen,-7.8113,110.0401,126.676,0.778,2.872,8
+Purworejo,purwodadi,-7.8347,109.9991,16.415,0.665,0.256,10
+Rembang,sarang,-6.7712,111.6331,37.1,0.551,0.616,10
+Rote Ndao,rotetimur,-10.5742,123.3426,38.198,0.587,1.228,10
+Sanggau,bonti,0.4614,110.5899,95.838,0.643,1.555,10
+Sanggau,parindu,0.2178,110.4281,49.992,0.649,0.401,8
+Serang,cinangka,-6.18,105.8865,119.68,0.632,2.324,10
+Serang,padarincang,-6.2076,105.9684,186.162,0.521,2.897,8
+Serang,pontang,-6.0313,106.2642,3.261,0.361,0.042,10
+Serang,tanara,-6.0196,106.3648,3.107,0.157,0.05,10
+Seluma,selumabarat,-4.0505,102.4994,34.74,0.842,0.551,10
+Serang,bojonegara,-5.9608,106.0738,102.798,0.398,2.293,10
+Serang,cikande,-6.1913,106.3541,17.595,0.33,0.161,10
+Serang,kopo,-6.2851,106.3766,25.577,0.379,0.195,8
+Serang,kramatwatu,-6.0399,106.113,15.027,0.312,0.574,2
+Sidenreng Rappang,baranti,-3.8355,119.7751,21.592,0.65,0.168,10
+Sidenreng Rappang,maritengngae,-3.925,119.8021,23.323,0.643,0.271,10
+Sidenreng Rappang,watangpulu,-3.9494,119.7346,126.033,0.704,2.054,10
+Sidoarjo,tanggulangin,-7.5071,112.7227,3.907,0.371,0.056,2
+Sijunjung,sijunjung,-0.6151,101.0583,393.312,0.491,5.241,10
+Sijunjung,sumpurkudus,-0.4352,100.9322,510.361,0.406,5.531,8
+Sijunjung,tanjunggadang,-0.8509,101.1378,528.145,0.428,4.869,8
+Subang,blanakan,-6.2638,107.6654,2.855,0.251,0.068,10
+Subang,pusakajaya,-6.3112,107.8924,9.019,0.352,0.071,10
+Sukabumi,ciracap,-7.3223,106.4689,82.175,0.595,1.107,8
+Sumbawa,labuhanbadas,-8.2856,117.5148,169.332,0.789,3.257,10
+Sumbawa,tarano,-8.7429,118.1481,210.312,0.679,4.012,10
+Tanah Datar,sungaitarab,-0.4021,100.5398,1017.03,0.391,6.706,8
+Tanggamus,semaka,-5.4899,104.4655,275.773,0.698,5.769,10
+Tapanuli Tengah,andamdewi,2.0681,98.3943,106.965,0.801,3.282,8
+Tapanuli Tengah,barus,2.0246,98.4114,18.613,0.754,0.759,8
+Tapanuli Tengah,pasaributobing,1.9857,98.6188,242.345,0.852,6.495,8
+Tapanuli Tengah,sarudik,1.7375,98.841,317.217,0.823,6.515,8
+Tapanuli Tengah,sitahuis,1.8051,98.8239,510.46,0.859,4.816,8
+Tapanuli Tengah,sorkam,1.9245,98.6664,173.382,0.849,3.118,10
+Tegal,adiwerna,-6.9363,109.1101,17.414,0.523,0.196,10
+Tegal,lebaksiu,-7.0313,109.1263,98.806,0.531,1.311,10
+Tegal,slawi,-6.9865,109.1336,42.454,0.424,0.285,10
+Tegal,suradadi,-6.9098,109.257,13.617,0.381,0.198,10
+Tegal,warureja,-6.917,109.3163,16.996,0.398,0.278,10
+Agam,banuhampu,-0.3487,100.374,1168.046,0.467,6.2,10
+Agam,canduang,-0.337,100.453,1400.837,0.535,9.664,10
+Balangan,halong,-2.2262,115.7404,329.83,0.842,3.938,10
+Balangan,juai,-2.2746,115.6043,58.767,0.771,0.516,10
+Balangan,lampihong,-2.3631,115.3801,18.966,0.791,0.147,8
+Balangan,paringin,-2.2775,115.5006,40.961,0.616,0.41,8
+Balangan,paringinselatan,-2.3491,115.5057,39.9,0.808,0.343,10
+Bandung,cicalengka,-6.9866,107.8608,897.439,0.592,4.231,10
+Bandung,cileunyi,-6.9328,107.7391,789.53,0.457,3.282,10
+Bandung Barat,padalarang,-6.8409,107.4746,696.983,0.485,2.396,8
+Bangkalan,sepulu,-6.9271,112.9686,62.094,0.707,1.081,8
+Bangli,kintamani,-8.2438,115.3395,1139.949,0.555,5.408,10
+Banjar,gambut,-3.4211,114.6801,8.327,0.561,0.068,8
+Banjar,martapura,-3.4005,114.8693,10.499,0.554,0.182,8
+Banjar,martapurabarat,-3.3267,114.8096,6.999,0.548,0.057,10
+Banjar,martapuratimur,-3.359,114.8688,7.48,0.605,0.065,10
+Banyumas,lumbir,-7.4656,108.9754,148.458,0.842,3.235,10
+Barito Utara,gunungpurei,-1.1925,115.6109,227.612,0.786,2.543,10
+Barito Utara,gunungtimang,-1.2391,115.1967,103.053,0.863,0.717,8
+Barito Utara,tewehtimur,-1.0208,115.3625,109.823,0.847,0.819,10
+Belitung,tanjungpandan,-2.7576,107.6953,24.18,0.493,0.394,10
+Berau,telukbayur,2.0244,117.2917,51.096,0.585,0.807,8
+Bima,monta,-8.718,118.674,177.94,0.742,5.552,10
+Bima,palibelo,-8.5368,118.7331,103.354,0.73,3.578,10
+Bima,sape,-8.5222,119.0104,227.449,0.722,4.435,10
+Blora,banjarejo,-7.0492,111.373,108.715,0.726,0.786,10
+Blora,kunduran,-7.0668,111.252,75.782,0.728,0.363,10
+Bogor,kelapanunggal,-6.4832,106.9552,203.856,0.461,3.061,8
+Bojonegoro,baureno,-7.1227,112.0998,16.373,0.635,0.219,2
+Bojonegoro,dander,-7.233,111.8433,55.645,0.698,0.517,10
+Brebes,banjarharjo,-7.0224,108.8131,102.021,0.66,2.141,10
+Brebes,losari,-6.8666,108.8166,8.801,0.524,0.115,10
+Brebes,tanjung,-6.874,108.8626,5.597,0.51,0.064,10
+Bungo,jujuhan,-1.3106,101.7718,112.573,0.576,0.581,10
+Ciamis,pamarican,-7.456,108.5144,164.336,0.744,2.971,8
+Ciamis,panumbangan,-7.1356,108.2247,696.776,0.724,6.375,10
+Cirebon,arjawinangun,-6.6416,108.4084,11.545,0.455,0.147,10
+Cirebon,gegesik,-6.5743,108.4297,5.347,0.263,0.065,10
+Cirebon,gunungjati,-6.6656,108.5356,4.284,0.305,0.11,10
+Cirebon,kedawung,-6.7164,108.5333,13.01,0.361,0.289,0
+Cirebon,pasaleman,-6.954,108.7367,48.413,0.7,0.853,10
+Cirebon,talun,-6.7684,108.5093,92.586,0.584,1.776,8
+Cirebon,tengahtani,-6.6999,108.5238,11.857,0.41,0.234,10
+Cirebon,waled,-6.9098,108.6854,36.659,0.65,0.835,2
+Garut,cisurupan,-7.3052,107.7665,1588.148,0.491,7.967,8
+Gresik,bungah,-7.0255,112.5895,6.761,0.391,0.192,10
+Gresik,driyorejo,-7.345,112.608,20.52,0.513,0.304,10
+Gresik,manyar,-7.0981,112.5917,4.75,0.297,0.116,10
+Grobogan,gabus,-7.1868,111.1935,111.393,0.726,0.69,8
+Grobogan,pulokulon,-7.1672,111.0544,70.489,0.667,0.469,8
+Hulu Sungai Utara,amuntaiselatan,-2.3691,115.1593,10.528,0.763,0.108,10
+Hulu Sungai Utara,amuntaiutara,-2.3757,115.2936,13.348,0.695,0.096,10
+Hulu Sungai Utara,babirik,-2.5135,115.1223,6.979,0.766,0.029,10
+Hulu Sungai Utara,banjang,-2.446,115.3327,12.109,0.784,0.118,8
+Hulu Sungai Utara,sungaipandan,-2.4999,115.1991,7.532,0.664,0.051,10
+Hulu Sungai Utara,sungaitabukan,-2.445,115.1801,7.459,0.709,0.047,10
+Jember,sukorambi,-8.1169,113.6617,352.343,0.795,3.068,10
+Jepara,kembang,-6.5013,110.809,213.397,0.63,2.332,10
+Jombang,mojowarno,-7.6204,112.3121,62.217,0.747,0.579,10
+Kampar,salo,0.3018,101.0064,85.002,0.608,0.758,10
+Karangasem,bebandem,-8.406,115.542,790.408,0.701,8.182,8
+Karawang,ciampel,-6.43,107.3329,63.07,0.53,1.106,10
+Karawang,jayakerta,-6.105,107.2975,5.291,0.198,0.08,10
+Karawang,karawangbarat,-6.273,107.296,11.181,0.34,0.08,10
+Karawang,karawangtimur,-6.2998,107.3332,13.183,0.288,0.081,10
+Karawang,pangkalan,-6.4634,107.2281,80.878,0.63,1.096,8
+Karawang,rawamerta,-6.2344,107.3519,7.252,0.27,0.05,10
+Karawang,rengasdengklok,-6.1762,107.3016,7.761,0.326,0.079,10
+Karawang,tegalwaru,-6.522,107.243,272.577,0.62,4.904,8
+Karawang,tirtamulya,-6.3408,107.4625,19.189,0.44,0.123,10
+Kendal,pegandon,-7.0014,110.1593,38.193,0.685,0.637,10
+Ketapang,manismata,-2.4545,111.0066,26.706,0.667,0.319,8
+Ketapang,muarapawan,-1.7307,110.1045,15.352,0.692,0.186,10
+Kota Bandung,arcamanik,-6.9203,107.6771,683.6,0.331,0.666,0
+Kota Bandung,buahbatu,-6.9502,107.6561,675.008,0.254,0.202,10
+Kota Bandung,sukajadi,-6.8882,107.5902,781.41,0.312,1.893,0
+Kota Bima,rasanaebarat,-8.4679,118.721,39.215,0.505,2.802,8
+Kota Cirebon,kesambi,-6.7332,108.5422,14.638,0.372,0.34,10
+Kota Cirebon,lemahwungkuk,-6.7319,108.576,4.18,0.23,0.119,10
+Kota Madiun,kartoharjo,-7.6171,111.5422,66.701,0.591,0.151,10
+Kota Madiun,taman,-7.6471,111.5274,75.081,0.484,0.182,10
+Kota Semarang,pedurungan,-7.0022,110.474,14.783,0.35,0.238,10
+Kotawaringin Barat,arutselatan,-2.5327,111.6072,27.913,0.618,0.367,10
+Kotawaringin Barat,pangkalanbanteng,-2.4538,111.929,26.498,0.668,0.232,10
+Kuningan,cibingbin,-7.0548,108.7571,143.152,0.677,3.456,10
+Kuningan,cimahi,-7.0006,108.6986,102.299,0.665,1.829,8
+Kuningan,ciwaru,-7.0865,108.6318,309.668,0.7,4.745,10
+Kuningan,hantara,-7.0644,108.4538,522.423,0.606,6.22,8
+Landak,jelimpo,0.3779,110.1007,85.367,0.616,1.448,8
+Lima Puluh Kota,luak,-0.2689,100.6787,770.779,0.584,5.396,8
+Madiun,balerejo,-7.5385,111.5952,62.222,0.732,0.11,10
+Madiun,pilangkenceng,-7.4743,111.6623,96.195,0.74,0.47,10
+Magelang,bandongan,-7.4619,110.1809,477.967,0.694,3.215,10
+Malang,pakisaji,-8.0568,112.5976,403.874,0.664,0.857,10
+Manokwari,manokwaribarat,-0.8463,134.0429,105.244,0.746,2.73,10
+Manokwari,manokwariselatan,-0.9767,134.0094,293.019,0.736,5.784,10
+Mojokerto,gondang,-7.6768,112.4825,814.272,0.535,7.06,8
+Mojokerto,mojoanyar,-7.4751,112.481,22.131,0.488,0.125,10
+Mojokerto,ngoro,-7.5656,112.62,176.338,0.604,4.655,10
+Mojokerto,pacet,-7.6708,112.5432,894.993,0.442,8.167,10
+Mojokerto,pungging,-7.5365,112.5713,68.271,0.599,1.033,2
+Muara Enim,gunungmegang,-3.5183,103.8991,50.172,0.502,0.342,10
+Muara Enim,muaraenim,-3.665,103.806,67.943,0.519,0.6,10
+Muaro Jambi,kumpeh,-1.5378,104.0535,20.789,0.518,0.138,8
+Musi Rawas,muaralakitan,-3.1448,103.419,60.792,0.526,0.269,8
+Natuna,bungurantimur,3.9064,108.3433,84.878,0.628,3.03,10
+Ngawi,karangjati,-7.4527,111.6071,89.941,0.713,0.42,10
+Ngawi,pangkur,-7.4979,111.5401,57.518,0.689,0.124,10
+Nunukan,nunukan,4.1044,117.3974,71.153,0.764,1.126,10
+Ogan Komering Ulu,lubukbatang,-3.9616,104.1671,78.539,0.575,0.372,10
+Ogan Komering Ulu Timur,cempaka,-3.7524,104.7134,33.268,0.566,0.204,8
+Siak,sungaiapit,0.797,102.4194,23.69,0.584,0.211,8
+Sidoarjo,candi,-7.4835,112.7301,3.575,0.393,0.044,10
+Sidoarjo,porong,-7.5287,112.7058,5.929,0.413,0.069,10
+Sikka,waigete,-8.6395,122.4492,394.433,0.538,7.747,8
+Situbondo,asembagus,-7.8635,114.2119,413.749,0.644,2.993,8
+Situbondo,besuki,-7.7545,113.7023,35.998,0.519,1.052,8
+Situbondo,jangkar,-7.7726,114.1694,92.323,0.726,1.15,10
+Solok,bukitsundi,-0.8826,100.7235,740.323,0.518,4.809,10
+Solok,kubung,-0.8191,100.6064,842.092,0.534,5.673,8
+Solok Selatan,sungaipagu,-1.4704,101.0808,807.883,0.634,7.428,8
+Sragen,gemolong,-7.3958,110.841,143.578,0.699,0.563,2
+Sragen,mondokan,-7.3191,110.9297,113.659,0.662,0.509,8
+Sragen,sidoharjo,-7.4222,110.9676,82.804,0.688,0.218,10
+Sragen,sukodono,-7.3251,110.9753,104.369,0.672,0.407,10
+Subang,pagaden,-6.4807,107.8003,44.342,0.408,0.253,10
+Subang,pamanukan,-6.2915,107.8225,6.815,0.24,0.082,10
+Sumba Timur,kambera,-9.7043,120.2721,70.692,0.608,1.827,10
+Sumbawa,lape,-8.5751,117.6484,70.635,0.644,2.325,10
+Sumbawa,lopok,-8.6461,117.5496,137.361,0.666,3.167,10
+Sumbawa,maronge,-8.7216,117.6663,291.575,0.695,4.969,10
+Sumbawa,moyoutara,-8.4444,117.4911,46.65,0.563,1.716,10
+Sumbawa,rhee,-8.4946,117.2331,386.808,0.642,5.502,8
+Sumbawa,sumbawa,-8.4738,117.4302,44.847,0.582,1.273,10
+Sumbawa Barat,maluk,-8.9081,116.7656,111.94,0.497,4.224,10
+Sumbawa Barat,seteluk,-8.6402,116.8743,171.657,0.756,4.843,8
+Tabalong,haruai,-2.0247,115.5289,62.298,0.533,0.62,8
+Tabalong,jaro,-1.7938,115.662,327.16,0.558,4.893,10
+Tabalong,muarauya,-1.6469,115.5367,270.367,0.578,3.276,10
+Tanah Laut,batuampar,-3.8373,114.9217,148.715,0.528,3.067,8
+Tanah Laut,bumimakmur,-3.5506,114.6289,5.232,0.236,0.037,10
+Tanah Laut,jorong,-3.9358,114.9739,39.639,0.561,0.633,10
+Tanah Laut,kintap,-3.7682,115.2176,75.082,0.623,1.358,8
+Tanah Laut,kurau,-3.6315,114.6491,6.834,0.295,0.116,10
+Tanah Laut,panyipatan,-4.0513,114.7069,18.345,0.465,0.59,10
+Tanah Laut,pelaihari,-3.7854,114.7486,31.446,0.407,0.787,8
+Tanah Laut,takisung,-3.8571,114.6468,9.184,0.452,0.218,8
+Tanah Laut,tambangulang,-3.6541,114.766,36.961,0.407,0.768,10
+Tapin,bakarangan,-2.8802,115.115,6.282,0.571,0.051,10
+Tapin,binuang,-3.1214,115.067,26.831,0.346,0.451,8
+Tuban,kerek,-6.8885,111.8543,117.788,0.543,1.559,8
+Tuban,merakurak,-6.8808,111.9587,55.533,0.591,1.017,10
+Tuban,parengan,-7.0621,111.853,101.872,0.605,1.446,10
+Tuban,plumpang,-7.0421,112.1086,27.206,0.556,0.548,10
+Tuban,semanding,-6.9543,112.0548,88.314,0.602,1.388,10
+Tuban,widang,-7.0328,112.1748,15.8,0.339,0.319,10
+Wajo,belawa,-3.9957,119.9527,14.538,0.414,0.114,10
+Wajo,tempe,-4.135,120.0434,22.414,0.509,0.631,8
+Wonogiri,paranggupito,-8.1701,110.8642,206.104,0.488,2.142,8
+Aceh Besar,mesjidraya,5.5863,95.5183,114.915,0.689,3.831,8
+Alor,alortimur,-8.2456,125.0095,576.473,0.583,7.465,10
+Badung,mengwi,-8.5633,115.1703,126.507,0.692,0.702,8
+Balangan,awayan,-2.4057,115.5538,55.89,0.68,0.606,8
+Balangan,batumandi,-2.4209,115.4589,38.788,0.644,0.421,10
+Belu,kakulukmesak,-9.0417,124.8606,189.349,0.62,3.615,10
+Bengkayang,ledo,1.0062,109.5898,80.65,0.672,1.633,8
+Bengkayang,sanggauledo,1.1441,109.6154,27.684,0.655,0.298,8
+Bima,belo,-8.6176,118.7373,169.724,0.796,4.799,8
+Bima,woha,-8.6042,118.6467,189.472,0.693,4.685,10
+Boalemo,mananggu,0.6915,122.1458,439.487,0.764,4.704,10
+Brebes,sirampog,-7.231,109.0895,1060.633,0.641,6.94,10
+Buleleng,tejakula,-8.1425,115.3374,380.221,0.664,8.905,8
+Cirebon,gebang,-6.8294,108.7331,5.429,0.314,0.102,10
+Demak,karanganyar,-6.847,110.7738,5.984,0.393,0.05,10
+Flores Timur,adonara,-8.2609,123.1935,170.114,0.661,3.657,10
+Garut,banjarwangi,-7.4056,107.8825,1093.673,0.646,6.612,8
+Gayo Lues,blangkejeren,3.9319,97.3682,1296.347,0.781,7.01,10
+Halmahera Barat,ibu,1.4862,127.5917,301.975,0.64,5.565,10
+Halmahera Barat,jailolo,1.0614,127.5246,268.549,0.719,4.771,10
+Halmahera Barat,jailoloselatan,0.8724,127.5999,166.395,0.684,3.533,10
+Halmahera Barat,loloda,1.7442,127.6558,231.154,0.701,4.002,10
+Halmahera Barat,sahu,1.2097,127.4517,357.761,0.656,7.707,8
+Indramayu,cikedung,-6.5371,108.1749,24.269,0.606,0.167,10
+Indramayu,gantar,-6.5463,107.9499,46.837,0.61,0.319,10
+Indramayu,haurgeulis,-6.4464,107.9375,23.172,0.531,0.1,10
+Indramayu,kandanghaur,-6.3562,108.0926,2.818,0.146,0.051,10
+Indramayu,kroya,-6.4999,108.041,27.017,0.622,0.145,10
+Indramayu,lelea,-6.4611,108.2255,8.028,0.563,0.08,10
+Indramayu,terisi,-6.5606,108.0673,52.46,0.644,0.495,10
+Jember,bangsalsari,-8.1498,113.5517,411.342,0.784,3.726,10
+Jember,wuluhan,-8.357,113.5384,74.684,0.772,2.769,8
+Jepara,mayong,-6.7031,110.7736,133.668,0.436,1.843,10
+Jepara,nalumsari,-6.7244,110.8016,138.559,0.475,1.947,10
+Jepara,pecangan,-6.696,110.702,24.248,0.444,0.56,8
+Jombang,bareng,-7.6909,112.3144,164.293,0.609,2.083,8
+Karawang,batujaya,-6.0511,107.1953,2.773,0.095,0.054,10
+Karawang,klari,-6.3951,107.3803,32.4,0.402,0.308,10
+Karawang,kotabaru,-6.3964,107.4874,40.582,0.345,0.35,10
+Karawang,pakisjaya,-6.0053,107.1256,2.347,0.094,0.054,10
+Kebumen,padureso,-7.6325,109.7873,139.046,0.655,2.836,8
+Kebumen,prembun,-7.7029,109.7974,20.004,0.613,0.547,8
+Keerom,arso,-2.976,140.652,283.357,0.66,1.998,8
+Kendal,cepiring,-6.9087,110.1526,8.435,0.556,0.105,10
+Kendal,kangkung,-6.9124,110.1174,7.054,0.56,0.118,2
+Kendal,pageruyung,-7.0323,110.0374,329.525,0.683,3.802,10
+Kendal,ringinarum,-6.9936,110.1066,25.696,0.488,0.518,10
+Klaten,kalikotes,-7.7261,110.6241,138.513,0.62,0.444,10
+Klaten,wedi,-7.7717,110.6002,129.145,0.619,0.548,10
+Kolaka Utara,katoi,-3.4545,120.9785,1048.565,0.599,10.731,8
+Kolaka Utara,kodeoha,-3.4091,121.0049,968.221,0.525,10.708,8
+Kota Pekalongan,pekalonganselatan,-6.9192,109.6743,10.815,0.532,0.14,10
+Kota Semarang,candisari,-7.0159,110.4277,75.164,0.413,2.036,10
+Kota Semarang,gayamsari,-6.9797,110.4467,7.277,0.259,0.141,10
+Kota Semarang,genuk,-6.9634,110.4769,6.226,0.332,0.122,10
+Kota Semarang,semarangbarat,-6.9788,110.3843,13.186,0.335,0.46,10
+Kota Semarang,semarangtimur,-6.9727,110.4371,7.597,0.251,0.102,10
+Kota Semarang,semarangutara,-6.9582,110.4173,4.72,0.191,0.118,10
+Kota Serang,cipocokjaya,-6.1448,106.1692,43.475,0.399,0.476,8
+Kota Serang,kasemen,-6.0585,106.1851,7.1,0.503,0.113,10
+Kota Serang,serang,-6.1117,106.164,25.382,0.355,0.264,10
+Kota Serang,taktakan,-6.1311,106.1076,99.867,0.51,1.431,8
+Kota Serang,walantaka,-6.1496,106.2225,26.51,0.434,0.239,8
+Kota Tegal,tegalselatan,-6.8865,109.1223,8.126,0.34,0.172,10
+Kupang,amarasi,-10.2166,123.8824,318.948,0.713,3.333,8
+Lombok Tengah,praya,-8.6794,116.284,185.732,0.723,1.38,8
+Lombok Timur,labuhanhaji,-8.6522,116.5832,41.53,0.664,1.12,8
+Lombok Timur,pringgabaya,-8.5091,116.637,210.111,0.585,3.718,8
+Lumajang,kedungjajang,-8.0396,113.2235,161.76,0.814,2.414,8
+Lumajang,lumajang,-8.1346,113.2351,48.114,0.629,0.292,10
+Lumajang,sukodono,-8.106,113.2358,45.332,0.649,0.224,10
+Lumajang,tekung,-8.1767,113.2584,32.66,0.729,0.274,10
+Madiun,gemarang,-7.6428,111.74,299.704,0.69,1.802,10
+Madiun,saradan,-7.5168,111.7549,159.42,0.639,1.398,8
+Majalengka,jatitujuh,-6.6253,108.2301,25.169,0.489,0.178,10
+Majalengka,kadipaten,-6.7594,108.1759,42.821,0.671,0.233,10
+Majalengka,ligung,-6.6625,108.2853,25.485,0.573,0.139,2
+Nganjuk,bagor,-7.5853,111.85,82.78,0.601,0.486,10
+Nganjuk,berbek,-7.6518,111.8438,140.382,0.689,1.314,10
+Nganjuk,prambon,-7.7032,112.0086,56.735,0.66,0.087,10
+Pasuruan,bangil,-7.5862,112.8102,4.955,0.477,0.196,10
+Pasuruan,gempol,-7.5949,112.6811,125.189,0.604,3.092,8
+Pasuruan,pandaan,-7.6498,112.7068,157.754,0.586,1.568,8
+Pasuruan,prigen,-7.7077,112.6402,1007.139,0.457,9.818,8
+Pasuruan,purwosari,-7.7614,112.7264,343.511,0.644,2.751,8
+Pasuruan,sukorejo,-7.6938,112.7303,189.938,0.681,1.634,8
+Pati,jakenan,-6.7638,111.1305,11.881,0.531,0.132,10
+Pati,juwana,-6.7045,111.1438,4.573,0.408,0.081,10
+Pekalongan,wiradesa,-6.9062,109.6127,8.51,0.611,0.084,10
+Pekalongan,wonokerto,-6.8635,109.6251,3.932,0.325,0.079,10
+Ponorogo,babadan,-7.8162,111.4771,115.352,0.595,0.382,2
+Probolinggo,dringu,-7.7879,113.2552,20.051,0.538,0.305,10
+Pulang Pisau,maliku,-2.9541,114.1622,7.764,0.709,0.056,8
+Pulang Pisau,sebangaukuala,-2.8351,113.8377,17.389,0.726,0.125,10
+Purworejo,pituruh,-7.6414,109.8365,188.413,0.621,2.85,10
+Rejang Lebong,curuptimur,-3.4575,102.5498,714.651,0.694,1.756,10
+Rote Ndao,rotetengah,-10.7041,123.1539,140.114,0.652,2.01,8
+Serang,binuang,-6.1325,106.3491,11.576,0.42,0.079,10
+Serang,ciruas,-6.0982,106.245,8.874,0.537,0.101,10
+Serang,jawilan,-6.2887,106.3435,31.247,0.516,0.242,8
+Serang,kibin,-6.1618,106.3157,13.179,0.34,0.123,2
+Serang,kragilan,-6.1431,106.2752,17.36,0.38,0.166,10
+Serang,tunjungteja,-6.2809,106.2323,47.692,0.578,0.6,10
+Sikka,alokbarat,-8.5953,122.1632,266.714,0.604,6.868,10
+Situbondo,banyuputih,-7.8306,114.3458,169.851,0.745,3.164,8
+Situbondo,kendit,-7.746,113.9053,247.084,0.733,5.894,10
+Sragen,karangmalang,-7.4557,111.0204,109.317,0.58,0.587,10
+Sragen,masaran,-7.4779,110.9372,103.393,0.575,0.46,10
+Sragen,plupuh,-7.4396,110.8887,95.364,0.518,0.447,2
+Sragen,sambungmacan,-7.3703,111.1014,77.847,0.54,0.195,2
+Sragen,sragen,-7.4047,111.0187,81.398,0.474,0.212,10
+Subang,binong,-6.4004,107.8004,21.369,0.52,0.124,2
+Subang,ciasem,-6.3201,107.6612,10.096,0.303,0.093,2
+Subang,ciater,-6.7373,107.67,958.519,0.569,5.994,8
+Subang,cibogo,-6.5682,107.838,70.747,0.639,0.782,8
+Subang,cikaum,-6.4138,107.7371,30.932,0.549,0.219,10
+Subang,cipunagara,-6.489,107.8639,34.292,0.558,0.18,10
+Subang,cisalak,-6.761,107.7472,906.71,0.486,7.539,10
+Subang,compreng,-6.3871,107.8744,17.531,0.462,0.076,10
+Subang,dawuan,-6.5745,107.6865,175.96,0.498,2.17,8
+Subang,kalijati,-6.5274,107.6499,113.05,0.452,0.855,8
+Subang,pabuaran,-6.4213,107.5942,33.197,0.398,0.21,10
+Subang,patokbeusi,-6.3679,107.6163,20.806,0.395,0.114,10
+Subang,pusakanagara,-6.2532,107.8758,4.21,0.179,0.076,10
+Subang,sagalaherang,-6.684,107.6458,788.271,0.668,5.856,8
+Subang,subang,-6.574,107.7783,100.713,0.566,0.922,8
+Subang,sukasari,-6.2896,107.7568,4.945,0.284,0.07,10
+Subang,tambakdahan,-6.3425,107.8111,11.898,0.417,0.079,10
+Sumbawa,alas,-8.5764,117.0328,522.646,0.722,7.116,10
+Sumbawa,alasbarat,-8.5349,116.9386,131.685,0.721,3.339,8
+Sumbawa,empang,-8.804,118.007,186.457,0.752,3.211,10
+Sumbawa,lunyuk,-8.9487,117.2008,266.765,0.794,4.211,10
+Sumbawa Barat,brangrea,-8.7127,116.9891,413.184,0.799,6.663,8
+Sumbawa Barat,sekongkang,-9.0127,116.8723,210.698,0.714,5.401,10
+Sumbawa Barat,taliwang,-8.7382,116.8377,105.879,0.767,3.813,10
+Sumedang,buahdua,-6.6866,107.9453,298.585,0.605,4.073,8
+Sumedang,cimalaka,-6.7932,107.9435,684.998,0.434,5.75,10
+Sumedang,tomo,-6.7899,108.1121,87.16,0.728,1.458,10
+Tegal,pangkah,-6.9892,109.1648,57.317,0.574,0.666,10
+Aceh Barat,woylabarat,4.4144,95.9848,31.918,0.803,0.385,8
+Aceh Barat,woylatimur,4.4596,96.0919,48.087,0.801,0.616,8
+Aceh Besar,lhoong,5.2566,95.2879,350.874,0.751,8.233,10
+Aceh Jaya,panga,4.6413,95.8098,230.01,0.793,3.313,10
+Aceh Jaya,sampoiniet,4.9319,95.5634,537.256,0.773,5.842,10
+Aceh Jaya,setiabakti,4.8045,95.6418,368.43,0.79,3.806,10
+Aceh Jaya,teunom,4.5602,95.9162,185.542,0.776,2.643,10
+Aceh Selatan,sawang,3.429,97.1746,712.277,0.691,9.83,8
+Bandung,margahayu,-6.9752,107.5745,668.12,0.437,0.256,10
+Banjar,sungaitabuk,-3.2964,114.7142,6.192,0.477,0.032,10
+Banyuwangi,wongsorejo,-7.9892,114.3328,428.774,0.71,4.537,10
+Bima,bolo,-8.504,118.6272,70.277,0.685,2.006,10
+Bima,sanggar,-8.3431,118.1834,366.819,0.636,4.201,10
+Blora,kedungtuban,-7.1675,111.5013,63.66,0.606,0.467,10
+Blora,kradenan,-7.284,111.4316,69.992,0.657,0.582,8
+Blora,randublatung,-7.1868,111.3928,92.296,0.712,0.626,8
+Bojonegoro,balen,-7.1953,111.9645,24.924,0.501,0.116,10
+Bojonegoro,temayang,-7.3625,111.9147,133.65,0.729,1.289,8
+Buol,karamat,1.2466,121.3838,186.86,0.702,5.429,8
+Ciamis,cimaragas,-7.3799,108.4475,126.5,0.798,1.423,8
+Donggala,banawa,-0.7373,119.7556,279.225,0.731,6.077,8
+Garut,cibatu,-7.0854,107.9984,734.059,0.696,4.715,8
+Garut,garutkota,-7.2452,107.9266,898.265,0.655,3.47,10
+Garut,sukawening,-7.1357,108.0153,991.31,0.723,7.627,10
+Garut,tarogongkaler,-7.1743,107.8619,1186.868,0.517,8.677,8
+Gorontalo,tibawa,0.6936,122.852,160.835,0.698,2.465,10
+Gowa,sombaopu,-5.2073,119.4807,13.213,0.346,0.166,10
+Gresik,duduksampeyan,-7.1467,112.5267,5.572,0.28,0.059,10
+Gresik,menganti,-7.2778,112.5827,19.519,0.477,0.336,10
+Grobogan,gubug,-7.0667,110.6772,19.535,0.526,0.275,2
+Jeneponto,bangkala,-5.5626,119.6021,95.331,0.668,2.411,10
+Jeneponto,tamalatea,-5.6373,119.6666,30.441,0.634,0.84,10
+Kampar,bangkinang,0.265,101.073,78.087,0.718,0.698,10
+Kapuas Hulu,silathulu,0.2049,112.2244,196.767,0.781,3.472,8
+Kepulauan Mentawai,siberutselatan,-1.529,99.0577,96.178,0.661,1.694,10
+Kepulauan Sula,sanana,-2.092,125.9442,167.43,0.75,3.501,8
+Kerinci,batangmerangin,-2.1302,101.6749,919.562,0.743,5.787,10
+Kerinci,danaukerinci,-2.0322,101.5812,1271.297,0.655,7.757,10
+Kerinci,gunungkerinci,-1.8986,101.2554,1345.212,0.658,6.629,8
+Kerinci,kayuaro,-1.7781,101.2453,1655.487,0.631,5.559,10
+Kerinci,kelilingdanau,-2.2356,101.4027,1056.946,0.708,7.85,8
+Kerinci,siulak,-1.8843,101.4008,1379.299,0.608,6.366,10
+Kota Pasuruan,bugulkidul,-7.6514,112.9246,7.157,0.517,0.132,10
+Kota Probolinggo,wonoasih,-7.7969,113.2219,31.587,0.637,0.28,8
+Kota Tasikmalaya,cipedes,-7.314,108.2231,351.502,0.46,0.606,10
+Kota Yogyakarta,tegalrejo,-7.7785,110.357,127.793,0.413,0.528,10
+Kuningan,ciawigebang,-6.9469,108.5996,187.921,0.678,1.811,10
+Lumajang,kunir,-8.2228,113.2309,30.727,0.762,0.375,8
+Luwu,bua,-3.1186,120.2029,337.897,0.733,6.31,10
+Luwu,walenrangutara,-2.7577,120.0946,518.316,0.807,7.283,8
+Majalengka,dawuan,-6.7251,108.2079,32.298,0.409,0.188,10
+Majalengka,lemahsugih,-7.0088,108.1895,750.932,0.681,5.048,8
+Majene,banggae,-3.5376,118.9446,90.481,0.672,2.567,10
+Malang,pakis,-7.9603,112.7053,495.802,0.701,0.865,10
+Manggarai Barat,komodo,-8.6251,119.6825,177.905,0.66,5.097,10
+Mesuji,simpangpematang,-3.9852,105.1881,15.14,0.689,0.22,8
+Murung Raya,laungtuhup,-0.3953,114.7286,146.664,0.723,1.797,10
+Nganjuk,rejoso,-7.4975,111.8875,135.759,0.701,1.34,10
+Padang Lawas,sosa,1.0065,99.8743,378.387,0.755,3.65,10
+Padang Lawas,sosopan,1.2052,99.5585,691.327,0.781,6.509,8
+Padang Lawas,ulubarumun,1.0723,99.6332,618.636,0.715,6.801,8
+Pidie,tangse,5.0254,95.924,902.468,0.718,7.948,8
+Ponorogo,jambon,-7.9273,111.3696,258.156,0.723,4.069,10
+Poso,loreselatan,-1.9034,120.3272,1380.278,0.722,6.987,8
+Pulang Pisau,banamatingang,-1.7125,113.9025,46.316,0.628,0.249,8
+Pulang Pisau,kahayantengah,-2.0105,113.9779,32.374,0.706,0.193,8
+Rote Ndao,lobalain,-10.7866,123.0783,114.233,0.741,1.713,10
+Serang,puloampel,-5.918,106.0866,91.468,0.532,3.31,10
+Sigi,marawola,-0.9733,119.8554,219.489,0.621,5.95,8
+Sumbawa,ropang,-8.9167,117.4949,545.581,0.781,6.735,10
+Sumedang,jatinangor,-6.9313,107.7776,768.942,0.57,3.064,8
+Sumedang,sumedangselatan,-6.9018,107.9214,838.604,0.681,6.256,8
+Sumenep,ganding,-7.0354,113.7039,150.91,0.682,1.964,8
+Tegal,kedungbanteng,-6.9782,109.2257,69.993,0.531,1.01,8
+Wonogiri,eromoko,-7.9672,110.8213,327.276,0.705,2.951,8
+Aceh Barat Daya,jeumpa,3.7648,96.8096,11.036,0.673,0.607,8
+Aceh Barat Daya,lembahsabil,3.6248,96.9937,257.114,0.819,5.39,8
+Aceh Utara,matangkuli,5.0298,97.275,12.256,0.592,0.091,10
+Alor,alorselatan,-8.3222,124.7242,824.992,0.814,7.023,10
+Alor,pantar,-8.2547,124.24,282.233,0.833,5.871,10
+Alor,pantartengah,-8.4513,124.1238,225.891,0.784,5.334,10
+Alor,pantartimur,-8.3266,124.2414,383.545,0.832,7.747,8
+Bandung,kertasari,-7.2412,107.6791,1763.098,0.784,5.858,8
+Bandung,soreang,-7.0409,107.5188,804.57,0.621,3.151,10
+Bangkalan,blega,-7.1243,113.0489,42.835,0.685,1.061,10
+Belu,kotaatambua,-9.0985,124.9076,341.317,0.683,0.861,10
+Belu,raimanuk,-9.3449,124.9075,439.762,0.795,3.195,10
+Belu,tasifetobarat,-9.2097,124.8862,492.309,0.774,2.744,10
+Belu,tasifetotimur,-9.1092,124.9611,392.872,0.765,2.677,10
+Brebes,jatibarang,-6.9461,109.0519,12.617,0.445,0.161,10
+Buru,waplau,-3.162,126.7618,333.498,0.817,4.305,10
+Ciamis,cidolog,-7.4271,108.4411,190.176,0.774,2.958,10
+Cianjur,mande,-6.7579,107.1828,447.902,0.755,2.976,10
+Empat Lawang,lintangkanan,-3.9387,103.0189,1080.477,0.699,6.39,8
+Ende,endeselatan,-8.8762,121.6461,129.106,0.693,6.541,8
+Ende,endeutara,-8.8185,121.6295,259.944,0.786,6.895,8
+Ende,kotabaru,-8.5718,121.9426,474.691,0.821,7.361,10
+Ende,nangapanda,-8.7483,121.4806,333.984,0.859,6.092,10
+Ende,ndona,-8.8369,121.7409,558.338,0.838,10.655,10
+Ende,ndori,-8.807,121.9323,295.778,0.821,6.504,10
+Ende,wewaria,-8.5947,121.6849,239.02,0.844,5.641,8
+Ende,wolojita,-8.8171,121.8371,612.321,0.794,10.432,8
+Flores Timur,adonarabarat,-8.3054,123.095,286.334,0.849,5.416,10
+Flores Timur,adonaratimur,-8.3612,123.1754,321.934,0.877,7.12,8
+Flores Timur,klubagolit,-8.2931,123.2307,348.924,0.871,5.526,8
+Hulu Sungai Tengah,haruyan,-2.698,115.3786,80.399,0.786,1.109,8
+Indragiri Hilir,kemuning,-0.9262,102.7097,116.617,0.748,1.296,8
+Indragiri Hulu,batangcenaku,-0.7941,102.2349,118.518,0.793,1.231,8
+Indragiri Hulu,batanggansal,-0.8133,102.4992,158.216,0.785,1.826,8
+Kampar,tapung,0.5814,101.0907,36.909,0.796,0.292,8
+Kapuas Hulu,badau,0.9595,111.9459,64.62,0.646,1.066,8
+Kota Kupang,alak,-10.2248,123.5776,189.279,0.634,2.247,8
+Kota Kupang,kelapalima,-10.1497,123.6397,37.079,0.361,1.722,10
+Kota Kupang,maulafa,-10.2101,123.6297,240.306,0.628,2.106,10
+Kota Kupang,oebobo,-10.1721,123.6123,88.812,0.414,1.613,10
+Kupang,amarasibarat,-10.2995,123.7384,248.009,0.814,3.9,10
+Kupang,amarasiselatan,-10.2892,123.8652,299.641,0.825,4.871,10
+Kupang,amarasitimur,-10.1829,124.0746,109.417,0.818,2.955,10
+Kupang,amfoangselatan,-9.7266,123.916,524.673,0.796,5.333,10
+Kupang,amfoangtengah,-9.603,124.0362,735.459,0.804,5.902,10
+Kupang,amfoangtimur,-9.4373,124.0355,306.36,0.762,4.593,10
+Kupang,fatuleu,-10.0199,123.9725,331.245,0.806,2.975,10
+Kupang,fatuleubarat,-9.8584,123.7272,212.785,0.75,3.702,8
+Kupang,kupangbarat,-10.2837,123.5258,98.127,0.726,1.91,8
+Kupang,kupangtimur,-10.0945,123.822,42.316,0.664,0.796,10
+Kupang,nekamese,-10.2972,123.6371,265.425,0.774,3.456,10
+Kupang,sulamu,-9.9917,123.7167,109.462,0.7,2.901,10
+Kupang,takari,-9.8691,123.9985,320.887,0.749,2.702,10
+Lebak,rangkasbitung,-6.3568,106.2835,43.009,0.688,0.461,10
+Lembata,ileape,-8.2916,123.4512,130.661,0.775,4.743,10
+Lombok Utara,pemenang,-8.4277,116.0813,170.527,0.844,5.353,8
+Madiun,mejayan,-7.5854,111.6794,126.747,0.675,0.906,10
+Madiun,wonoasri,-7.5949,111.6343,114.206,0.654,0.89,8
+Madiun,wungu,-7.656,111.5947,155.578,0.691,1.261,8
+Magetan,barat,-7.5552,111.4608,64.786,0.569,0.259,10
+Magetan,kartoharjo,-7.5305,111.4767,55.61,0.534,0.132,10
+Manggarai,cibal,-8.4681,120.4742,555.824,0.877,7.386,10
+Manggarai,reok,-8.3508,120.381,331.324,0.868,4.696,10
+Manggarai,ruteng,-8.5953,120.3807,1052.528,0.824,5.113,10
+Ngawi,geneng,-7.48,111.4386,54.641,0.502,0.135,10
+Ngawi,kwadungan,-7.513,111.5109,53.035,0.541,0.073,10
+Ngawi,paron,-7.463,111.3678,75.358,0.656,0.355,10
+Pidie Jaya,bandardua,5.112,96.312,583.174,0.702,8.125,8
+Ponorogo,sampung,-7.8234,111.3504,242.198,0.72,2.928,10
+Pulang Pisau,jabirenraya,-2.4475,114.1937,13.188,0.758,0.126,8
+Rokan Hulu,rambah,0.8262,100.2607,215.068,0.763,2.955,10
+Sabu Raijua,sabubarat,-10.5146,121.8567,99.94,0.644,1.859,10
+Sabu Raijua,sabutimur,-10.4995,121.9773,57.377,0.622,1.419,10
+Semarang,ambarawa,-7.2584,110.3955,582.245,0.674,3.122,10
+Semarang,bandungan,-7.2217,110.3633,947.123,0.746,5.969,8
+Semarang,tuntang,-7.2785,110.477,473.075,0.764,2.425,8
+Serang,cikeusal,-6.214,106.2536,31.242,0.623,0.298,8
+Siak,sungaimandau,0.9811,101.7107,26.569,0.741,0.276,8
+Siak,tualang,0.6527,101.631,23.338,0.711,0.317,8
+Sukabumi,cicurug,-6.7667,106.7828,710.767,0.736,5.019,10
+Sukabumi,sukabumi,-6.8568,106.9565,1241.224,0.759,7.92,10
+Sumba Barat,wanokaka,-9.7209,119.4538,144.166,0.796,3.607,10
+Sumba Tengah,katikutana,-9.5838,119.5361,479.696,0.826,1.368,8
+Sumba Tengah,katikutanaselatan,-9.7142,119.6141,329.149,0.841,3.645,10
+Sumba Timur,karera,-10.1745,120.2549,246.516,0.808,4.383,10
+Sumba Timur,ngadungala,-10.1929,120.4022,265.761,0.828,5.04,10
+Sumba Timur,pandawai,-9.7473,120.402,207.615,0.611,1.783,10
+Takalar,pattallassang,-5.4321,119.4442,8.784,0.476,0.076,10
+Timor Tengah Selatan,amanatunutara,-9.6922,124.6983,359.291,0.814,2.742,10
+Timor Tengah Selatan,amanubanselatan,-10.0623,124.2546,129.877,0.758,1.874,10
+Timor Tengah Selatan,boking,-9.8197,124.7405,225.589,0.765,4.689,8
+Timor Tengah Selatan,kualin,-10.1066,124.4114,146.985,0.826,2.931,10
+Timor Tengah Selatan,molloutara,-9.7216,124.2026,863.156,0.774,6.705,8
+Timor Tengah Selatan,toianas,-9.7058,124.775,239.046,0.801,3.723,8
+Timor Tengah Utara,bibokianleu,-9.1345,124.7382,127.706,0.766,2.355,10
+Timor Tengah Utara,insana,-9.4696,124.6981,402.822,0.826,3.305,8
+Timor Tengah Utara,insanabarat,-9.4752,124.5769,435.366,0.801,3.232,8
+Timor Tengah Utara,insanautara,-9.2384,124.5473,223.172,0.75,4.966,10
+Timor Tengah Utara,kotakefamenanu,-9.4678,124.4967,438.815,0.773,2.128,10
+Timor Tengah Utara,miomaffotimur,-9.3803,124.49,633.869,0.838,5.278,8
+Timor Tengah Utara,noemutitimur,-9.5886,124.5859,283.754,0.797,2.286,10
+Wonogiri,jatipurno,-7.7782,111.1418,725.969,0.76,4.589,8
+Wonogiri,jatisrono,-7.8447,111.133,365.792,0.724,1.636,8
+Wonogiri,sidoharjo,-7.8613,111.0557,308.653,0.757,2.921,10
+Aceh Selatan,trumontimur,2.8901,97.7758,171.326,0.796,2.706,10
+Aceh Singkil,danauparis,2.3153,98.1181,114.109,0.798,1.859,10
+Aceh Singkil,gunungmeriah,2.3838,97.9621,44.617,0.781,0.61,10
+Aceh Singkil,singkilutara,2.2746,97.9953,21.618,0.745,0.391,10
+Aceh Tenggara,babussalam,3.4886,97.8058,194.297,0.623,2.987,8
+Aceh Tenggara,bambel,3.439,97.9022,848.137,0.74,11.361,10
+Aceh Tenggara,lawealas,3.4336,97.8192,222.344,0.652,5.017,8
+Aceh Timur,idirayeuk,4.9549,97.7598,12.146,0.599,0.353,8
+Barito Utara,lahei,-0.6013,115.1312,101.278,0.678,0.803,10
+Barito Utara,tewehtengah,-1.003,114.804,84.93,0.665,0.723,10
+Batang,banyuputih,-6.9609,109.9412,173.333,0.732,2.512,10
+Bengkayang,bengkayang,0.85,109.4923,164.829,0.802,3.139,10
+Berau,kelay,1.7949,116.8017,446.449,0.807,4.12,10
+Berau,sambaliung,1.9488,117.5325,176.479,0.802,2.381,10
+Berau,segah,2.2502,116.9592,169.829,0.796,2.041,10
+Gayo Lues,putribetung,3.7816,97.4694,1814.735,0.763,10.798,8
+Gayo Lues,rikitgaib,4.1192,97.2975,1484.161,0.808,9.77,8
+Halmahera Tengah,wedatengah,0.5236,127.8926,226.086,0.724,3.769,10
+Kapuas,kapuashulu,-0.8167,113.8842,144.502,0.725,1.451,8
+Kapuas,kapuastengah,-1.1873,114.3766,90.727,0.645,0.641,10
+Kapuas,mandautalawang,-0.6541,113.9681,185.06,0.718,2.107,10
+Kapuas,mantangai,-1.9606,114.3033,39.461,0.73,0.196,10
+Kapuas,pasaktalawang,-1.0583,114.1795,92.944,0.695,0.762,10
+Kapuas,timpah,-1.5774,114.5493,58.033,0.677,0.265,10
+Kapuas Hulu,kalis,0.5059,113.197,434.308,0.791,5.341,10
+Karawang,tempuran,-6.1964,107.4437,1.907,0.752,0.07,10
+Karawang,tirtajaya,-6.0295,107.2533,1.909,0.662,0.043,10
+Kotawaringin Barat,arututara,-2.0193,111.8979,76.818,0.826,1.159,8
+Kutai Timur,batuampar,0.6514,116.8755,79.609,0.761,0.639,10
+Kutai Timur,muaraancalong,0.3807,116.5396,38.506,0.717,0.295,10
+Kutai Timur,muarabengkal,0.3511,116.7923,17.953,0.732,0.129,10
+Kutai Timur,muarawahau,1.3999,116.5598,478.599,0.781,3.865,10
+Kutai Timur,telen,0.9275,116.7241,113.449,0.79,1.028,10
+Lima Puluh Kota,akabiluru,-0.2216,100.5194,701.92,0.71,5.031,8
+Lima Puluh Kota,kapurix,0.2324,100.4438,501.853,0.746,5.941,10
+Lombok Barat,gerung,-8.6913,116.1211,57.923,0.745,2.23,10
+Lombok Barat,kediri,-8.6449,116.1424,35.373,0.682,0.388,10
+Luwu Utara,malangkebarat,-2.8153,120.3242,12.334,0.552,0.087,10
+Malinau,malinauutara,3.6959,116.5017,288.537,0.689,2.933,8
+Malinau,mentarang,3.3021,116.1662,625.519,0.653,5.93,10
+Malinau,mentaranghulu,3.7997,116.1382,705.322,0.669,6.771,10
+Maluku Tenggara,keibesar,-5.5305,133.0482,188.291,0.595,5.629,10
+Mamasa,mambi,-3.0019,119.1291,777.011,0.847,5.957,10
+Minahasa Tenggara,ratahantimur,1.0734,124.8403,421.057,0.858,4.129,8
+Mukomuko,terasterunjam,-2.5687,101.2438,37.728,0.842,0.434,10
+Musi Rawas,selangit,-3.2149,102.674,570.689,0.774,5.238,10
+Nunukan,sebuku,4.0974,116.9764,193.042,0.728,2.528,10
+Pamekasan,pademawu,-7.1966,113.5155,11.906,0.476,0.265,2
+Sanggau,entikong,0.9983,110.2515,253.492,0.737,4.175,8
+Siak,kandis,1.0007,101.1657,36.487,0.688,0.248,8
+Sijunjung,kamangbaru,-0.7819,101.3101,249.408,0.776,3.383,8
+Tanah Bumbu,satui,-3.6613,115.4302,56.152,0.648,0.894,8
+Wajo,gilireng,-3.8884,120.1884,69.759,0.516,0.893,8
+Wajo,keera,-3.8151,120.2878,70.023,0.485,1.228,8
+Wajo,pitumpanua,-3.7201,120.3667,30.156,0.472,0.617,10
+Bandung,rancabali,-7.1689,107.3499,1538.027,0.767,5.745,8
+Banyumas,kemranjen,-7.5908,109.3083,84.863,0.723,2.079,8
+Blitar,wonodadi,-8.0528,112.0055,104.382,0.682,0.173,10
+Buol,bokat,0.9822,121.5123,201.455,0.844,3.566,10
+Buton Utara,bonegunu,-4.7961,122.997,86.08,0.626,1.87,10
+Buton Utara,kambowa,-5.039,122.9176,209.133,0.701,3.41,10
+Buton Utara,kulisusu,-4.7519,123.169,34.401,0.715,1.398,10
+Buton Utara,kulisusubarat,-4.6447,123.0137,73.177,0.673,1.079,8
+Buton Utara,wakorumba,-4.5188,122.9316,210.003,0.61,4.629,8
+Ciamis,rancah,-7.2052,108.4956,374.641,0.733,2.576,10
+Cilacap,dayeuhluhur,-7.2286,108.6135,462.729,0.767,4.51,8
+Donggala,banawaselatan,-0.889,119.6535,287.745,0.801,4.603,10
+Garut,bayongbong,-7.274,107.8444,1187.432,0.713,7.034,8
+Gorontalo,mootilango,0.7578,122.6499,285.686,0.808,4.027,10
+Kaur,kaurselatan,-4.7321,103.4002,242.626,0.842,2.328,10
+Kepahiang,seberangmusi,-3.7337,102.6269,655.602,0.822,4.446,8
+Kerinci,gunungtujuh,-1.7283,101.3688,1756.051,0.66,7.315,8
+Konawe Selatan,angata,-4.1562,122.1173,58.255,0.753,0.76,8
+Kutai Barat,longbagun,0.7619,115.2735,549.074,0.763,5.085,8
+Parigi Moutong,mepanga,0.5694,120.7,401.861,0.714,6.093,10
+Pelalawan,ukui,-0.2252,101.9622,69.373,0.771,0.444,8
+Sukabumi,cibadak,-6.8947,106.7629,454.145,0.779,2.26,8
+Sukabumi,cisaat,-6.902,106.8898,618.22,0.569,1.487,10
+Sukabumi,kebonpedes,-6.9446,106.9696,575.471,0.651,1.548,10
+Tasikmalaya,singaparna,-7.3494,108.1288,409.499,0.623,0.906,10
+Aceh Barat,johanpahlawan,4.1892,96.1194,15.09,0.749,0.286,8
+Aceh Barat,kawayxvi,4.2708,96.2177,34.338,0.809,0.539,8
+Aceh Barat Daya,manggeng,3.6216,96.9206,9.582,0.692,0.31,10
+Aceh Barat Daya,susoh,3.7275,96.8181,5.716,0.723,0.175,10
+Aceh Besar,darulimarah,5.5075,95.3136,25.27,0.575,1.676,8
+Aceh Besar,darulkamal,5.4685,95.3233,253.21,0.765,7.924,8
+Aceh Besar,leupung,5.3449,95.3097,623.639,0.849,9.189,8
+Aceh Besar,peukanbada,5.5408,95.2417,71.268,0.691,3.681,10
+Aceh Jaya,jaya,5.115,95.4578,506.304,0.816,8.289,10
+Aceh Jaya,kruengsabee,4.7848,95.7903,320.73,0.858,3.881,10
+Aceh Tamiang,bandarpusaka,4.2735,97.8512,139.137,0.815,3.232,8
+Banggai,luwuktimur,-0.8343,122.9993,206.051,0.797,3.543,8
+Banggai,pagimana,-0.8527,122.6678,738.946,0.75,6.3,10
+Bantaeng,bantaeng,-5.5051,119.969,314.284,0.741,5.026,8
+Bantaeng,bissappu,-5.5389,119.9039,101.17,0.725,3.149,8
+Bantaeng,eremerasa,-5.477,119.9892,485.565,0.807,5.562,8
+Bantaeng,gantarangkeke,-5.5216,120.0612,132.913,0.812,1.641,8
+Bantaeng,sinoa,-5.4933,119.9305,483.688,0.811,7.064,10
+Bantaeng,tompobulu,-5.439,120.0236,711.344,0.871,5.339,10
+Batu Bara,medangderas,3.3788,99.3629,5.006,0.63,0.085,10
+Batu Bara,seibalai,3.1044,99.5803,10.474,0.71,0.164,8
+Batu Bara,talawi,3.1676,99.5351,9.941,0.752,0.16,8
+Bengkayang,sungairaya,0.5925,108.9656,10.892,0.724,0.255,8
+Bireuen,peudada,5.0625,96.5678,371.326,0.843,4.788,10
+Bolaang Mongondow,bolaangtimur,0.9177,124.1817,261.753,0.847,7.514,10
+Bolaang Mongondow,poigar,0.9263,124.2888,466.355,0.851,6.425,10
+Bulukumba,bulukumpa,-5.3456,120.1789,316.839,0.784,1.817,10
+Bulukumba,gantarang,-5.5103,120.1412,106.299,0.796,1.117,10
+Bulukumba,kindang,-5.3948,120.0585,775.053,0.809,5.403,10
+Bulukumba,rilauale,-5.4152,120.1836,210.545,0.779,1.448,8
+Bulukumba,ujungloe,-5.4716,120.2752,39.412,0.734,0.582,8
+Cilacap,jeruklegi,-7.5936,109.0163,65.34,0.693,1.484,10
+Cilacap,kroya,-7.6264,109.2372,11.185,0.576,0.158,10
+Donggala,sinduetobata,-0.373,119.8379,393.984,0.849,4.572,8
+Jeneponto,arungkeke,-5.665,119.8092,17.261,0.557,0.484,10
+Jeneponto,batang,-5.6234,119.8129,62.817,0.6,1.02,10
+Jeneponto,binamu,-5.6728,119.7335,22.186,0.576,0.493,10
+Jeneponto,tarowang,-5.586,119.8647,50.343,0.666,1.41,10
+Kapuas Hulu,boyantanjung,0.432,112.5226,200.769,0.78,2.912,8
+Kapuas Hulu,bunuthulu,0.3593,112.7416,308.287,0.787,3.76,10
+Kapuas Hulu,hulugurung,0.3772,112.2713,192.504,0.799,3.632,8
+Kapuas Hulu,mentebah,0.4603,112.9246,211.987,0.833,3.204,8
+Kapuas Hulu,pengkadan,0.4853,112.3606,78.656,0.755,1.24,10
+Kapuas Hulu,silathilir,0.3441,111.8159,60.525,0.732,1.105,10
+Katingan,katingantengah,-1.4369,112.9827,78.964,0.723,0.469,10
+Katingan,petakmalai,-0.7826,112.9452,293.853,0.739,3.111,10
+Kayong Utara,simpanghilir,-1.0443,110.1631,64.097,0.815,1.285,10
+Kayong Utara,sukadana,-1.2466,110.0643,118.803,0.824,3.278,10
+Kayong Utara,telukbatang,-0.961,109.8266,9.537,0.81,0.169,10
+Ketapang,sandai,-1.1828,110.6137,67.152,0.825,0.965,8
+Kolaka,tanggetada,-4.3446,121.6441,237.927,0.842,2.093,8
+Kolaka,watubangga,-4.488,121.6422,109.619,0.784,0.751,10
+Konawe,abuki,-3.677,121.9444,291.247,0.733,4.304,8
+Konawe,anggaberi,-3.7764,122.1018,148.723,0.756,2.62,10
+Konawe,lambuya,-3.9661,122.0421,199.917,0.712,3.135,8
+Konawe,wawotobi,-3.8617,122.1393,34.891,0.735,0.235,8
+Konawe,wonggeduku,-3.9545,122.1645,26.921,0.5,0.078,10
+Konawe Utara,lembo,-3.783,122.3265,200.978,0.652,3.5,8
+Konawe Utara,sawa,-3.8149,122.3979,108.07,0.609,2.03,8
+Konawe Utara,wiwirano,-3.1863,122.0669,450.105,0.719,5.538,8
+Kotawaringin Timur,antangkalang,-1.4636,112.515,122.473,0.754,1.454,10
+Kubu Raya,rasaujaya,-0.2471,109.3451,9.368,0.749,0.179,8
+Kubu Raya,sungairaya,-0.2241,109.6296,14.083,0.768,0.182,10
+Lamandau,belantikanraya,-1.5991,111.4118,161.363,0.833,2.601,10
+Lamandau,lamandau,-1.9137,111.178,101.815,0.827,1.786,10
+Luwu,larompong,-3.5515,120.2911,421.767,0.727,5.862,8
+Luwu,larompongselatan,-3.617,120.3596,121.71,0.71,2.736,8
+Luwu,suli,-3.4448,120.3482,79.383,0.68,2.47,10
+Mamasa,tabulahan,-2.7653,119.2228,1143.849,0.832,9.323,10
+Melawi,tanahpinoh,-0.8017,111.558,149.061,0.787,1.707,8
+Muna,wakorumbaselatan,-4.9271,122.8625,185.431,0.776,4.07,10
+Murung Raya,permataintan,-0.7307,114.2626,94.519,0.73,0.755,8
+Murung Raya,seriburiam,0.0877,113.7798,506.007,0.729,4.929,10
+Murung Raya,sumberbarito,-0.4046,114.1564,296.169,0.723,3.227,8
+Nagan Raya,darulmakmur,3.9663,96.5488,134.831,0.843,2.249,8
+Nagan Raya,seunagantimur,4.3398,96.3714,274.762,0.812,3.021,10
+Parigi Moutong,parigiselatan,-0.9434,120.1652,580.782,0.674,6.871,8
+Parigi Moutong,tomini,0.5706,120.5463,799.939,0.704,8.466,8
+Parigi Moutong,toribulu,-0.3349,119.9731,299.638,0.696,4.726,8
+Pohuwato,dengilo,0.6914,122.0783,572.211,0.756,6.216,8
+Pohuwato,paguat,0.4973,122.0551,95.015,0.749,3.177,8
+Poso,pamonabarat,-1.9318,120.5167,897.822,0.643,6.997,10
+Poso,posopesisir,-1.3784,120.5643,984.506,0.805,6.02,10
+Seluma,lubuksandi,-3.9104,102.5417,412.71,0.831,4.245,10
+Seluma,semidangalas,-4.1302,102.8694,550.343,0.861,5.025,10
+Seram Bagian Barat,serambarat,-3.1107,128.1593,260.493,0.786,4.596,10
+Seram Bagian Timur,bula,-3.2241,130.4146,237.661,0.833,3.347,10
+Sinjai,sinjaitimur,-5.1796,120.2513,60.2,0.74,1.282,8
+Sinjai,sinjaiutara,-5.1156,120.2419,38.618,0.667,0.862,10
+Sintang,dedai,-0.0309,111.7091,43.872,0.778,0.506,10
+Sintang,kayanhilir,-0.0243,111.9391,74.258,0.79,1.108,8
+Wajo,pammana,-4.2001,120.09,25.059,0.551,0.417,10
+Wajo,takkalalla,-4.1497,120.2861,16.758,0.723,0.239,10
+Aceh Tamiang,tenggulun,4.0212,97.9403,448.694,0.691,5.699,10
+Aceh Tenggara,lawebulan,3.5012,97.8707,908.68,0.692,10.486,8
+Aceh Timur,indramakmur,4.8686,97.5839,84.25,0.805,0.968,8
+Asahan,airbatu,2.8635,99.625,34.312,0.781,0.249,8
+Asahan,airjoman,3.0122,99.7157,10.882,0.742,0.111,10
+Asahan,buntupane,2.8616,99.4878,68.045,0.762,0.366,10
+Asahan,pulobandring,2.9928,99.5562,29.41,0.773,0.174,10
+Asahan,seidadap,2.9414,99.6463,21.325,0.743,0.146,10
+Asahan,setiajanji,2.9372,99.4891,56.632,0.778,0.375,8
+Asahan,tinggiraja,2.8324,99.54,56.529,0.796,0.382,8
+Lebak,cibadak,-6.3331,106.2251,37.88,0.643,0.518,10
+Serang,pabuaran,-6.1963,106.0906,174.354,0.721,1.804,10
+Aceh Utara,sawang,5.0476,96.8855,372.75,0.618,3.034,10
+Garut,sukaresmi,-7.2458,107.7711,1479.709,0.53,6.812,10
+Lampung Selatan,sragi,-5.6426,105.754,12.602,0.501,0.228,8
+Pacitan,donorojo,-8.1407,110.9478,294.672,0.572,1.672,8
+Ponorogo,sukorejo,-7.8254,111.4227,106.663,0.732,0.321,10
+Sukabumi,pabuaran,-7.1925,106.7872,504.043,0.471,3.033,10
+Aceh Timur,sungairaya,4.6661,97.8862,23.757,0.44,0.435,10
+Purwakarta,plered,-6.6458,107.3797,292.912,0.526,2.131,10
+Aceh Barat Daya,blangpidie,3.8311,96.9798,1014.922,0.868,10.37,10
+Aceh Barat Daya,setia,3.6979,96.8748,7.608,0.663,0.512,2
+Aceh Tamiang,bandamulia,4.4445,98.1422,2.759,0.653,0.076,10
+Aceh Tamiang,bendahara,4.4122,98.1833,4.953,0.711,0.094,10
+Aceh Tamiang,karangbaru,4.3432,98.0421,21.583,0.778,0.375,8
+Aceh Tamiang,kejuruanmuda,4.2003,98.0215,31.514,0.805,0.475,8
+Aceh Tamiang,manyakpayed,4.4313,98.0264,26.198,0.687,0.33,8
+Aceh Tamiang,rantau,4.2988,98.1079,23.457,0.772,0.412,8
+Aceh Tamiang,sekerak,4.3171,97.9247,59.944,0.794,1.005,8
+Aceh Tamiang,tamianghulu,4.1578,97.8477,371.132,0.792,5.063,10
+Aceh Tenggara,bukittusam,3.4136,97.8686,151.33,0.633,1.454,10
+Aceh Timur,birembayeun,4.4777,97.8577,72.313,0.789,1.073,8
+Aceh Utara,payabakong,4.9236,97.2384,79.226,0.797,1.264,10
+Aceh Utara,piraktimu,4.9919,97.2861,13.19,0.659,0.129,10
+Pemalang,taman,-6.9089,109.4228,14.967,0.662,0.197,10
+Pidie Jaya,meureudu,5.0584,96.2408,1040.084,0.734,7.926,8
+Ponorogo,ponorogo,-7.8662,111.4657,104.831,0.621,0.225,10
+Sarolangun,limun,-2.5693,102.5162,235.31,0.571,2.297,8
+Sragen,gondang,-7.4325,111.0999,110.814,0.631,0.546,10
+Sukoharjo,bulu,-7.7679,110.8291,172.026,0.684,2.81,10
+Sukoharjo,nguter,-7.7342,110.8878,126.301,0.663,0.503,10
+Sumedang,cimanggung,-6.9492,107.8531,1002.322,0.565,6.218,10
+Sumedang,sumedangutara,-6.836,107.9082,553.38,0.567,3.04,8
+Tabalong,kelua,-2.2566,115.291,18.671,0.711,0.143,10
+Tabalong,tanjung,-2.0982,115.3755,39.335,0.851,0.351,8
+Cilacap,cimanggu,-7.3105,108.8418,182.48,0.784,3.44,8
+Cirebon,depok,-6.7355,108.4468,46.492,0.616,0.742,10
+Jombang,ploso,-7.4391,112.2361,33.566,0.719,0.091,10
+Mojokerto,kemlagi,-7.4012,112.3688,42.103,0.703,0.453,10
+Banyumas,kebasen,-7.5462,109.2271,96.356,0.661,3.271,10
+Banyumas,patikraja,-7.4769,109.2126,73.343,0.595,1.733,10
+Cilacap,patimuan,-7.6126,108.784,5.477,0.595,0.127,2
+Cilacap,sidareja,-7.4626,108.7982,64.397,0.694,1.306,8
+Ende,endetimur,-8.7983,121.6707,325.842,0.813,7.412,8
+Jember,panti,-8.0703,113.6228,986.812,0.67,7.406,8
+Kapuas Hulu,bika,0.784,112.8184,50.447,0.582,0.289,10
+Karangasem,abang,-8.3668,115.6207,379.38,0.581,6.755,10
+Karangasem,selat,-8.4174,115.4837,784.183,0.664,6.315,8
+Kediri,grogol,-7.758,111.9368,257.425,0.623,2.557,8
+Kota Medan,medanmaimun,3.5678,98.6835,30.586,0.326,0.096,10
+Kota Semarang,gunungpati,-7.0649,110.3753,214.665,0.56,2.121,10
+Lombok Barat,batulayar,-8.5028,116.0727,169.06,0.715,4.6,8
+Lumajang,rowokangkung,-8.1813,113.3183,19.901,0.721,0.098,10
+Mesuji,mesujitimur,-4.0719,105.4151,15.942,0.604,0.193,10
+Pasuruan,rejoso,-7.6798,112.9506,6.967,0.572,0.122,2
+Pohuwato,buntulia,0.6991,121.9849,556.418,0.783,7.113,10
+Pohuwato,marisa,0.4731,121.9575,28.331,0.614,0.796,10
+Pohuwato,patilanggio,0.6778,121.8994,331.461,0.784,4.694,10
+Pulau Morotai,morotaiselatan,2.1134,128.3887,168.426,0.811,2.385,10
+Rokan Hulu,bangunpurba,0.9141,100.191,93.404,0.773,0.664,10
+Sekadau,nangamahap,-0.4843,110.7312,186.256,0.684,3.087,8
+Simeulue,alafan,2.8053,95.7615,58.742,0.747,1.455,10
+Simeulue,salang,2.6767,95.8605,58.458,0.766,1.437,10
+Sukoharjo,grogol,-7.6132,110.8136,95.267,0.43,0.093,10
+Trenggalek,watulimo,-8.2753,111.7023,247.994,0.636,6.014,10
+Aceh Timur,bandaalam,4.8587,97.6914,38.063,0.654,0.413,8
+Aceh Timur,iditunong,4.9159,97.7261,22.811,0.628,0.311,8
+Aceh Timur,julok,5.0373,97.601,27.334,0.569,0.476,10
+Aceh Timur,nurussalam,4.9747,97.6594,29.403,0.56,0.315,8
+Aceh Timur,pantebidari,4.8743,97.4866,63.08,0.713,1.148,10
+Aceh Timur,simpangulim,5.1076,97.5794,4.467,0.526,0.085,8
+Aceh Utara,langkahan,4.8834,97.4394,70.801,0.682,1.152,8
+Aceh Utara,lhoksukon,5.0299,97.3594,12.599,0.605,0.191,8
+Aceh Utara,tanahluas,4.9673,97.1376,231.229,0.658,2.622,8
+Alor,telukmutiara,-8.2289,124.5395,259.252,0.782,7.918,8
+Banyumas,sumpiuh,-7.5957,109.3674,167.954,0.738,2.943,8
+Bengkalis,bantan,1.4832,102.3392,11.425,0.646,0.177,10
+Bengkulu Tengah,banghaji,-3.603,102.3297,104.536,0.835,1.442,8
+Bengkulu Tengah,tabapenanjung,-3.7054,102.4979,289.389,0.81,3.945,8
+Bengkulu Tengah,talangempat,-3.8088,102.3813,46.394,0.751,0.831,8
+Bengkulu Utara,airbesi,-3.5222,102.1647,67.491,0.832,0.689,10
+Bengkulu Utara,ketahun,-3.3061,101.853,53.424,0.722,0.766,10
+Bengkulu Utara,lais,-3.4626,102.0716,61.445,0.8,0.652,8
+Boalemo,tilamuta,0.5872,122.3204,338.303,0.803,5.233,10
+Brebes,bantarkawung,-7.2216,108.9143,245.41,0.681,4.148,8
+Deli Serdang,batangkuis,3.6249,98.8214,9.079,0.544,0.134,10
+Deli Serdang,tanjungmorawa,3.5319,98.8065,26.548,0.532,0.255,10
+Garut,cikajang,-7.4,107.8003,1345.847,0.628,5.555,8
+Kota Medan,medanbaru,3.5675,98.6587,29.349,0.362,0.133,10
+Kota Medan,medanjohor,3.5292,98.6696,42.119,0.393,0.225,10
+Kota Medan,medanpolonia,3.5601,98.673,32.299,0.409,0.126,10
+Kota Medan,medanselayang,3.5526,98.6339,34.843,0.425,0.212,10
+Kota Medan,medansunggal,3.5806,98.6271,28.109,0.359,0.108,0
+Langkat,padangtualang,3.8143,98.3232,24.96,0.758,0.351,8
+Langkat,wampu,3.7002,98.34,37.765,0.738,0.394,10
+Lebak,cibeber,-6.7738,106.3643,826.833,0.649,5.601,8
+Luwu,bajobarat,-3.3617,120.2368,317.859,0.71,6.216,8
+Pasaman,panti,0.3527,100.0935,604.427,0.754,6.939,10
+Ponorogo,jetis,-7.9423,111.4784,110.897,0.702,0.172,10
+Ponorogo,kauman,-7.8862,111.4146,106.654,0.702,0.257,10
+Seluma,airperiukan,-4.0008,102.4202,36.193,0.781,0.578,10
+Seluma,selumaselatan,-4.1132,102.5339,12.417,0.772,0.225,10
+Seluma,selumautara,-3.9496,102.6484,600.172,0.79,5.395,8
+Serdang Bedagai,sipispis,3.1628,99.0149,173.563,0.785,1.327,10
+Serdang Bedagai,tebingtinggi,3.3382,99.148,27.333,0.731,0.208,8
+Sintang,sepauk,-0.1814,111.1956,164.081,0.631,2.463,8
+Tegal,kramat,-6.8804,109.194,6.682,0.461,0.13,10
+Tegal,margasari,-7.0989,109.0186,83.383,0.669,1.705,10
+Banyumas,tambak,-7.6009,109.4095,145.574,0.58,2.17,10
+Banyuwangi,banyuwangi,-8.2286,114.368,17.729,0.463,0.746,10
+Banyuwangi,pesanggaran,-8.5199,113.9721,226.257,0.773,5.416,10
+Bireuen,jeumpa,5.1491,96.6554,107.477,0.709,2.161,10
+Bone Bolango,bulangoutara,0.7124,123.0911,455.935,0.799,6.234,10
+Ciamis,ciamis,-7.3298,108.3374,232.428,0.671,0.954,10
+Cilacap,nusawungu,-7.6729,109.3449,9.658,0.491,0.167,10
+Cilacap,sampang,-7.5808,109.2014,11.526,0.343,0.116,10
+Garut,banyuresmi,-7.1513,107.9342,751.503,0.694,2.838,10
+Gorontalo,limboto,0.6802,122.9883,207.351,0.679,4.03,10
+Gorontalo,limbotobarat,0.6591,122.927,108.143,0.646,2.434,10
+Grobogan,toroh,-7.16,110.9192,52.75,0.594,0.54,2
+Jombang,sumobito,-7.5222,112.3284,29.952,0.605,0.086,10
+Karangasem,karangasem,-8.4431,115.6314,188.927,0.739,4.691,8
+Kebumen,adimulyo,-7.6747,109.5582,11.289,0.392,0.079,2
+Kebumen,alian,-7.6308,109.7084,110.868,0.767,2.968,10
+Kebumen,ambal,-7.7677,109.7371,12.575,0.554,0.15,10
+Kebumen,ayah,-7.7121,109.4187,152.115,0.617,3.155,10
+Kebumen,karanganyar,-7.6115,109.5673,68.372,0.665,2.127,8
+Kebumen,kebumen,-7.6824,109.6812,29.361,0.559,0.591,10
+Kebumen,pejagoan,-7.6268,109.6421,123.153,0.691,2.68,8
+Kebumen,rowokele,-7.6,109.4452,185.182,0.684,3.824,10
+Kebumen,sadang,-7.5074,109.7253,259.812,0.783,5.104,8
+Kebumen,sruweng,-7.6432,109.6113,81.877,0.64,1.756,8
+Klaten,jatinom,-7.6341,110.5752,330.335,0.777,1.741,10
+Klaten,juwiring,-7.6586,110.7382,108.108,0.589,0.207,2
+Klaten,karangdowo,-7.7065,110.745,99.74,0.647,0.114,10
+Klaten,polanharjo,-7.6142,110.6637,174.84,0.661,0.773,10
+Kutai Timur,karangan,1.347,117.5871,225.611,0.776,3.279,10
+Langkat,seilepan,3.884,98.1754,66.419,0.796,1.107,10
+Muara Enim,tanjungagung,-3.9344,103.7863,322.732,0.837,2.228,8
+Pandeglang,cisata,-6.4084,105.9307,100.935,0.692,2.163,8
+Pati,batangan,-6.7127,111.2027,7.117,0.505,0.126,2
+Probolinggo,kraksaan,-7.7558,113.4302,9.411,0.547,0.197,2
+Probolinggo,krejengan,-7.8004,113.4157,25.124,0.599,0.452,10
+Purworejo,ngombol,-7.8273,109.9481,10.977,0.401,0.119,10
+Serdang Bedagai,seibamban,3.4255,99.1524,11.957,0.561,0.126,2
+Tulungagung,kauman,-8.0376,111.8585,131.013,0.597,1.038,8
+Balangan,tebingtinggi,-2.4607,115.6934,401.058,0.857,4.596,10
+Halmahera Timur,wasiletimur,1.2364,128.2825,389.561,0.797,4.184,10
+Minahasa Tenggara,ratatotok,0.917,124.7086,308.312,0.823,5.402,10
+Batu Bara,airputih,3.2873,99.396,10.328,0.557,0.115,8
+Blora,jepon,-7.0163,111.4589,140.781,0.735,1.159,10
+Bojonegoro,kapas,-7.1941,111.9033,25.933,0.703,0.165,10
+Bolaang Mongondow Timur,kotabunan,0.8703,124.6244,582.458,0.746,6.798,8
+Brebes,brebes,-6.8443,109.0525,4.051,0.448,0.067,10
+Cilacap,bantarsari,-7.5379,108.9102,70.393,0.721,1.59,10
+Hulu Sungai Utara,danaupanggang,-2.4439,115.092,7.407,0.749,0.065,10
+Kendal,kaliwungu,-6.9489,110.271,11.71,0.432,0.429,10
+Majene,malunda,-2.98,118.9435,546.182,0.867,7.228,10
+Mamuju,kalukku,-2.5935,119.0952,363.939,0.824,6.343,10
+Mamuju,mamuju,-2.7204,118.9429,438.849,0.859,5.77,10
+Mamuju,sampaga,-2.3585,119.2236,70.458,0.757,1.532,8
+Mamuju,tapalang,-2.8554,118.9436,526.36,0.891,6.41,8
+Murung Raya,uutmurung,0.2798,114.5499,530.537,0.757,4.18,10
+Parigi Moutong,parigibarat,-0.8453,120.0982,540.864,0.639,5.779,10
+Parigi Moutong,torue,-1.0419,120.2781,646.083,0.576,7.607,8
+Pasuruan,lekok,-7.6755,113.0085,27.74,0.653,0.623,2
+Pati,tayu,-6.5419,111.0405,19.475,0.631,0.468,10
+Pati,trangkil,-6.65,111.0766,26.221,0.6,0.493,10
+Pati,wedarijaksa,-6.6852,111.0885,13.215,0.61,0.242,10
+Poso,loreutara,-1.35,120.3042,1554.644,0.707,7.798,8
+Rembang,kaliori,-6.7223,111.2777,13.392,0.6,0.218,10
+Sekadau,sekadauhilir,0.0405,110.9386,37.961,0.802,0.377,8
+Sigi,gumbasa,-1.2541,119.9807,705.497,0.824,8.73,10
+Sukabumi,ciemas,-7.2073,106.4832,227.561,0.814,2.902,8
+Sukabumi,gunungguruh,-6.9492,106.8755,520.395,0.73,2.421,8
+Aceh Tenggara,darulhasanah,3.522,97.5635,1672.928,0.73,10.321,10
+Banggai,bunta,-0.8743,122.3464,514.853,0.716,6.537,10
+Banyumas,gumelar,-7.3887,108.9965,254.115,0.829,3.248,8
+Bengkulu Tengah,karangtinggi,-3.7749,102.452,152.593,0.833,2.123,10
+Bengkulu Tengah,pondokkelapa,-3.6763,102.2698,25.32,0.813,0.423,10
+Cilacap,gandrungmangu,-7.5071,108.8522,33.385,0.685,0.766,10
+Cilacap,karangpucung,-7.3812,108.9025,174.544,0.797,2.552,8
+Cilacap,kawunganten,-7.6023,108.9396,27.264,0.601,0.609,10
+Kendal,patean,-7.0796,110.1028,343.355,0.744,3.573,8
+Ketapang,jelaihulu,-1.94,110.8869,123.71,0.818,2.308,8
+Kotawaringin Barat,kotawaringinlama,-2.4713,111.4168,26.701,0.698,0.22,10
+Kuningan,japara,-6.9116,108.5437,339.226,0.8,2.569,8
+Lamandau,bulik,-2.1143,111.4239,53.476,0.761,0.675,8
+Mesuji,rawajituutara,-4.1424,105.6528,5.481,0.623,0.088,10
+Morowali,bahodopi,-2.88,121.9663,511.745,0.688,5.546,10
+Muna,batukara,-4.8212,122.8764,218.703,0.621,5.227,8
+Muna,lohia,-4.9029,122.7171,115.367,0.698,1.673,10
+Muna,pasikolaga,-5.0088,122.8068,120.871,0.574,3.177,10
+Nagekeo,keotengah,-8.8718,121.2978,393.988,0.543,9.451,8
+Nagekeo,mauponggo,-8.8567,121.1938,514.896,0.568,9.221,10
+Probolinggo,besuk,-7.7894,113.4779,56.448,0.623,0.77,8
+Seluma,talokecil,-4.2129,102.7387,66.357,0.85,1.037,10
+Situbondo,kapongan,-7.71,114.0775,26.954,0.639,0.523,10
+Sukabumi,cikakak,-6.8928,106.5268,659.644,0.804,6.655,10
+Sukabumi,cisolok,-6.8781,106.4598,615.263,0.81,5.707,10
+Tasikmalaya,sukaresik,-7.1568,108.1826,470.606,0.711,0.658,10
+Timor Tengah Selatan,amanatunselatan,-9.8425,124.6218,758.069,0.647,6.48,10
+Timor Tengah Selatan,kie,-9.8566,124.5438,684.846,0.628,5.283,8
+Timor Tengah Selatan,kolbano,-9.9864,124.5232,457.666,0.593,7.155,8
+Timor Tengah Selatan,kuatnana,-9.8466,124.4012,566.322,0.655,2.832,10
+Timor Tengah Selatan,santian,-9.7796,124.7065,403.425,0.647,4.834,8
+Timor Tengah Selatan,tobu,-9.6169,124.2826,1098.216,0.542,7.652,10
+Wonosobo,kaliwiro,-7.4733,109.8348,503.047,0.802,4.179,10
+Banggai,batuiselatan,-1.254,122.3185,563.181,0.605,6.268,10
+Banggai,moilong,-1.4044,122.3442,74.849,0.682,1.075,10
+Boalemo,dulupi,0.6293,122.3828,199.144,0.732,3.051,10
+Donggala,sirenja,-0.2501,119.8636,356.425,0.727,4.87,10
+Enrekang,anggeraja,-3.4219,119.7832,676.697,0.61,9.429,10
+Garut,cigedug,-7.3285,107.825,1416.657,0.76,7.305,10
+Garut,cilawu,-7.3,107.8994,1216.522,0.769,7.789,8
+Garut,karangpawitan,-7.2209,107.9542,941.277,0.711,4.428,10
+Garut,pasirwangi,-7.2116,107.7642,1467.775,0.747,5.669,8
+Garut,samarang,-7.1882,107.8125,1242.022,0.748,4.473,10
+Garut,tarogongkidul,-7.2151,107.8838,783.697,0.541,1.708,10
+Gresik,panceng,-6.9319,112.4636,35.312,0.576,0.681,10
+Gresik,sidayu,-6.98,112.56,7.468,0.484,0.138,10
+Halmahera Timur,mabatengah,1.0663,128.4719,294.873,0.795,4.211,10
+Halmahera Timur,wasileselatan,0.86,127.975,382.009,0.758,5.58,10
+Kepulauan Sula,sananautara,-2.0182,125.9251,137.322,0.646,3.878,10
+Luwu Timur,wotu,-2.598,120.8385,14.086,0.65,0.28,10
+Majalengka,sumberjaya,-6.6898,108.3315,34.796,0.542,0.237,10
+Maluku Tengah,amahai,-3.2188,129.1541,458.263,0.612,5.341,10
+Manokwari,masni,-0.8212,133.7127,155.1,0.844,2.809,10
+Parigi Moutong,balinggi,-1.0508,120.381,269.907,0.615,3.388,10
+Pohuwato,taluditi,0.782,121.8136,593.489,0.774,6.616,8
+Polewali Mandar,mapilli,-3.3657,119.1746,69.117,0.691,1.366,8
+Seram Bagian Barat,kairatu,-3.2675,128.504,372.462,0.593,4.825,10
+Sigi,kulawi,-1.5112,119.8823,1095.67,0.834,8.814,8
+Tanah Bumbu,angsana,-3.6896,115.6001,22.541,0.575,0.277,8
+Tanah Bumbu,mantewe,-3.1995,115.6757,194.952,0.644,2.133,10
+Tanah Bumbu,sungailoban,-3.6532,115.7263,17.675,0.66,0.217,8
+Asahan,meranti,3.0831,99.6191,8.326,0.679,0.131,8
+Bengkulu Selatan,airnipis,-4.3322,103.1022,532.266,0.779,4.847,8
+Bengkulu Selatan,bungamas,-4.4936,102.9922,50.515,0.761,0.737,8
+Bengkulu Selatan,kedurang,-4.3723,103.1582,743.619,0.756,5.684,10
+Bengkulu Selatan,kedurangilir,-4.5134,103.0574,79.746,0.759,1.172,8
+Bengkulu Selatan,kotamanna,-4.4365,102.9114,45.696,0.697,0.732,8
+Bengkulu Selatan,manna,-4.4629,102.9479,42.954,0.724,0.766,10
+Bengkulu Selatan,pasarmanna,-4.4679,102.9154,30.104,0.647,0.663,8
+Bengkulu Selatan,seginim,-4.4418,103.0173,59.05,0.686,0.679,8
+Bengkulu Selatan,ulumanna,-4.2779,103.0097,291.197,0.823,3.203,10
+Bengkulu Tengah,pagarjati,-3.594,102.3926,267.606,0.817,3.597,8
+Bengkulu Tengah,pematangtiga,-3.5727,102.3094,161.239,0.798,2.087,8
+Bengkulu Tengah,pondokkubang,-3.7003,102.3524,53.152,0.793,0.514,8
+Bengkulu Utara,airnapal,-3.5823,102.1735,43.441,0.812,0.548,8
+Bengkulu Utara,batiknau,-3.3852,102.0004,57.402,0.816,0.817,8
+Bengkulu Utara,girimulya,-3.2357,102.0857,380.667,0.831,3.096,10
+Bengkulu Utara,kerkap,-3.4789,102.3209,646.831,0.755,5.853,10
+Bengkulu Utara,padangjaya,-3.3055,102.176,644.893,0.81,4.924,8
+Bintan,bintantimur,0.8627,104.5694,17.969,0.485,0.727,8
+Bolaang Mongondow,dumogatimur,0.6495,124.1061,459.29,0.734,5.855,8
+Bolaang Mongondow Selatan,pinolosian,0.4604,124.1209,484.874,0.485,5.948,8
+Bolaang Mongondow Selatan,pinolosiantengah,0.4723,124.249,414.856,0.668,6.341,10
+Bolaang Mongondow Selatan,posigadan,0.4267,123.6323,817.154,0.495,7.192,8
+Bone Bolango,bone,0.3756,123.445,465.34,0.543,7.037,8
+Bone Bolango,bulawa,0.3714,123.2959,549.234,0.577,7.719,10
+Bone Bolango,kabilabone,0.4601,123.1422,303.604,0.636,6.965,8
+Deli Serdang,bangunpurba,3.371,98.8205,108.297,0.808,0.545,8
+Deli Serdang,galang,3.4392,98.8852,47.966,0.727,0.303,8
+Enrekang,maiwa,-3.6962,119.8828,253.629,0.727,4.361,8
+Kapuas Hulu,embalohhilir,0.9236,112.6261,47.462,0.564,0.239,8
+Kapuas Hulu,seberuang,0.3777,112.0521,95.619,0.616,1.95,8
+Katingan,sanamanmantikei,-1.203,113.0907,95.235,0.74,0.79,10
+Kaur,tanjungkemuning,-4.5958,103.1781,84.922,0.783,1.518,8
+Kota Binjai,binjaikota,3.6001,98.4771,36.799,0.455,0.149,8
+Kota Binjai,binjaiselatan,3.5648,98.4715,50.847,0.665,0.297,8
+Kota Medan,medanbarat,3.6083,98.6685,21.586,0.273,0.132,10
+Kota Medan,medanpetisah,3.5924,98.6598,25.083,0.263,0.121,0
+Kota Sorong,sorongbarat,-0.8196,131.3055,150.781,0.784,3.936,10
+Luwu,lamasitimur,-2.8673,120.2442,12.499,0.526,0.12,10
+Luwu Utara,baebunta,-2.6401,120.2733,131.533,0.7,1.719,10
+Luwu Utara,sabbang,-2.5996,120.1318,654.257,0.694,7.156,8
+Malinau,malinauselatan,3.014,116.3687,436.134,0.787,4.369,8
+Maluku Tengah,kotamasohi,-3.3047,128.9586,36.357,0.474,3.32,0
+Mamasa,aralle,-2.8752,119.08,903.453,0.758,6.198,8
+Mukomuko,airrami,-3.0365,101.6505,123.844,0.796,1.141,10
+Mukomuko,ipuh,-2.9951,101.5031,42.918,0.79,0.736,8
+Mukomuko,kotamukomuko,-2.5693,101.1443,12.497,0.803,0.223,10
+Ogan Ilir,lubukkeliat,-3.4885,104.6227,18.677,0.727,0.15,8
+Ogan Ilir,payaraman,-3.4351,104.5237,29.598,0.775,0.173,8
+Penajam Paser Utara,penajam,-1.1772,116.591,92.385,0.574,1.213,10
+Penajam Paser Utara,waru,-1.3204,116.4795,57.443,0.567,0.652,10
+Sambas,sambas,1.3315,109.3107,14.478,0.741,0.218,10
+Sambas,selakautimur,1.0423,109.1253,18.723,0.708,0.36,8
+Seluma,ilirtalo,-4.2077,102.6365,12.994,0.826,0.289,8
+Seluma,seluma,-4.0676,102.5648,50.936,0.772,1.074,10
+Seluma,selumatimur,-4.1089,102.6064,54.071,0.819,0.85,8
+Simeulue,simeuluebarat,2.7828,95.9201,84.698,0.709,2.174,10
+Sukamara,balairiam,-2.3448,111.1695,26.024,0.665,0.4,10
+Sukamara,sukamara,-2.6042,111.2312,19.747,0.625,0.218,8
+Aceh Barat,bubon,4.3034,96.1241,26.299,0.648,0.356,8
+Bangka,pemali,-1.8834,106.0375,27.361,0.49,0.437,8
+Bengkulu Utara,napalputih,-3.1104,101.9722,281.133,0.655,2.783,8
+Ciamis,cihaurbeuti,-7.2217,108.2303,836.067,0.463,7.33,8
+Cianjur,agrabinta,-7.3939,106.8961,62.134,0.652,1.245,10
+Cianjur,bojongpicung,-6.8883,107.2556,461.503,0.685,4.091,8
+Cianjur,campaka,-7.0052,107.1122,897.963,0.748,4.18,8
+Cianjur,cibeber,-6.9354,107.1397,583.653,0.712,3.773,8
+Cianjur,cidaun,-7.4076,107.3782,431.396,0.534,4.474,8
+Cianjur,cugenang,-6.801,107.0654,1054.34,0.587,7.349,8
+Cianjur,leles,-7.34,107.0181,217.473,0.675,2.555,8
+Cianjur,sindangbarang,-7.4274,107.1124,67.529,0.666,1.506,10
+Donggala,sinduetombusabora,-0.4691,119.8383,404.521,0.661,5.355,8
+Garut,cibalong,-7.6622,107.851,167.281,0.542,2.991,8
+Garut,cisompet,-7.5552,107.808,524.706,0.569,5.761,8
+Garut,pameungpeuk,-7.6283,107.731,103.261,0.608,2.251,10
+Gunung Mas,kurun,-1.1722,113.8663,86.523,0.535,0.611,8
+Gunung Mas,tewah,-1.0282,113.6993,93.044,0.602,0.694,8
+Katingan,kamipang,-2.3287,113.4132,25.529,0.59,0.167,10
+Katingan,katinganhilir,-1.8916,113.3843,36.734,0.6,0.208,8
+Ketapang,airupas,-2.3784,110.7772,39.895,0.602,0.314,10
+Ketapang,hulusungai,-0.9991,110.9731,268.14,0.62,3.669,10
+Kotawaringin Timur,cempagahulu,-1.9688,113.0509,29.719,0.683,0.24,8
+Kotawaringin Timur,kotabesi,-2.34,112.825,15.536,0.742,0.197,10
+Kotawaringin Timur,mentayahulu,-2.0617,112.5229,36.555,0.693,0.282,10
+Kotawaringin Timur,parenggean,-1.8522,112.7875,35.793,0.624,0.288,8
+Kotawaringin Timur,telawang,-2.3567,112.5959,27.898,0.738,0.259,8
+Lamandau,buliktimur,-1.7257,111.6388,212.085,0.582,3.272,10
+Lamandau,sematujaya,-2.2354,111.5563,40.162,0.582,0.544,8
+Lebak,bayah,-6.92,106.2937,185.974,0.732,3.478,10
+Lebak,cilograng,-6.9155,106.3738,358.689,0.712,4.063,8
+Lebak,panggarangan,-6.8292,106.2243,340.218,0.711,3.155,8
+Lumajang,tempursari,-8.2861,112.9725,219.729,0.623,6.171,10
+Luwu,walenrangtimur,-2.885,120.2106,18.566,0.748,0.375,10
+Luwu Utara,mappedeceng,-2.5474,120.4178,387.262,0.728,4.725,10
+Nias,bawolato,0.9704,97.8653,55.446,0.659,1.164,10
+Nias,gido,1.1142,97.7255,77.87,0.626,1.707,8
+Nunukan,krayan,4.0641,115.8417,1221.632,0.622,6.912,10
+Nunukan,krayanselatan,3.6477,115.7865,1162.554,0.659,5.667,10
+Pasaman Barat,talamau,0.2118,99.943,633.032,0.643,6.595,10
+Rejang Lebong,curup,-3.4728,102.5185,630.764,0.569,0.941,10
+Sarolangun,mandiangin,-2.11,103.0522,72.6,0.662,0.354,8
+Sigi,nokilalaki,-1.2033,120.1099,898.577,0.713,7.482,8
+Sigi,sigibiromaru,-0.9922,119.9708,517.866,0.702,5.423,8
+Sintang,binjaihulu,0.2071,111.493,33.294,0.419,0.239,10
+Sintang,kayanhulu,-0.0697,112.2531,229.638,0.603,3.276,8
+Sintang,kelampermai,0.1633,111.7304,57.091,0.441,1.291,8
+Sintang,ketungauhilir,0.4379,111.4967,39.613,0.509,0.431,10
+Sintang,ketungautengah,0.7574,111.46,113.158,0.593,1.87,8
+Sintang,serawai,-0.3869,112.5892,316.097,0.625,3.709,8
+Sintang,sintang,0.0682,111.5056,32.135,0.386,0.238,10
+Sintang,tempunak,-0.1512,111.3383,93.357,0.475,1.375,8
+Tabanan,kediri,-8.5819,115.1232,73.158,0.432,0.658,8
+Tanggamus,limau,-5.5557,104.8146,313.289,0.737,4.948,10
+Tasikmalaya,cisayong,-7.2433,108.1339,748.72,0.376,5.313,10
+Tasikmalaya,karangnunggal,-7.6637,108.1507,195.152,0.372,1.902,8
+Trenggalek,panggul,-8.2301,111.4567,255.695,0.51,5.823,8
+Aceh Tengah,bies,4.6119,96.7908,1398.13,0.338,7.192,8
+Aceh Tengah,kebayakan,4.6533,96.8692,1439.545,0.226,8.408,8
+Aceh Timur,simpangjernih,4.3698,97.6924,316.412,0.372,5.769,10
+Aceh Utara,cotgirek,4.872,97.3409,123.871,0.373,1.745,10
+Aceh Utara,dewantara,5.2367,97.0084,9.405,0.28,0.234,8
+Aceh Utara,muarabatu,5.2411,96.9472,10.762,0.323,0.3,10
+Aceh Utara,nisam,5.1678,97.0095,32.195,0.416,0.744,8
+Aceh Utara,samudera,5.1223,97.2268,6.994,0.172,0.11,8
+Bandung,cangkuang,-7.0575,107.5419,782.8,0.433,3.312,8
+Bandung,katapang,-7.0038,107.5604,666.401,0.354,0.163,10
+Bandung,pameungpeuk,-7.0186,107.5873,672.61,0.343,0.634,10
+Banggai Kepulauan,tinangkung,-1.3361,123.3167,199.103,0.622,3.343,10
+Bangli,bangli,-8.3966,115.3616,698.566,0.63,2.448,8
+Bangli,susut,-8.4187,115.3409,578.414,0.645,2.267,10
+Bantul,bambanglipuro,-7.9443,110.3135,27.791,0.291,0.294,10
+Bantul,imogiri,-7.9387,110.3972,106.754,0.396,3.193,10
+Bantul,jetis,-7.91,110.3663,40.75,0.363,0.3,10
+Bantul,kretek,-7.9951,110.3052,22.873,0.413,1.346,8
+Bantul,piyungan,-7.8433,110.4625,113.829,0.542,2.166,8
+Bantul,pleret,-7.8768,110.4142,79.4,0.424,1.472,10
+Banyumas,ajibarang,-7.4254,109.0729,143.831,0.336,2.223,10
+Banyuwangi,glenmore,-8.3122,114.0485,491.359,0.531,4.224,8
+Banyuwangi,siliragung,-8.5117,114.0972,157.756,0.608,2.922,10
+Banyuwangi,tegalsari,-8.4215,114.1256,117.707,0.514,0.487,10
+Bengkalis,siakkecil,1.1733,101.9349,28.856,0.401,0.152,10
+Bireuen,makmur,5.1425,96.8539,60.334,0.456,0.618,8
+Blitar,binangun,-8.2083,112.3377,238.047,0.324,1.537,10
+Blitar,nglegok,-7.999,112.2192,476.095,0.51,2.384,8
+Blitar,panggungrejo,-8.2666,112.2631,189.274,0.318,2.131,10
+Blitar,sutojayan,-8.1778,112.2267,190.758,0.31,1.408,10
+Blitar,wates,-8.2931,112.3392,267.948,0.349,3.115,10
+Blitar,wonotirto,-8.2647,112.1748,154.663,0.353,1.817,10
+Bojonegoro,ngraho,-7.2561,111.5405,65.191,0.548,0.58,8
+Bone Bolango,tapa,0.6237,123.0993,127.081,0.535,3.287,8
+Ciamis,purwadadi,-7.4399,108.6413,22.836,0.326,0.455,10
+Cilacap,adipala,-7.6641,109.1665,9.403,0.198,0.241,10
+Cilacap,kampunglaut,-7.6692,108.876,3.448,0.232,0.125,5
+Cilacap,kedungreja,-7.5199,108.7714,8.472,0.182,0.11,2
+Cilacap,kesugihan,-7.6262,109.0915,33.27,0.19,1.036,8
+Cilacap,maos,-7.6046,109.1578,9.521,0.136,0.111,2
+Ende,ende,-8.741,121.6278,558.912,0.624,7.634,8
+Enrekang,bungin,-3.5451,119.9883,1391.975,0.447,12.015,10
+Gayo Lues,blangjerango,3.966,97.1661,1786.93,0.251,8.893,10
+Gayo Lues,dabungelang,3.9627,97.492,1532.616,0.222,6.686,8
+Gayo Lues,tripejaya,4.1697,96.9797,1488.995,0.294,10.794,10
+Grobogan,ngaringan,-7.0464,111.167,88.661,0.455,0.709,8
+Indragiri Hilir,batangtuaka,-0.2679,103.121,8.711,0.51,0.117,8
+Indragiri Hilir,keritang,-0.6971,102.8419,13.114,0.528,0.162,8
+Indragiri Hilir,tembilahanhulu,-0.3837,103.0867,6.482,0.495,0.091,10
+Jember,tanggul,-8.0961,113.4984,600.013,0.534,4.911,10
+Jembrana,jembrana,-8.3189,114.6508,296.31,0.521,4.314,8
+Jembrana,melaya,-8.2452,114.5454,189.261,0.681,3.383,10
+Jembrana,mendoyo,-8.3285,114.7396,316.36,0.513,4.258,10
+Jembrana,negara,-8.33,114.5995,144.111,0.516,2.775,8
+Kampar,kamparkiri,-0.0083,101.1168,96.188,0.662,1.446,8
+Kapuas Hulu,batanglupar,1.028,112.2701,111.556,0.533,1.661,8
+Kapuas Hulu,bunuthilir,0.7417,112.5548,43.198,0.615,0.357,8
+Kapuas Hulu,jongkong,0.6624,112.3482,56.781,0.618,0.822,10
+Kapuas Hulu,selimbau,0.592,112.1643,44.835,0.558,0.503,8
+Kapuas Hulu,semitau,0.596,111.8593,56.058,0.532,0.698,10
+Kapuas Hulu,suhaid,0.6622,112.0102,35.98,0.567,0.291,10
+Karangasem,rendang,-8.3691,115.4373,937.677,0.528,5.939,10
+Kebumen,karanggayam,-7.5473,109.6175,184.684,0.222,3.408,8
+Ketapang,marau,-2.1246,110.6589,54.357,0.576,0.829,10
+Ketapang,pemahan,-1.707,110.527,52.821,0.667,0.836,10
+Ketapang,tumbangtiti,-1.8209,110.6715,121.57,0.558,2.453,8
+Kota Bogor,tanahsereal,-6.5464,106.7854,184.459,0.399,0.639,10
+Kota Cirebon,kejaksan,-6.7043,108.5561,5.061,0.273,0.092,0
+Kota Kediri,mojoroto,-7.808,111.9873,106.211,0.525,1.809,8
+Kotawaringin Barat,kumai,-2.9352,111.837,18.436,0.509,0.201,10
+Lamandau,delang,-1.6439,111.0293,220.427,0.567,4.105,8
+Lampung Barat,sumberjaya,-5.0204,104.4941,938.409,0.444,4.706,8
+Lampung Selatan,candipuro,-5.5262,105.5599,33.407,0.336,0.405,10
+Lampung Selatan,kalianda,-5.6837,105.5802,54.353,0.491,1.531,10
+Lampung Selatan,katibung,-5.5368,105.433,104.082,0.505,1.659,10
+Lampung Selatan,rajabasa,-5.8685,105.5598,146.381,0.566,7.39,10
+Lampung Selatan,sidomulyo,-5.5983,105.4895,60.424,0.424,0.855,8
+Langkat,babalan,4.0327,98.3356,3.727,0.204,0.063,10
+Lebak,cigemblong,-6.7406,106.171,462.251,0.707,2.597,8
+Luwu,bupon,-3.2684,120.222,227.117,0.531,4.627,10
+Luwu,kamanre,-3.3144,120.3515,16.251,0.347,0.178,10
+Luwu,ponrang,-3.2037,120.2666,169.259,0.455,3.116,10
+Luwu,walenrang,-2.885,120.115,347.487,0.49,5.575,10
+Magelang,borobudur,-7.6195,110.1958,355.64,0.379,4.093,10
+Majene,tubo,-3.1309,118.8218,196.833,0.654,6.156,8
+Malang,ampelgading,-8.2482,112.8901,672.672,0.372,6.311,10
+Malang,donomulyo,-8.3251,112.4302,266.517,0.262,2.085,10
+Malang,gedangan,-8.3433,112.622,258.332,0.432,2.417,8
+Malang,pagak,-8.2457,112.518,419.417,0.247,2.043,8
+Melawi,belimbing,-0.4284,111.4579,188.067,0.717,2.527,10
+Melawi,menukung,-0.4665,112.2941,330.689,0.625,3.888,10
+Melawi,nangapinoh,-0.358,111.7697,65.677,0.596,0.81,8
+Melawi,pinohselatan,-0.5892,111.8618,281.655,0.649,3.59,10
+Melawi,pinohutara,-0.268,111.8537,45.186,0.616,0.233,8
+Melawi,sayan,-0.7543,111.714,234.21,0.678,3.567,8
+Melawi,sokan,-1.0698,111.3925,301.037,0.632,3.284,10
+Merangin,bangko,-2.0922,102.3059,102.221,0.46,0.531,10
+Merangin,batangmasumai,-2.0772,102.1822,110.975,0.642,0.753,10
+Merangin,muarasiau,-2.2837,102.004,428.313,0.467,2.481,8
+Mesuji,mesuji,-3.8915,105.4733,7.436,0.619,0.098,10
+Nagekeo,nangaroro,-8.7688,121.3442,460.037,0.486,6.218,10
+Ogan Komering Ulu Selatan,buaypemaca,-4.723,104.2273,489.372,0.502,2.942,8
+Ogan Komering Ulu Timur,bungamayang,-4.3788,104.2408,123.837,0.638,0.597,8
+Pacitan,pacitan,-8.1858,111.1061,101.768,0.437,4.126,8
+Pesawaran,kedondong,-5.5032,104.9931,284.087,0.576,3.251,10
+Pesawaran,padangcermin,-5.5583,105.148,234.861,0.466,4.728,10
+Polewali Mandar,anreapi,-3.3479,119.3734,570.586,0.493,8.077,8
+Polewali Mandar,luyo,-3.3655,119.1072,78.956,0.702,1.199,8
+Ponorogo,badegan,-7.8988,111.3196,264.259,0.602,4.135,8
+Ponorogo,ngebel,-7.8025,111.6452,927.969,0.532,6.598,10
+Ponorogo,siman,-7.889,111.5053,140.711,0.466,0.838,10
+Ponorogo,sooko,-7.918,111.6559,496.331,0.651,5.059,8
+Purbalingga,bobotsari,-7.2816,109.3673,265.81,0.31,4.024,8
+Purbalingga,karanganyar,-7.3001,109.4062,169.082,0.356,1.806,8
+Purbalingga,karangreja,-7.2384,109.31,971.564,0.115,7.951,10
+Rembang,lasem,-6.6872,111.4638,110.923,0.452,2.974,10
+Rembang,sumber,-6.7991,111.2843,52.761,0.524,0.565,10
+Sampang,jrengik,-7.1281,113.1431,38.31,0.472,1.32,2
+Sanggau,kapuas,0.0034,110.555,70.905,0.565,1.258,10
+Sekadau,belitang,0.2428,111.1988,31.604,0.426,0.181,10
+Sekadau,belitanghilir,0.2239,111.0639,41.253,0.403,0.318,8
+Sekadau,nangataman,-0.3209,110.8151,315.828,0.662,4.157,8
+Seluma,talo,-4.1535,102.6745,67.932,0.201,1.142,10
+Seluma,ulutalo,-4.0384,102.7553,548.735,0.126,5.723,8
+Serdang Bedagai,seirampah,3.4567,99.0723,21.183,0.441,0.179,10
+Sintang,ambalau,-0.0768,112.9908,479.899,0.643,4.57,10
+Sintang,ketungauhulu,0.8789,111.0865,124.202,0.388,1.785,10
+Sintang,sungaitebelian,-0.1389,111.4792,43.254,0.69,0.24,8
+Sukabumi,cicantayan,-6.9215,106.83,520.625,0.542,2.246,10
+Sukabumi,purabaya,-7.1001,106.8851,613.877,0.48,2.254,10
+Sukabumi,sagaranten,-7.2013,106.8742,433.607,0.42,2.452,8
+Tanggamus,cukuhbalak,-5.6587,104.8966,202.688,0.585,5.348,10
+Tasikmalaya,bantarkalong,-7.5792,108.081,386.798,0.369,3.444,10
+Tasikmalaya,sukaratu,-7.2754,108.124,651.927,0.304,4.429,8
+Trenggalek,bendungan,-7.9511,111.7069,698.215,0.495,4.314,10
+Trenggalek,dongko,-8.204,111.5653,606.33,0.378,5.397,10
+Trenggalek,durenan,-8.0987,111.8023,176.141,0.404,2.729,10
+Trenggalek,gandusari,-8.134,111.7102,184.884,0.455,4.204,8
+Trenggalek,kampak,-8.2012,111.651,452.853,0.426,6.326,8
+Trenggalek,karangan,-8.0792,111.6717,148.91,0.534,1.857,8
+Trenggalek,pogalan,-8.0862,111.7535,165.943,0.499,3.619,8
+Trenggalek,pule,-8.1171,111.5384,731.984,0.472,5.307,8
+Trenggalek,suruh,-8.116,111.6195,425.328,0.441,6.401,8
+Trenggalek,trenggalek,-8.0328,111.7218,218.611,0.454,3.719,10
+Trenggalek,tugu,-8.0328,111.6352,252.848,0.524,4.332,10
+Tulungagung,bandung,-8.1662,111.7621,167.357,0.469,3.063,8
+Tulungagung,besuki,-8.231,111.7786,168.243,0.48,3.461,8
+Tulungagung,kalidawir,-8.1987,111.9487,176.265,0.45,2.124,8
+Tulungagung,karangrejo,-7.9942,111.8918,125.712,0.405,1.321,8
+Tulungagung,pagerwojo,-7.9767,111.7842,555.342,0.369,4.385,10
+Wonosobo,kepil,-7.512,110.0148,638.504,0.294,3.899,8
+Wonosobo,kertek,-7.3561,109.9773,1220.275,0.219,7.368,8
+Wonosobo,wadaslintang,-7.5483,109.8002,366.919,0.395,4.743,8
+Wonosobo,watumalang,-7.3135,109.8499,1004.25,0.323,4.676,8
+Aceh Singkil,singkil,2.3313,97.8025,17.789,0.678,0.283,10
+Aceh Singkil,singkohor,2.5287,97.9362,66.828,0.736,0.675,8
+Aceh Singkil,suromakmur,2.5303,98.0267,108.536,0.702,1.38,10
+Aceh Tengah,bebesen,4.6377,96.8119,1469.415,0.575,5.412,8
+Aceh Tenggara,ketambe,3.6739,97.7405,1226.849,0.516,10.825,8
+Aceh Timur,peunaron,4.6246,97.6498,75.356,0.771,1.402,8
+Aceh Timur,peureulak,4.7619,97.8569,14.137,0.581,0.322,10
+Aceh Utara,bandabaro,5.187,96.9689,38.396,0.501,0.742,8
+Aceh Utara,simpangkeuramat,5.0423,97.0788,159.505,0.621,1.539,8
+Banyumas,purwojati,-7.4845,109.1086,69.125,0.485,1.886,10
+Banyumas,purwokertobarat,-7.4251,109.2137,76.978,0.491,0.52,10
+Banyuwangi,kalibaru,-8.2705,113.9791,696.206,0.551,4.22,10
+Banyuwangi,kalipuro,-8.1165,114.3336,537.788,0.605,5.755,8
+Batu Bara,limapuluh,3.2189,99.4586,16.416,0.591,0.196,8
+Batu Bara,seisuka,3.3189,99.328,15.717,0.526,0.203,8
+Bengkalis,rupatutara,2.0248,101.5735,10.953,0.666,0.19,10
+Blora,bogorejo,-6.9289,111.5228,190.575,0.656,1.929,8
+Blora,jiken,-7.0112,111.5471,166.05,0.67,1.31,10
+Bojonegoro,sekar,-7.4004,111.7156,256.587,0.614,2.63,8
+Brebes,paguyangan,-7.2912,109.0564,705.182,0.538,6.134,10
+Deli Serdang,hamparanperak,3.7666,98.6009,6.46,0.596,0.075,8
+Flores Timur,solorselatan,-8.4892,122.9926,206.769,0.644,7.348,10
+Gresik,wringinanom,-7.3742,112.5183,36.585,0.493,0.43,10
+Halmahera Utara,kao,1.2296,127.8861,30.585,0.71,0.49,10
+Indragiri Hilir,tempuling,-0.4113,102.9001,16.445,0.642,0.13,10
+Jember,jombang,-8.2221,113.3591,16.368,0.596,0.086,10
+Jember,silo,-8.2645,113.8748,517.871,0.663,4.258,8
+Jeneponto,bangkalabarat,-5.4951,119.5612,128.779,0.543,2.408,10
+Kepulauan Mentawai,siberutbarat,-1.2088,98.7643,92.667,0.637,1.523,10
+Kepulauan Mentawai,siberututara,-1.1874,98.8833,82.55,0.57,1.371,10
+Kepulauan Meranti,rangsangbarat,1.0882,102.7572,9.815,0.674,0.173,8
+Kota Bima,asakota,-8.4122,118.7438,170.987,0.632,5.151,8
+Kota Binjai,binjaibarat,3.6184,98.4685,35.065,0.607,0.137,10
+Kota Binjai,binjaitimur,3.5951,98.5167,36.238,0.622,0.207,8
+Kota Medan,medanhelvetia,3.6055,98.6324,22.861,0.291,0.128,0
+Kuningan,jalaksana,-6.9158,108.4589,1060.086,0.523,10.86,10
+Kuningan,kuningan,-6.9811,108.4913,523.49,0.453,2.932,10
+Langkat,besitang,3.9544,98.0699,199.214,0.66,2.638,8
+Langkat,hinai,3.833,98.4285,8.112,0.673,0.091,10
+Langkat,kuala,3.4625,98.3831,199.59,0.684,1.353,8
+Langkat,secanggang,3.8656,98.5411,4.462,0.597,0.065,10
+Langkat,stabat,3.7335,98.4616,13.998,0.698,0.095,10
+Lombok Timur,sakratimur,-8.7141,116.5237,87.278,0.519,1.262,2
+Madiun,dagangan,-7.73,111.5913,350.32,0.714,3.6,10
+Madiun,jiwan,-7.6129,111.489,69.732,0.54,0.207,10
+Majene,banggaetimur,-3.5114,118.9674,143.311,0.701,3.021,10
+Majene,ulumanda,-3.0853,118.9436,629.129,0.774,7.266,10
+Minahasa,tondanotimur,1.2843,124.9416,809.76,0.623,3.849,10
+Mukomuko,lubukpinang,-2.4212,101.153,33.899,0.711,0.541,10
+Mukomuko,xivkoto,-2.4788,101.0818,12.663,0.674,0.196,10
+Nagan Raya,beutong,4.3202,96.5684,1040.113,0.616,8.581,8
+Nagan Raya,taduraya,4.0696,96.3926,33.96,0.731,0.437,10
+Nias Barat,lahomi,0.977,97.5095,86.625,0.59,1.893,8
+Nias Barat,mandrehe,1.0518,97.5072,121.09,0.623,2.515,8
+Nias Barat,mandrehebarat,1.0148,97.4303,26.625,0.706,0.615,10
+Nias Utara,alasa,1.1989,97.3919,76.422,0.622,1.445,10
+Nias Utara,lahewatimur,1.3555,97.315,34.217,0.602,0.834,10
+Nias Utara,lotu,1.4213,97.3627,77.914,0.582,1.763,10
+Nias Utara,sitoluori,1.4051,97.4479,89.138,0.522,1.816,10
+Nias Utara,tugalaoyo,1.1231,97.4262,43.114,0.705,0.957,8
+Ogan Komering Ulu Selatan,sungaiare,-4.4749,103.466,786.57,0.769,5.143,8
+Pati,tambakromo,-6.9023,111.0492,128.968,0.551,1.766,8
+Pati,winong,-6.8478,111.0989,55.614,0.513,0.869,10
+Pesisir Selatan,bayang,-1.258,100.5329,93.146,0.637,3.855,10
+Polewali Mandar,campalagian,-3.4538,119.1262,73.848,0.718,1.759,10
+Purbalingga,kertanegara,-7.2878,109.4315,203.955,0.585,2.52,10
+Rembang,pamotan,-6.7703,111.4598,52.323,0.619,0.812,2
+Rokan Hulu,kabun,0.465,100.746,100.132,0.708,1.065,10
+Rokan Hulu,tandun,0.5873,100.6077,90.227,0.755,0.755,10
+Sampang,omben,-7.107,113.3283,77.935,0.407,1.122,10
+Serdang Bedagai,dolokmasihul,3.3266,99.0206,58.463,0.675,0.308,8
+Serdang Bedagai,tanjungberingin,3.4827,99.2117,4.304,0.32,0.046,10
+Sidoarjo,krian,-7.3997,112.5957,13.364,0.398,0.043,10
+Sidoarjo,sidoarjo,-7.4651,112.7473,3.142,0.342,0.042,10
+Sidoarjo,tulangan,-7.4751,112.6444,8.958,0.508,0.052,10
+Sukoharjo,baki,-7.6079,110.7787,102.495,0.481,0.182,10
+Sukoharjo,mojolaban,-7.5958,110.8712,103.855,0.53,0.255,10
+Sukoharjo,tawangsari,-7.7279,110.7853,108.327,0.557,0.532,10
+Sukoharjo,weru,-7.7852,110.7584,130.69,0.509,1.178,8
+Sumbawa,lenangguar,-8.8167,117.3628,452.308,0.729,5.015,10
+Sumbawa,unteriwes,-8.5461,117.3939,157.983,0.714,2.513,8
+Tabalong,banualawas,-2.296,115.23,16.927,0.644,0.129,8
+Tabalong,pugaan,-2.3154,115.3375,15.726,0.606,0.118,8
+Tapanuli Selatan,batangangkola,1.2284,99.24,400.885,0.55,5.977,8
+Tapanuli Selatan,sayurmatinggi,1.1111,99.3353,439.35,0.531,6.938,10
+Tapanuli Tengah,barusutara,2.0606,98.4329,97.712,0.66,1.862,8
+Tapanuli Tengah,kolang,1.8648,98.7127,234.602,0.643,3.28,8
+Trenggalek,munjungan,-8.2972,111.5782,230.166,0.56,6.65,10
+Tuban,jatirogo,-6.8706,111.6762,88.015,0.663,0.625,8
+Wonogiri,batuwarno,-7.9839,111.0081,312.425,0.694,3.583,10
+Wonogiri,jatiroto,-7.8955,111.1228,350.875,0.648,3.987,10
+Wonogiri,kismantoro,-7.9035,111.2437,504.861,0.712,5.603,8
+Wonogiri,ngadirojo,-7.827,111.0054,250.079,0.674,1.361,10
+Wonogiri,nguntoronadi,-7.8977,110.9672,229.65,0.643,2.782,10
+Wonogiri,selogiri,-7.7927,110.8833,178.22,0.643,2.854,8
+Wonogiri,tirtomoyo,-7.9539,111.0843,469.547,0.669,6.57,8
+Wonogiri,wonogiri,-7.8022,110.9396,204.659,0.666,2.085,8
+Aceh Besar,blangbintang,5.5192,95.446,117.572,0.562,1.542,8
+Aceh Timur,rantauselamat,4.6157,97.833,36.211,0.44,0.678,8
+Aceh Utara,kutamakmur,5.0889,97.0479,136.868,0.502,1.471,8
+Aceh Utara,nibong,5.0446,97.2256,17.694,0.428,0.17,8
+Aceh Utara,syamtaliraaron,5.1042,97.2563,5.936,0.294,0.119,10
+Aceh Utara,syamtalirabayu,5.0815,97.1812,19.038,0.447,0.344,8
+Aceh Utara,tanahpasir,5.1334,97.2654,5.441,0.266,0.074,10
+Alor,kabola,-8.1592,124.5539,294.027,0.59,6.657,10
+Bandung,cimaung,-7.1134,107.5726,1187.531,0.454,7.333,8
+Bengkalis,rupat,1.8569,101.586,21.025,0.619,0.185,10
+Ponorogo,balong,-7.9528,111.4122,151.949,0.709,1.888,10
+Poso,lorebarat,-1.8499,120.1945,1296.001,0.742,8.033,8
+Purworejo,bayan,-7.7232,109.9432,26.426,0.751,0.231,10
+Purworejo,butuh,-7.7444,109.8585,11.293,0.727,0.09,10
+Purworejo,grabag,-7.8109,109.8797,11.02,0.596,0.155,10
+Purworejo,kutoarjo,-7.723,109.9075,20.006,0.737,0.256,10
+Semarang,bringin,-7.229,110.5511,221.792,0.682,2.068,8
+Semarang,suruh,-7.3498,110.5909,445.368,0.591,2.544,10
+Situbondo,panarukan,-7.6965,113.9744,22.667,0.614,0.508,2
+Sleman,depok,-7.7661,110.4103,150.941,0.49,0.753,10
+Sleman,mlati,-7.739,110.3458,170.974,0.607,0.762,10
+Sleman,moyudan,-7.7774,110.2478,95.489,0.723,0.399,10
+Sleman,ngaglik,-7.712,110.3994,255.696,0.658,1.355,10
+Sukabumi,cikembar,-6.9742,106.7982,343.361,0.758,1.984,10
+Sukoharjo,sukoharjo,-7.6798,110.8187,98.828,0.66,0.095,10
+Sumedang,jatigede,-6.8696,108.1342,272.768,0.703,3.623,10
+Sumedang,jatinunggal,-6.9355,108.1634,398.164,0.786,3.508,10
+Sumedang,ujungjaya,-6.7093,108.0929,64.804,0.736,0.821,8
+Temanggung,bulu,-7.317,110.1084,1073.919,0.507,7.037,10
+Temanggung,candiroto,-7.2022,110.0582,981.667,0.613,5.831,10
+Temanggung,kandangan,-7.23,110.204,675.923,0.688,3.356,8
+Temanggung,temanggung,-7.3201,110.1816,574.974,0.698,1.869,10
+Wonogiri,baturetno,-7.9643,110.9379,166.718,0.687,1.102,8
+Wonogiri,giriwoyo,-8.0385,110.9466,272.082,0.763,3.193,8
+Wonogiri,pracimantoro,-8.0717,110.8161,276.39,0.789,1.878,10
+Aceh Selatan,bakongantimur,2.9082,97.5614,146.478,0.823,4.256,10
+Asahan,aeksongsongan,2.6051,99.3695,388.37,0.773,3.587,10
+Banyumas,kembaran,-7.4131,109.2882,79.334,0.615,0.694,10
+Blora,jati,-7.2225,111.2966,120.392,0.788,0.636,10
+Ciamis,rajadesa,-7.1731,108.4509,424.864,0.768,2.723,10
+Cianjur,cianjur,-6.8189,107.1307,490.817,0.537,2.128,0
+Gresik,dukun,-6.9841,112.4476,14.073,0.473,0.31,10
+Gunung Mas,damangbatu,-0.717,113.284,329.117,0.796,3.651,8
+Kuningan,selajambe,-7.1043,108.4681,509.32,0.751,6.46,8
+Lebong,uramjaya,-3.0713,102.2525,1144.669,0.709,10.304,8
+Luwu,lamasi,-2.8044,120.1829,28.339,0.767,0.561,10
+Madiun,madiun,-7.5917,111.5724,72.044,0.553,0.326,10
+Malinau,kayanhilir,1.9697,115.5611,926.271,0.68,5.623,10
+Mandailing Natal,kotanopan,0.6306,99.725,964.634,0.755,7.484,10
+Mandailing Natal,pakantan,0.5267,99.8995,1168.077,0.575,7.517,8
+Mandailing Natal,panyabunganutara,0.9312,99.5524,559.011,0.688,5.799,10
+Merangin,tabir,-1.8118,102.2649,94.433,0.588,0.612,10
+Murung Raya,murung,-0.7296,114.5472,76.648,0.643,0.7,8
+Paser,batusopang,-1.7435,115.9133,262.765,0.682,3.652,8
+Pemalang,pulosari,-7.1897,109.2402,1402.013,0.728,10.094,10
+Pidie Jaya,meurahdua,5.2207,96.2604,52.146,0.67,1.506,10
+Poso,lage,-1.5175,120.8136,572.694,0.805,5.289,10
+Purwakarta,babakancikao,-6.4908,107.4241,73.267,0.673,0.618,8
+Rejang Lebong,curuptengah,-3.4828,102.5478,726.505,0.635,2.7,8
+Rembang,bulu,-6.8553,111.3767,131.802,0.769,1.405,10
+Rembang,sulang,-6.7884,111.3651,53.782,0.739,0.555,8
+Rokan Hulu,kuntodarussalam,0.9194,100.6873,52.191,0.791,0.352,8
+Semarang,banyubiru,-7.3233,110.4116,813.919,0.759,8.014,8
+Sigi,doloselatan,-1.2656,119.841,1007.89,0.737,8.372,8
+Simeulue,simeuluetimur,2.4878,96.327,84.736,0.65,2.529,10
+Bone,lamuru,-4.5879,119.9579,202.347,0.676,2.493,8
+Cianjur,kadupandak,-7.2146,107.0269,375.06,0.667,3.106,10
+Cianjur,takokak,-7.1061,106.9864,839.697,0.504,2.718,8
+Cirebon,ciwaringin,-6.676,108.3823,24.52,0.427,0.371,10
+Demak,demak,-6.872,110.6541,5.215,0.657,0.053,10
+Donggala,balaesang,-0.0255,119.8969,224.62,0.695,4.433,10
+Donggala,balaesangtanjung,-0.067,119.6996,168.378,0.661,5.037,10
+Donggala,banawatengah,-0.759,119.7182,228.519,0.658,4.65,8
+Ende,maurole,-8.5319,121.7939,298.739,0.787,8.074,8
+Grobogan,kradenan,-7.1766,111.1244,85.592,0.715,0.502,10
+Grobogan,wirosari,-7.0371,111.0849,121.47,0.746,1.233,8
+Halmahera Timur,maba,0.9401,128.2946,421.188,0.744,6.569,10
+Jember,mumbulsari,-8.2571,113.7412,157.512,0.72,2.82,8
+Jepara,karimunjawa,-5.8258,110.4319,51.331,0.475,2.589,10
+Karanganyar,jaten,-7.564,110.8949,107.722,0.45,0.283,2
+Karanganyar,jenawi,-7.5631,111.1368,912.603,0.755,7.649,10
+Kendal,kaliwunguselatan,-7.0056,110.2402,76.454,0.731,1.265,8
+Klaten,wonosari,-7.6266,110.7434,113.581,0.612,0.256,2
+Kota Magelang,magelangtengah,-7.4774,110.2187,363.176,0.487,0.813,10
+Kota Semarang,semarangselatan,-6.9969,110.4246,16.755,0.314,0.883,10
+Kuningan,kalimanggis,-6.9528,108.6267,166.157,0.656,1.532,10
+Kupang,amfoangutara,-9.5149,123.8854,340.688,0.65,6.412,10
+Lampung Tengah,waypengubuan,-4.8324,105.167,36.074,0.502,0.165,8
+Lombok Timur,jerowaru,-8.8454,116.4802,31.134,0.452,0.74,10
+Majene,pamboang,-3.4666,118.9107,238.126,0.766,6.136,10
+Majene,sendana,-3.3394,118.8833,339.144,0.724,7.145,10
+Majene,tammerodo,-3.227,118.8646,241.721,0.686,6.04,10
+Mamuju,balabalakang,-2.0558,117.266,0.0,0.7403333333333334,0.0,6
+Mamuju,tapalangbarat,-2.7771,118.7986,191.81,0.759,4.592,8
+Maros,bantimurung,-4.9755,119.6761,194.155,0.656,3.682,8
+Maros,camba,-4.9167,119.8453,594.434,0.648,6.566,8
+Maros,cenrana,-5.0222,119.8055,682.546,0.62,6.254,10
+Maros,lau,-4.9623,119.5613,2.615,0.372,0.052,10
+Maros,mandai,-5.0779,119.5614,12.841,0.505,0.325,10
+Maros,marosbaru,-4.9965,119.5285,3.005,0.372,0.053,10
+Maros,marusu,-5.035,119.5039,6.331,0.432,0.14,10
+Maros,moncongloe,-5.1467,119.5554,31.563,0.549,0.946,10
+Maros,simbang,-5.0494,119.6793,118.928,0.698,2.42,8
+Maros,tanralili,-5.0978,119.6181,42.772,0.625,1.256,10
+Maros,turikale,-5.0143,119.576,5.517,0.431,0.134,2
+Pati,margorejo,-6.767,110.9918,60.964,0.671,1.155,10
+Pinrang,lembang,-3.4201,119.5703,814.559,0.708,9.357,8
+Pinrang,suppa,-3.9545,119.6131,34.686,0.602,0.897,10
+Polewali Mandar,binuang,-3.4257,119.4216,311.116,0.73,7.028,10
+Polewali Mandar,matakali,-3.3599,119.2906,247.868,0.658,4.615,10
+Polewali Mandar,polewali,-3.4129,119.3265,17.476,0.559,0.689,2
+Polewali Mandar,wonomulyo,-3.4243,119.2358,5.471,0.596,0.096,10
+Sambas,jawai,1.3929,109.0745,7.028,0.671,0.117,10
+Sambas,jawaiselatan,1.2423,109.0288,4.218,0.625,0.075,8
+Sambas,sajad,1.3689,109.4159,16.827,0.737,0.233,8
+Sambas,sebawi,1.2661,109.236,20.623,0.671,0.468,8
+Sambas,sejangkung,1.4246,109.4976,23.204,0.717,0.447,10
+Sambas,selakau,1.0437,109.0085,6.752,0.705,0.335,10
+Sambas,tebas,1.1327,109.228,24.74,0.719,0.571,10
+Sambas,tekarang,1.2862,109.1155,6.218,0.679,0.088,10
+Serang,bandung,-6.2212,106.3089,18.834,0.432,0.17,2
+Serang,tirtayasa,-5.9861,106.3109,2.555,0.254,0.047,10
+Serdang Bedagai,telukmengkudu,3.538,99.1242,7.835,0.34,0.123,10
+Simeulue,telukdalam,2.6369,96.1448,58.48,0.65,1.93,8
+Simeulue,teupahbarat,2.4857,96.2329,140.595,0.555,3.057,8
+Simeulue,teupahselatan,2.3168,96.4861,44.171,0.446,1.085,10
+Soppeng,donridonri,-4.273,119.8425,238.078,0.657,2.435,10
+Soppeng,ganra,-4.3005,119.9496,21.072,0.458,0.175,10
+Sukabumi,simpenan,-7.0819,106.5886,426.756,0.73,4.797,10
+Tuban,palang,-6.9357,112.1506,24.884,0.682,0.707,8
+Aceh Besar,indrapuri,5.4194,95.4542,217.401,0.715,3.495,8
+Aceh Tengah,ketol,4.8221,96.6111,940.306,0.767,7.362,8
+Banggai Kepulauan,bulagiutara,-1.2212,123.0738,220.898,0.715,3.709,8
+Banggai Kepulauan,tinangkungutara,-1.2828,123.4318,92.913,0.742,1.977,10
+Banggai Kepulauan,totikumselatan,-1.4289,123.4462,215.843,0.676,3.125,10
+Bangka,belinyu,-1.628,105.8417,28.141,0.392,0.59,10
+Bangka Barat,jebus,-1.6745,105.5226,21.713,0.493,0.392,10
+Banjar,simpangempat,-3.1815,114.9437,17.95,0.529,0.258,10
+Banjar,sungaipinang,-3.2468,115.3186,183.499,0.562,2.301,8
+Bima,langgudu,-8.7399,118.8368,230.083,0.663,5.97,10
+Bima,soromandi,-8.3439,118.5892,319.648,0.608,5.379,8
+Bintan,bintanpesisir,0.8619,104.7269,12.422,0.496,0.457,10
+Bintan,bintanutara,1.0812,104.2555,21.246,0.633,0.516,10
+Bintan,gunungkijang,1.0318,104.6061,17.335,0.588,0.473,10
+Bintan,mantang,0.7759,104.5936,6.956,0.374,0.323,10
+Bintan,tambelan,0.9397,107.4506,51.361,0.456,2.1,10
+Bintan,telukbintan,1.0423,104.4556,11.991,0.547,0.532,10
+Bintan,teluksebong,1.1343,104.414,19.519,0.577,0.438,10
+Bireuen,jeunieb,5.0747,96.4798,402.042,0.699,4.859,10
+Bireuen,kotajuang,5.1971,96.7147,30.052,0.532,0.737,8
+Bireuen,pandrah,5.0816,96.4452,528.071,0.73,6.352,8
+Bireuen,peulimbang,5.0441,96.5059,678.47,0.682,6.664,8
+Bireuen,peusangan,5.2003,96.7691,28.843,0.586,0.718,10
+Bireuen,peusanganselatan,5.0624,96.7642,188.428,0.752,2.439,8
+Bireuen,samalanga,5.0837,96.3657,779.354,0.68,6.655,10
+Bireuen,simpangmamplam,5.107,96.4125,560.069,0.685,5.263,8
+Cirebon,astanajapura,-6.8037,108.6215,14.36,0.544,0.507,10
+Gorontalo Utara,sumalata,0.9447,122.4406,551.906,0.698,9.511,8
+Halmahera Utara,lolodakepulauan,2.2247,127.7812,87.038,0.511,2.777,10
+Halmahera Utara,tobelotengah,1.6767,127.9511,414.761,0.601,4.838,8
+Kapuas Hulu,embalohhulu,1.3413,112.5872,373.308,0.642,4.022,8
+Karimun,tebing,1.0773,103.3825,51.32,0.48,2.089,10
+Kepulauan Sangihe,manganituselatan,3.4107,125.6114,106.781,0.597,3.098,10
+Kota Semarang,banyumanik,-7.0698,110.4206,209.529,0.412,2.071,8
+Kupang,amabioefeto,-10.1474,123.9192,157.556,0.816,1.805,8
+Lebak,banjarsari,-6.5985,105.9853,67.619,0.594,0.834,8
+Lebak,bojongmanik,-6.5839,106.1694,228.701,0.584,2.302,8
+Lebak,cikulur,-6.3929,106.1479,65.779,0.655,0.678,10
+Lebak,cileles,-6.4885,106.0778,95.103,0.595,0.833,10
+Lebak,kalanganyar,-6.3853,106.2332,40.914,0.531,0.438,8
+Lebak,leuwidamar,-6.5741,106.2216,247.903,0.559,2.609,8
+Lebak,muncang,-6.5528,106.287,266.326,0.588,3.05,8
+Lebong,lebongtengah,-3.2082,102.2336,997.976,0.61,9.221,8
+Lingga,linggautara,-0.1392,104.7158,28.962,0.456,1.08,10
+Lombok Utara,tanjung,-8.417,116.1731,393.178,0.701,4.816,8
+Minahasa Utara,airmadidi,1.4019,124.9663,440.578,0.756,5.949,10
+Minahasa Utara,dimembe,1.5236,125.0071,409.521,0.73,4.859,10
+Minahasa Utara,kauditan,1.3908,125.0201,437.773,0.769,6.873,8
+Minahasa Utara,kema,1.3446,125.0506,167.906,0.779,4.21,8
+Minahasa Utara,likupangbarat,1.7215,125.0036,75.44,0.668,2.597,10
+Minahasa Utara,likupangselatan,1.6247,125.0226,144.058,0.763,2.627,8
+Minahasa Utara,likupangtimur,1.6653,125.1131,94.998,0.675,2.503,8
+Minahasa Utara,talawaan,1.5689,124.9391,159.959,0.749,2.982,8
+Minahasa Utara,wori,1.6466,124.8603,52.993,0.723,2.391,10
+Pandeglang,picung,-6.5002,105.949,31.804,0.554,0.508,8
+Pidie,batee,5.4278,95.8865,25.152,0.619,0.926,8
+Pidie,glumpangtiga,5.2126,96.0267,117.377,0.737,2.596,8
+Pidie,keumala,5.2235,95.8649,139.62,0.712,2.526,10
+Pidie,kotasigli,5.3832,95.9582,5.26,0.364,0.123,10
+Pidie,mutiaratimur,5.2561,95.9877,27.998,0.674,0.256,10
+Pidie,peukanbaro,5.3209,95.9629,15.838,0.611,0.133,10
+Pidie,sakti,5.2517,95.9291,44.399,0.65,0.429,10
+Pidie,simpangtiga,5.3421,95.9922,8.194,0.439,0.178,10
+Pidie Jaya,bandarbaru,5.1837,96.0911,323.04,0.71,4.832,10
+Pidie Jaya,jangkabuya,5.2202,96.3248,8.12,0.398,0.203,10
+Pidie Jaya,panteraja,5.2573,96.146,24.029,0.589,0.934,8
+Pidie Jaya,trienggadeng,5.2194,96.1717,93.269,0.701,2.421,10
+Pidie Jaya,ulim,5.189,96.2687,91.827,0.666,2.801,10
+Poso,loretimur,-1.458,120.4025,1270.235,0.672,4.642,8
+Purbalingga,karangjambu,-7.2184,109.4046,735.252,0.641,6.691,10
+Sambas,galing,1.594,109.3666,19.72,0.533,0.36,8
+Sambas,paloh,1.8303,109.4153,30.757,0.443,0.961,10
+Sambas,tangaran,1.5417,109.1444,7.154,0.451,0.112,10
+Sambas,telukkeramat,1.4522,109.2014,12.543,0.484,0.16,10
+Sampang,kedungdung,-7.0675,113.242,59.262,0.671,0.652,10
+Sampang,pangarengan,-7.1929,113.1722,9.293,0.53,0.377,10
+Sampang,sampang,-7.1787,113.2521,17.491,0.66,0.495,2
+Sidenreng Rappang,pancalautang,-4.0657,119.8275,144.27,0.403,1.831,8
+Sidenreng Rappang,watangsidenreng,-3.9183,119.8682,26.974,0.548,0.319,10
+Sidoarjo,gedangan,-7.3915,112.7297,5.077,0.323,0.052,10
+Sidoarjo,waru,-7.3545,112.7665,3.997,0.28,0.058,10
+Sumbawa,labangka,-8.8974,117.7566,55.835,0.759,1.481,10
+Sumbawa,orongtelu,-8.7769,117.175,429.192,0.766,5.569,8
+Sumbawa,plampang,-8.809,117.7867,151.348,0.686,3.148,10
+Tegal,balapulang,-7.0836,109.109,244.771,0.729,2.748,8
+Tegal,dukuhturi,-6.902,109.1072,8.518,0.456,0.144,10
+Tegal,dukuhwaru,-6.9718,109.0965,28.859,0.685,0.28,10
+Wonosobo,wonosobo,-7.3598,109.9182,823.158,0.594,3.129,8
+Barito Kuala,jejangkit,-3.1776,114.7644,5.83,0.378,0.031,10
+Barito Kuala,mandastana,-3.2132,114.6673,5.601,0.371,0.031,10
+Barito Kuala,rantaubadauh,-3.1106,114.7135,6.61,0.381,0.039,8
+Barito Selatan,karaukuala,-1.9171,114.8004,22.647,0.59,0.142,8
+Barru,barru,-4.4208,119.6904,179.896,0.456,5.04,8
+Barru,taneteriaja,-4.5317,119.72,330.553,0.532,5.064,10
+Barru,taneterilau,-4.5023,119.6185,53.553,0.545,1.584,10
+Bima,ambalawi,-8.3563,118.8079,220.679,0.477,4.084,10
+Bima,parado,-8.7929,118.5559,342.092,0.62,5.247,10
+Bojonegoro,kanor,-7.1188,112.0291,14.987,0.503,0.063,10
+Bone,bontocani,-5.0367,119.9722,685.325,0.482,6.19,10
+Dompu,pajo,-8.6384,118.4831,185.24,0.47,4.965,10
+Gowa,tinggimoncong,-5.2474,119.8445,1015.522,0.212,7.428,10
+Hulu Sungai Utara,paminggir,-2.4434,114.9931,6.527,0.327,0.04,4
+Jombang,kudu,-7.4161,112.2957,39.411,0.608,0.553,10
+Karawang,majalaya,-6.3058,107.3683,13.799,0.427,0.094,10
+Kota Probolinggo,kademangan,-7.7685,113.1819,20.002,0.5,0.419,8
+Kota Probolinggo,kanigaran,-7.7641,113.2116,16.352,0.354,0.286,10
+Kota Probolinggo,kedopok,-7.7902,113.2022,33.753,0.604,0.351,8
+Kota Probolinggo,mayangan,-7.7467,113.2196,7.402,0.316,0.281,10
+Kota Yogyakarta,umbulharjo,-7.8141,110.3871,98.71,0.363,0.482,10
+Kudus,bae,-6.7801,110.8658,46.047,0.467,0.667,10
+Kudus,jekulo,-6.8005,110.9345,53.339,0.441,1.273,8
+Lombok Barat,sekotongtengah,-8.8034,115.9726,142.367,0.559,3.737,10
+Manggarai Barat,boleng,-8.4813,120.0433,214.349,0.486,4.997,10
+Merangin,tabirbarat,-1.9261,101.872,613.514,0.547,6.188,8
+Merangin,tabirulu,-1.9285,102.1766,131.912,0.536,0.96,10
+Mojokerto,mojosari,-7.5053,112.5427,28.068,0.524,0.396,10
+Pasuruan,nguling,-7.7184,113.0532,44.24,0.631,0.764,10
+Pasuruan,pohjentrek,-7.6639,112.8712,18.505,0.595,0.246,10
+Pemalang,pemalang,-6.9332,109.3644,28.216,0.621,0.509,10
+Probolinggo,leces,-7.8619,113.229,84.337,0.6,0.948,10
+Probolinggo,sumberasih,-7.7675,113.1574,24.873,0.622,0.423,8
+Probolinggo,tongas,-7.7615,113.0936,61.76,0.639,1.031,8
+Rote Ndao,rotebarat,-10.8552,122.8315,44.37,0.674,0.915,10
+Sambas,sajinganbesar,1.6364,109.5786,108.762,0.621,2.528,8
+Serang,carenang,-6.0855,106.3191,8.132,0.421,0.074,10
+Sikka,waiblama,-8.5899,122.5949,386.287,0.69,6.277,10
+Sleman,prambanan,-7.7974,110.5047,175.917,0.595,2.487,8
+Soppeng,lalabata,-4.3998,119.8351,599.883,0.502,5.64,10
+Sumba Barat Daya,loura,-9.4176,119.2902,99.547,0.529,1.508,3
+Sumba Barat Daya,wewewabarat,-9.4889,119.1942,347.857,0.505,2.526,8
+Sumbawa,buer,-8.5039,117.0812,445.916,0.432,6.833,10
+Sumbawa,utan,-8.4379,117.1414,161.882,0.458,3.266,10
+Tapin,bungur,-2.9949,115.2129,57.682,0.533,0.812,8
+Tapin,tapinselatan,-3.0342,115.0897,17.16,0.437,0.228,8
+Tapin,tapinutara,-2.9259,115.156,12.184,0.482,0.156,8
+Timor Tengah Utara,bibokiutara,-9.2948,124.8117,448.914,0.602,2.673,10
+Bandung,kutawaringin,-6.9997,107.5098,818.258,0.673,3.786,8
+Bengkayang,jagoibabang,1.3834,109.7804,32.814,0.757,0.424,8
+Bengkayang,samalantan,0.7916,109.2495,75.399,0.777,1.833,10
+Bengkayang,seluas,1.2099,109.7505,78.668,0.774,0.903,8
+Bengkayang,sungaibetung,0.8285,109.3805,190.398,0.789,3.993,10
+Bima,lambitu,-8.5719,118.7877,508.009,0.802,8.082,8
+Bima,wawo,-8.5599,118.8596,583.713,0.784,6.31,8
+Bintan,toapaya,1.0203,104.5475,22.434,0.514,0.435,8
+Bondowoso,bondowoso,-7.9293,113.8192,275.499,0.684,0.779,10
+Bondowoso,maesan,-8.0185,113.7476,771.653,0.698,6.012,10
+Cianjur,cilaku,-6.8686,107.1512,419.165,0.612,1.035,10
+Cianjur,pacet,-6.7494,107.0393,1292.808,0.592,6.693,10
+Cianjur,sukaresmi,-6.7097,107.1025,726.334,0.681,4.466,8
+Cirebon,weru,-6.7173,108.4962,25.745,0.408,0.358,0
+Dharmasraya,timpeh,-0.891,101.6051,180.58,0.537,2.534,8
+Dompu,kempo,-8.4959,118.2041,245.463,0.699,4.264,10
+Gorontalo,tabongo,0.5713,122.9225,105.62,0.652,2.693,8
+Gresik,sangkapura,-5.8093,112.6618,151.75,0.499,3.876,10
+Gresik,tambak,-5.7549,112.6557,84.209,0.516,3.203,10
+Halmahera Timur,wasiletengah,1.3245,128.3251,389.939,0.736,4.402,8
+Indragiri Hulu,batangperanap,-0.7308,101.8675,85.986,0.545,0.588,8
+Indragiri Hulu,peranap,-0.684,101.9907,106.231,0.624,0.724,10
+Jepara,keling,-6.5141,110.8703,346.09,0.634,3.674,10
+Kota Cirebon,pekalipan,-6.7233,108.5635,6.173,0.247,0.074,0
+Kuantan Singingi,kuantanmudik,-0.7798,101.6419,126.403,0.521,1.131,8
+Kupang,fatuleutengah,-9.9237,123.8594,576.115,0.821,4.585,10
+Lahat,gumayulu,-3.9282,103.4034,632.105,0.471,4.385,8
+Lahat,jarai,-3.937,103.1777,1063.265,0.486,7.289,10
+Lahat,kikimselatan,-3.7593,103.2024,379.373,0.472,3.562,8
+Lahat,merapitimur,-3.6313,103.6626,70.935,0.573,0.382,8
+Lampung Selatan,merbaumataram,-5.4645,105.4189,123.251,0.688,1.475,8
+Lampung Tengah,terusannunyai,-4.7102,105.22,28.893,0.603,0.124,10
+Landak,menyuke,0.5826,109.6659,106.729,0.805,1.303,10
+Landak,ngabang,0.3502,109.8945,52.778,0.771,0.654,10
+Lima Puluh Kota,payakumbuh,-0.1714,100.5913,584.527,0.671,2.655,10
+Lombok Timur,sakra,-8.68,116.4748,210.914,0.595,0.892,8
+Lumajang,candipuro,-8.1857,113.0495,460.46,0.717,4.21,10
+Majalengka,majalengka,-6.8566,108.2259,230.204,0.592,2.955,8
+Mamasa,mamasa,-2.8792,119.4071,1738.365,0.659,8.618,8
+Mamasa,messawa,-3.2574,119.3661,1070.373,0.683,6.4,10
+Melawi,belimbinghulu,-0.4787,111.5345,211.439,0.613,3.484,8
+Melawi,ellahilir,-0.5392,112.0531,241.668,0.668,3.599,8
+Muara Enim,ujanmas,-3.5306,103.7035,64.264,0.474,0.363,10
+Musi Rawas,muarakelingi,-3.0478,103.245,43.63,0.537,0.169,8
+Natuna,serasan,2.5221,109.0166,45.186,0.478,2.32,10
+Natuna,serasantimur,2.5104,109.0885,90.89,0.543,4.557,10
+Padang Lawas,barumun,0.9887,99.7031,742.154,0.652,6.439,10
+Parigi Moutong,moutong,0.5603,121.1834,562.266,0.645,7.875,10
+Parigi Moutong,palasa,0.5592,120.3513,917.832,0.72,9.83,8
+Pasaman,raoselatan,0.5227,100.0616,422.087,0.622,5.51,8
+Pasaman,raoutara,0.7386,99.966,819.126,0.553,7.747,10
+Paser,kuaro,-1.7819,116.166,52.434,0.597,0.89,10
+Paser,longikis,-1.5555,116.1747,111.851,0.672,1.655,8
+Paser,longkali,-1.2767,116.2011,176.847,0.705,2.243,10
+Paser,muarakomam,-1.4844,115.8124,224.488,0.737,2.396,10
+Penajam Paser Utara,babulu,-1.4752,116.4458,27.277,0.722,0.458,8
+Pesisir Selatan,ranahpesisir,-1.6864,100.9214,770.698,0.759,6.13,10
+Pinrang,batulappa,-3.6025,119.6848,338.67,0.761,5.732,8
+Pohuwato,lemito,0.7052,121.5801,309.698,0.781,3.829,10
+Pohuwato,popayato,0.6509,121.4395,336.5,0.758,3.672,8
+Pohuwato,popayatobarat,0.6703,121.3237,718.002,0.697,5.496,10
+Pohuwato,popayatotimur,0.6801,121.4852,373.091,0.772,3.753,8
+Poso,pamonaselatan,-2.1253,120.6866,963.75,0.677,5.952,8
+Poso,pamonatenggara,-2.0346,120.7676,653.65,0.711,3.505,10
+Rembang,rembang,-6.7205,111.3723,18.958,0.555,0.349,10
+Rokan Hulu,rambahhilir,0.9735,100.3607,57.234,0.693,0.27,10
+Sambas,pemangkat,1.1603,108.977,5.813,0.525,0.466,8
+Sambas,salatiga,1.1125,109.0027,6.872,0.59,0.551,10
+Sambas,subah,1.1954,109.4417,50.017,0.747,0.903,8
+Serang,pamarayan,-6.2778,106.3018,24.16,0.573,0.228,8
+Sigi,lindu,-1.3587,120.1381,1314.34,0.659,5.754,8
+Solok,pantaicermin,-1.2386,100.8822,1483.78,0.459,9.471,8
+Solok Selatan,sangir,-1.5943,101.2764,1085.207,0.456,6.978,10
+Sragen,tanon,-7.3826,110.9177,93.635,0.479,0.374,10
+Tebo,sumay,-1.1861,102.4429,146.123,0.61,1.299,10
+Tebo,teboilir,-1.5508,102.7314,62.252,0.589,0.631,10
+Tebo,tebotengah,-1.4253,102.516,96.356,0.589,0.918,8
+Way Kanan,rebangtangkas,-4.661,104.3602,220.437,0.711,1.195,10
+Aceh Tengah,jagongjeget,4.3811,96.7309,1641.188,0.729,6.794,8
+Bandung,arjasari,-7.0672,107.6411,943.668,0.688,4.711,8
+Bandung,cimenyan,-6.8624,107.6694,1062.148,0.587,5.504,10
+Barito Utara,montallat,-1.244,114.8277,58.439,0.74,0.454,8
+Bolaang Mongondow Timur,nuangan,0.6275,124.5068,363.722,0.845,6.34,10
+Bolaang Mongondow Timur,tutuyan,0.7729,124.5777,347.627,0.837,6.441,10
+Buol,tiloan,0.8973,121.1308,613.857,0.816,6.221,8
+Cianjur,ciranjang,-6.8097,107.2646,264.32,0.526,0.609,10
+Cilacap,cilacapselatan,-7.7333,108.9168,55.33,0.634,1.762,10
+Cilacap,cilacaptengah,-7.691,108.9906,7.602,0.523,0.223,5
+Cilacap,cilacaputara,-7.6716,109.0348,8.303,0.52,0.202,10
+Deli Serdang,sibolangit,3.3036,98.5653,689.981,0.632,4.959,10
+Gunung Mas,rungan,-1.3556,113.5983,69.932,0.775,0.449,10
+Kapuas,dadahup,-2.6235,114.6353,8.485,0.778,0.072,10
+Kutai Barat,damai,-0.6232,115.5373,75.81,0.777,0.526,10
+Lampung Selatan,natar,-5.263,105.218,82.481,0.671,0.343,8
+Lebak,sobang,-6.6483,106.3221,642.53,0.765,6.354,8
+Luwu,belopa,-3.3946,120.3607,29.834,0.567,0.786,10
+Luwu,sulibarat,-3.4622,120.2434,579.432,0.596,7.472,10
+Luwu Timur,wasuponda,-2.4924,121.1075,777.392,0.729,6.425,10
+Mesuji,tanjungraya,-3.9254,105.3698,22.056,0.753,0.271,8
+Muna,duruka,-4.8634,122.7162,60.101,0.769,1.762,8
+Muna,katobu,-4.8281,122.714,39.144,0.678,1.42,10
+Ogan Komering Ulu Selatan,buayrawan,-4.6418,104.0474,281.703,0.846,1.356,8
+Poso,posokota,-1.3974,120.7345,53.733,0.657,2.08,8
+Tebo,tengahilir,-1.3977,102.6877,95.376,0.628,0.853,10
+Aceh Barat,aronganlambalek,4.336,95.9498,10.723,0.782,0.196,8
+Aceh Barat,sungaimas,4.622,96.2158,602.564,0.847,5.115,8
+Aceh Selatan,bakongan,2.9999,97.5395,261.892,0.825,4.885,10
+Aceh Selatan,kluetutara,3.1252,97.3485,137.62,0.736,4.535,10
+Aceh Tenggara,tanohalas,3.2368,97.6703,1111.944,0.812,8.503,8
+Bantul,sewon,-7.8574,110.357,67.573,0.543,0.334,10
+Bone,mare,-4.7928,120.2709,109.115,0.608,1.603,10
+Bulukumba,bontotiro,-5.4687,120.3893,129.285,0.618,2.31,8
+Buru Selatan,namrole,-3.6644,126.7338,479.735,0.701,5.922,10
+Ciamis,baregbeg,-7.2896,108.3714,214.05,0.711,1.504,8
+Demak,wedung,-6.767,110.6181,2.657,0.623,0.04,10
+Kuningan,cipicung,-6.9416,108.5516,304.409,0.762,2.279,8
+Kutai Timur,bengalon,0.9089,117.3952,108.066,0.754,1.746,10
+Kutai Timur,kaubun,1.033,117.7442,93.051,0.747,1.203,8
+Lebong,lebongselatan,-3.2838,102.3289,1064.022,0.813,6.381,8
+Luwu Timur,malili,-2.6898,121.1334,266.085,0.6,5.141,10
+Mappi,obaa,-6.5006,139.421,19.64,0.563,0.27,10
+Muaro Jambi,sungaigelam,-1.7298,103.7817,25.649,0.684,0.252,10
+Ogan Ilir,muarakuang,-3.6677,104.5773,24.612,0.752,0.207,8
+Padang Pariaman,nansabaris,-0.653,100.1911,19.238,0.695,0.277,10
+Polewali Mandar,matangnga,-3.1895,119.2254,552.706,0.879,5.892,10
+Rembang,kragan,-6.6917,111.576,82.464,0.692,2.25,10
+Sinjai,bulupoddo,-5.1006,120.1282,278.066,0.742,3.789,10
+Sinjai,sinjaibarat,-5.2272,120.0068,1077.587,0.729,8.39,10
+Sinjai,sinjaiselatan,-5.2325,120.1534,217.544,0.72,2.698,10
+Sinjai,sinjaitengah,-5.1825,120.1138,356.979,0.775,5.11,8
+Solok,payungsekaki,-0.8804,100.831,798.083,0.841,5.353,8
+Sumba Barat,kotawaikabubak,-9.6242,119.4472,470.878,0.741,2.207,10
+Sumba Barat,lamboya,-9.7073,119.3547,220.622,0.771,3.621,8
+Sumba Barat,loli,-9.5994,119.4251,459.324,0.799,2.072,8
+Sumedang,cibugel,-6.9666,108.0266,813.243,0.837,5.426,8
+Sumedang,wado,-6.9844,108.1172,703.077,0.792,5.61,8
+Bolaang Mongondow Selatan,pinolosiantimur,0.5161,124.374,453.847,0.636,6.142,10
+Deli Serdang,pagarmerbau,3.5438,98.8999,19.35,0.605,0.128,8
+Deli Serdang,sunggal,3.6144,98.5796,24.713,0.596,0.169,8
+Halmahera Barat,sahutimur,1.2036,127.5654,247.788,0.808,3.281,10
+Halmahera Selatan,obi,-1.4637,127.6174,415.23,0.615,5.715,8
+Halmahera Utara,tobeloselatan,1.6174,127.9333,290.149,0.791,4.57,10
+Kota Sorong,sorongmanoi,-0.8931,131.288,8.007,0.462,0.541,0
+Kota Sorong,sorongtimur,-0.9095,131.3676,89.154,0.732,1.043,10
+Kota Sorong,sorongutara,-0.8485,131.3369,108.539,0.769,1.805,8
+Nunukan,lumbis,4.0738,116.4604,423.941,0.786,5.012,10
+Sinjai,tellulimpoe,-5.2656,120.2405,150.034,0.608,1.549,10
+Aceh Tenggara,lawesumur,3.4784,97.8848,894.787,0.563,9.483,10
+Agam,tanjungraya,-0.3128,100.1861,628.255,0.598,7.438,8
+Bangka,sungailiat,-1.8754,106.121,25.011,0.589,0.718,8
+Bengkayang,teriak,0.7946,109.5825,107.338,0.831,1.286,10
+Bone Bolango,bulangoulu,0.6871,123.1954,655.479,0.823,8.335,8
+Buru,namlea,-3.2156,126.9829,135.09,0.75,2.439,8
+Kepulauan Selayar,bontoharu,-6.1551,120.4766,110.438,0.746,2.823,10
+Kepulauan Sula,mangolitimur,-1.8624,126.0583,310.666,0.677,7.548,10
+Kolaka,baula,-4.1634,121.7094,268.317,0.818,3.539,10
+Kolaka,polinggona,-4.4241,121.6462,151.542,0.825,1.385,10
+Kolaka,pomalaa,-4.2415,121.649,267.882,0.733,2.937,8
+Kota Tasikmalaya,bungursari,-7.3083,108.1784,416.211,0.617,0.988,8
+Kota Tasikmalaya,kawalu,-7.4021,108.202,325.465,0.723,1.547,10
+Kota Tasikmalaya,mangkubumi,-7.3461,108.1848,383.194,0.611,0.821,8
+Kota Tasikmalaya,purbaratu,-7.333,108.2656,309.286,0.644,0.819,10
+Kota Tasikmalaya,tawang,-7.339,108.2278,350.722,0.449,0.392,10
+Kutai Timur,rantaupulung,0.6734,117.1938,103.949,0.661,0.678,10
+Lumajang,pronojiwo,-8.1871,112.9563,974.228,0.768,7.083,8
+Maluku Tengah,seramutara,-3.0193,129.6222,374.151,0.831,4.571,10
+Mamuju,bonehau,-2.5916,119.3438,872.55,0.857,8.856,10
+Morowali,bungkutengah,-2.6364,121.8743,606.947,0.453,6.607,8
+Ogan Komering Ulu Selatan,buanapemaca,-4.5556,104.2203,180.658,0.795,1.167,8
+Ogan Komering Ulu Selatan,muaradua,-4.537,104.0507,225.452,0.816,1.858,8
+Padang Pariaman,patamuan,-0.5056,100.2648,325.917,0.822,4.126,10
+Pasaman Barat,pasaman,0.1204,99.8096,195.318,0.819,2.746,10
+Pesisir Selatan,batangkapas,-1.3916,100.6664,563.282,0.825,7.294,10
+Pesisir Selatan,ivjurai,-1.2652,100.6625,947.56,0.808,7.255,8
+Pesisir Selatan,sutera,-1.4552,100.7524,779.211,0.826,6.788,10
+Rokan Hulu,rambahsamo,0.8184,100.434,94.913,0.796,0.865,10
+Sidenreng Rappang,pituriase,-3.677,120.1237,648.994,0.648,6.266,8
+Sidenreng Rappang,pituriawa,-3.7948,119.9563,103.312,0.738,1.835,8
+Tasikmalaya,bojongasih,-7.555,108.1284,390.154,0.718,2.601,10
+Tasikmalaya,bojonggambir,-7.5703,107.9633,585.371,0.826,3.85,8
+Tasikmalaya,cibalong,-7.5666,108.1896,276.119,0.682,3.702,8
+Tasikmalaya,cineam,-7.4196,108.363,423.632,0.735,3.871,10
+Tasikmalaya,culamega,-7.5992,108.0302,450.102,0.804,3.65,10
+Tasikmalaya,gunungtanjung,-7.4271,108.3028,544.078,0.746,4.159,8
+Tasikmalaya,jatiwaras,-7.4981,108.2254,325.469,0.723,3.42,8
+Tasikmalaya,mangunreja,-7.3824,108.0835,447.532,0.76,1.234,10
+Tasikmalaya,manonjaya,-7.3701,108.3202,289.677,0.743,1.498,8
+Tasikmalaya,parungponteng,-7.4956,108.14,319.667,0.768,4.011,8
+Tasikmalaya,salopa,-7.5039,108.2884,470.788,0.698,3.98,8
+Tasikmalaya,sodonghilir,-7.493,108.0539,565.152,0.806,4.333,8
+Tasikmalaya,tanjungjaya,-7.4128,108.1245,383.039,0.78,1.723,10
+Tasikmalaya,taraju,-7.4442,107.9925,776.816,0.808,4.277,8
+Aceh Tenggara,semadam,3.3881,97.8827,152.073,0.546,2.278,10
+Banggai,kintom,-1.0912,122.5852,669.556,0.555,5.968,8
+Bengkulu Utara,argamakmur,-3.4176,102.2179,311.368,0.786,3.424,10
+Bengkulu Utara,putrihijau,-3.1901,101.6925,74.418,0.743,0.849,10
+Halmahera Tengah,wedautara,0.5054,128.2181,271.664,0.518,3.818,10
+Kutai Timur,sangkulirang,1.0587,118.0259,86.835,0.563,1.45,10
+Labuhanbatu,rantauselatan,2.0614,99.8461,86.306,0.705,1.41,8
+Langkat,batangserangan,3.6938,98.0309,696.085,0.727,6.934,8
+Merangin,tabirilir,-1.7459,102.398,71.783,0.484,0.471,10
+Morowali,bungkubarat,-2.385,121.7697,278.516,0.796,4.31,8
+Morowali,witaponda,-2.3536,121.5844,480.978,0.756,4.48,8
+Asahan,simpangempat,2.9011,99.746,7.942,0.768,0.129,8
+Asahan,telukdalam,2.8098,99.6687,22.09,0.822,0.231,10
+Halmahera Tengah,weda,0.3418,127.8458,110.627,0.716,2.639,8
+Halmahera Timur,kotamaba,0.7006,128.1712,280.512,0.784,4.61,10
+Mandailing Natal,batahan,0.3792,99.2268,49.591,0.623,1.263,10
+Mandailing Natal,batangnatal,0.665,99.4325,761.96,0.695,7.121,8
+Mandailing Natal,linggabayu,0.5998,99.2709,99.295,0.754,1.421,10
+Mandailing Natal,siabu,1.029,99.4669,432.025,0.756,5.379,10
+Nias,mau,1.0509,97.6372,287.358,0.602,2.949,8
+Nias,ulugawo,0.9822,97.7216,318.77,0.667,4.498,8
+Nias Selatan,fanayama,0.6163,97.7685,140.789,0.481,2.399,10
+Nias Selatan,telukdalam,0.6094,97.8325,140.677,0.46,2.737,8
+Nias Selatan,toma,0.6691,97.8777,127.514,0.528,3.663,8
+Pasaman Barat,kotobalingka,0.3134,99.5111,147.185,0.582,1.25,8
+Pasaman Barat,sungaiaur,0.248,99.6273,142.863,0.519,1.34,8
+Pasaman Barat,sungaiberemas,0.2616,99.3461,39.765,0.519,1.259,8
+Simeulue,simeuluetengah,2.6184,96.0252,73.888,0.449,1.704,8
+Deli Serdang,namorambe,3.4421,98.6383,119.675,0.773,0.782,8
+Kota Binjai,binjaiutara,3.6429,98.4983,26.836,0.433,0.145,8
+Nagan Raya,kuala,4.0964,96.2978,13.727,0.787,0.162,8
+Nagan Raya,kualapesisir,4.0614,96.2575,15.145,0.803,0.328,10
+Nagan Raya,seunagan,4.229,96.3021,42.569,0.634,0.521,10
+Nias Selatan,maniamolo,0.6478,97.7324,62.618,0.428,2.027,8
+Pasaman,lubuksikaping,0.1534,100.1275,856.235,0.292,7.855,8
+Pasaman,padanggelugur,0.4281,100.0512,316.395,0.655,3.361,8
+Serdang Bedagai,bintangbayu,3.2967,98.9273,98.641,0.803,0.503,10
+Aceh Barat,meureubo,4.1656,96.2115,17.856,0.702,0.275,10
+Aceh Barat,pantonreu,4.438,96.2036,53.842,0.705,0.497,8
+Aceh Barat,samatiga,4.2511,96.0549,16.071,0.727,0.281,10
+Aceh Selatan,kluetselatan,3.0382,97.4208,89.035,0.636,2.617,10
+Aceh Tengah,luttawar,4.5794,96.8847,1567.916,0.41,7.43,8
+Aceh Tenggara,babulmakmur,3.3068,97.9735,692.472,0.544,8.172,10
+Aceh Tenggara,badar,3.5893,97.8203,1249.289,0.58,10.854,10
+Aceh Timur,rantaupeureulak,4.7677,97.7143,54.995,0.61,0.836,10
+Asahan,rahuning,2.7298,99.5092,74.295,0.798,0.51,10
+Deli Serdang,lubukpakam,3.5699,98.885,15.991,0.402,0.095,8
+Kota Gorontalo,kotaselatan,0.5241,123.0508,126.61,0.518,4.521,10
+Kota Gorontalo,kotatengah,0.5627,123.0551,15.736,0.372,0.243,10
+Kuantan Singingi,gunungtoar,-0.6014,101.5136,102.795,0.641,0.81,8
+Labuhanbatu Selatan,sungaikanan,1.7344,99.8759,87.356,0.778,0.999,10
+Labuhanbatu Selatan,torgamba,1.7024,100.2468,63.869,0.714,0.476,10
+Lampung Barat,sukau,-4.9419,103.9856,911.764,0.692,7.054,8
+Pasaman Barat,gunungtuleh,0.3174,99.7524,511.899,0.703,6.131,8
+Samosir,harian,2.5063,98.5915,1665.713,0.549,3.928,8
+Samosir,nainggolan,2.4741,98.896,1130.808,0.682,3.038,8
+Samosir,palipi,2.528,98.819,1274.034,0.681,3.592,8
+Samosir,sianjurmulamula,2.6339,98.6068,1498.097,0.557,8.083,10
+Serdang Bedagai,pantaicermin,3.6167,98.9898,7.488,0.391,0.096,10
+Tanggamus,pematangsawa,-5.7698,104.6343,118.125,0.463,2.679,10
+Tapanuli Selatan,angkolaselatan,1.3182,99.1496,332.183,0.722,5.695,8
+Tapanuli Selatan,batangtoru,1.5499,99.0852,474.679,0.684,3.705,10
+Aceh Tengah,bintang,4.5392,97.148,1194.246,0.332,9.17,10
+Aceh Tengah,pegasing,4.4928,96.7293,1465.825,0.598,4.856,8
+Aceh Timur,iditimur,4.9107,97.794,24.062,0.607,0.452,8
+Aceh Timur,peudawa,4.885,97.8189,17.511,0.556,0.399,10
+Bandung,margaasih,-6.9488,107.5446,685.09,0.449,0.832,10
+Bandung Barat,gununghalu,-7.0426,107.3012,1188.289,0.789,4.67,8
+Bandung Barat,rongga,-6.97,107.2564,885.44,0.745,3.823,8
+Bandung Barat,sindangkerta,-7.0402,107.401,1103.761,0.785,5.093,10
+Banjarnegara,purwanegara,-7.4678,109.5698,195.829,0.622,1.814,10
+Barito Timur,awang,-1.9583,115.2597,73.908,0.735,0.68,10
+Barito Timur,paku,-1.899,115.1939,55.295,0.695,0.517,10
+Barito Timur,patangkeptutui,-1.9921,115.3484,89.578,0.703,0.858,8
+Bengkalis,bengkalis,1.4506,102.2471,14.792,0.597,0.243,8
+Bengkalis,pinggir,1.1615,101.4429,26.132,0.603,0.331,8
+Bireuen,juli,5.0548,96.681,224.154,0.679,3.555,10
+Bireuen,kuala,5.2306,96.7178,7.188,0.349,0.228,2
+Dharmasraya,ixkoto,-1.0312,101.2831,294.472,0.517,2.651,8
+Dharmasraya,kotobaru,-1.1205,101.6883,102.046,0.422,0.399,10
+Dharmasraya,kotobesar,-1.2285,101.5767,176.677,0.427,1.161,10
+Dharmasraya,kotosalak,-1.1494,101.8105,84.557,0.526,0.279,10
+Dharmasraya,sitiung,-1.0029,101.6274,123.066,0.501,1.058,8
+Indragiri Hilir,pelangiran,0.2039,103.3508,7.696,0.576,0.084,8
+Indragiri Hulu,kelayang,-0.4482,102.0813,55.151,0.57,0.436,8
+Indragiri Hulu,lirik,-0.2595,102.272,36.954,0.516,0.309,8
+Indragiri Hulu,pasirpenyu,-0.3682,102.2773,37.852,0.475,0.392,10
+Indragiri Hulu,rakitkulim,-0.591,102.1674,60.344,0.587,0.384,8
+Indragiri Hulu,rengat,-0.2022,102.5424,28.29,0.498,0.134,8
+Indragiri Hulu,rengatbarat,-0.3384,102.4233,34.526,0.511,0.306,8
+Indragiri Hulu,sungailala,-0.4326,102.2567,27.511,0.551,0.248,8
+Kampar,gunungsahilan,0.0281,101.3098,51.805,0.527,0.601,8
+Kampar,kamparutara,0.4086,101.0841,45.408,0.555,0.293,8
+Kampar,rumbiojaya,0.4216,101.148,43.558,0.512,0.271,8
+Kampar,siakhulu,0.3506,101.5506,21.914,0.565,0.249,10
+Kampar,tapunghilir,0.7924,101.129,27.004,0.656,0.207,8
+Kerinci,depatitujuh,-2.0193,101.3541,1022.148,0.699,4.023,10
+Kuantan Singingi,benai,-0.4196,101.5879,80.031,0.536,0.322,8
+Kuantan Singingi,cerenti,-0.4992,101.8637,63.992,0.58,0.502,8
+Kuantan Singingi,hulukuantan,-0.5819,101.3516,172.075,0.578,1.714,8
+Kuantan Singingi,inuman,-0.4883,101.801,57.356,0.481,0.422,8
+Kuantan Singingi,kuantanhilir,-0.472,101.7699,69.289,0.478,0.433,8
+Kuantan Singingi,kuantantengah,-0.5639,101.6049,106.628,0.542,0.624,8
+Kuantan Singingi,pangean,-0.4628,101.6897,72.926,0.504,0.369,10
+Kuantan Singingi,singingi,-0.4368,101.2763,233.818,0.566,2.567,8
+Labuhanbatu,bilahbarat,2.0886,99.7977,70.969,0.681,0.92,10
+Labuhanbatu,bilahhilir,2.3427,100.075,6.969,0.684,0.079,8
+Lima Puluh Kota,bukikbarisan,0.0292,100.4567,845.611,0.639,7.387,10
+Lima Puluh Kota,gunuangomeh,-0.0406,100.3499,976.577,0.718,4.729,10
+Lima Puluh Kota,suliki,-0.1097,100.4457,859.257,0.624,6.255,10
+Merangin,margotabir,-1.8795,102.3747,69.54,0.474,0.243,10
+Musi Banyuasin,sungaikeruh,-3.0988,103.6936,58.203,0.646,0.251,8
+Padang Lawas Utara,simangambat,1.5189,100.093,70.887,0.581,0.495,10
+Pasaman,duakoto,0.3741,99.9026,899.819,0.698,5.744,8
+Pasaman,mapattunggul,0.6799,100.1514,432.789,0.586,5.826,10
+Pasaman,rao,0.558,99.9787,566.773,0.642,5.717,8
+Pelalawan,langgam,0.0823,101.6931,54.551,0.557,0.336,8
+Pelalawan,pangkalankerinci,0.3625,101.8487,16.298,0.472,0.254,10
+Pelalawan,pelalawan,0.4586,102.1464,26.746,0.578,0.193,8
+Pelalawan,telukmeranti,0.3833,102.6687,23.118,0.549,0.156,10
+Pidie,geumpang,4.8457,96.2705,1352.602,0.752,7.791,8
+Pidie,mane,4.8856,96.0987,921.772,0.831,7.137,8
+Purbalingga,kaligondang,-7.3755,109.4164,74.282,0.683,1.12,10
+Purbalingga,kemangkon,-7.4554,109.3706,36.187,0.541,0.225,2
+Rokan Hilir,bangko,2.0797,100.8353,15.219,0.589,0.197,8
+Rokan Hilir,bangkopusako,1.7316,100.8052,18.879,0.585,0.236,8
+Rokan Hilir,kubu,2.0356,100.5666,19.307,0.6,0.204,10
+Rokan Hilir,sinaboi,2.2147,100.9596,18.017,0.654,0.154,10
+Rokan Hilir,tanahputih,1.5181,101.0332,19.962,0.638,0.249,10
+Rokan Hulu,bonaidarussalam,1.1626,100.8362,32.021,0.573,0.249,8
+Rokan Hulu,kepenuhan,1.1327,100.623,33.601,0.604,0.203,8
+Rokan Hulu,kepenuhanhulu,0.9896,100.515,53.277,0.563,0.356,10
+Rokan Hulu,tambusai,1.0991,100.2624,71.757,0.557,0.361,10
+Rokan Hulu,ujungbatu,0.6925,100.5262,74.881,0.68,0.351,8
+Solok Selatan,sangirjujuan,-1.4247,101.3147,417.885,0.545,3.12,8
+Sukabumi,cireunghas,-6.9368,107.0241,701.406,0.763,4.11,8
+Tapanuli Utara,purbatua,1.7228,99.0667,800.841,0.749,2.915,10
+Tebo,viikoto,-1.0511,101.9754,106.307,0.569,0.493,8
+Wonosobo,kalikajar,-7.4019,109.994,1178.636,0.691,7.008,10
+Wonosobo,mojotengah,-7.3169,109.9104,1055.347,0.739,5.654,8
+Bandung,pacet,-7.1342,107.6971,1287.814,0.62,7.474,10
+Banjar,paramasan,-3.0145,115.4255,337.744,0.762,4.03,8
+Bengkayang,sungairayakepulauan,0.7499,108.9206,20.752,0.682,0.543,10
+Bengkayang,sutisemarang,0.9189,109.7461,255.686,0.787,4.131,8
+Bulungan,tanjungpalastimur,2.5775,117.6835,80.077,0.508,0.702,10
+Bungo,pelepat,-1.7549,102.0328,315.201,0.622,2.631,8
+Dharmasraya,asamjujuhan,-1.5008,101.5924,382.366,0.598,2.212,8
+Donggala,riopakava,-1.2994,119.6262,519.605,0.778,5.152,10
+Donggala,sojol,0.5062,120.0592,524.814,0.756,7.548,10
+Donggala,tanantovea,-0.7137,119.9624,722.971,0.7,5.797,10
+Halmahera Selatan,bacan,-0.5571,127.4439,214.589,0.789,4.158,10
+Indragiri Hulu,kualacenaku,-0.189,102.6594,27.111,0.634,0.173,8
+Kampar,tapunghulu,0.7684,100.8201,46.756,0.59,0.263,8
+Kapuas,kapuasmurung,-2.7467,114.6259,7.077,0.625,0.058,8
+Karo,merek,2.9569,98.4805,1487.27,0.769,4.334,10
+Kediri,tarokan,-7.7277,111.9381,132.502,0.633,1.466,8
+Kepahiang,kepahiang,-3.6386,102.5658,603.723,0.737,3.165,8
+Kepulauan Sangihe,tabukanselatan,3.4986,125.6117,239.984,0.548,4.607,10
+Kepulauan Sangihe,tabukanselatantenggara,3.4447,125.6376,91.776,0.742,2.518,8
+Kepulauan Sangihe,tabukanutara,3.6768,125.5086,263.996,0.437,6.399,8
+Kerinci,airhangat,-1.9172,101.5077,1443.122,0.545,6.434,8
+Kerinci,airhangattimur,-1.9866,101.4879,1320.936,0.599,6.908,10
+Kerinci,sitinjaulaut,-2.0576,101.4886,1064.394,0.642,4.895,10
+Klaten,tulung,-7.5984,110.6048,323.569,0.651,1.726,8
+Kolaka,kolaka,-4.0378,121.6632,285.349,0.791,4.5,8
+Kolaka,latambaga,-3.9606,121.5859,625.45,0.733,8.06,8
+Kolaka,samaturu,-3.9008,121.4644,678.029,0.756,7.607,10
+Kolaka,wolo,-3.767,121.3247,878.98,0.772,8.016,10
+Kota Bandung,sumurbandung,-6.9149,107.6153,712.571,0.243,0.854,0
+Kotawaringin Timur,baamang,-2.5055,112.7791,20.672,0.756,0.183,10
+Kubu Raya,kualamandorb,0.1205,109.4456,14.67,0.738,0.194,10
+Kubu Raya,terentang,-0.4032,109.7422,17.595,0.706,0.188,8
+Merangin,bangkobarat,-2.1806,102.2413,141.507,0.596,0.586,8
+Merangin,jangkat,-2.5272,101.7429,1289.322,0.654,6.384,8
+Merangin,pamenangbarat,-2.0741,102.4044,79.495,0.515,0.288,8
+Merangin,tiangpumpung,-2.3063,102.2431,231.899,0.577,2.321,8
+Musi Banyuasin,plakattinggi,-2.9241,103.5493,47.912,0.548,0.271,8
+Musi Banyuasin,sekayu,-2.87,103.8553,23.077,0.527,0.169,8
+Ogan Ilir,indralayautara,-3.1543,104.6024,8.44,0.559,0.097,10
+Ogan Ilir,pemulutan,-3.1089,104.7647,5.529,0.363,0.034,2
+Pandeglang,cikedal,-6.3858,105.8853,55.177,0.664,0.85,8
+Pelalawan,bandarseikijang,0.417,101.687,31.166,0.62,0.307,8
+Pelalawan,kerumutan,-0.0003,102.3674,28.987,0.632,0.216,8
+Pelalawan,kualakampar,0.5693,103.147,13.63,0.619,0.219,10
+Pelalawan,pangkalankuras,0.0266,101.8803,53.005,0.565,0.355,8
+Pesisir Selatan,basaampekbalaitapan,-2.1354,101.0922,233.412,0.785,3.089,8
+Pesisir Selatan,kotoxitarusan,-1.1335,100.484,469.553,0.779,7.361,10
+Pidie,titeue,5.206,95.9104,100.12,0.74,1.901,8
+Rokan Hilir,rimbamelintang,1.8114,101.0131,15.22,0.582,0.199,8
+Rokan Hilir,simpangkanan,1.8751,100.382,21.35,0.642,0.248,10
+Rokan Hulu,pagarantapahdarussalam,0.7698,100.604,63.32,0.56,0.37,8
+Rokan Hulu,rokanivkoto,0.5835,100.3461,268.12,0.536,3.463,10
+Sanggau,balai,0.1597,110.1386,69.594,0.65,1.727,8
+Sanggau,mukok,0.1669,110.7997,42.738,0.565,0.529,8
+Sanggau,tayanhilir,0.0242,110.0904,36.425,0.619,0.794,8
+Sanggau,toba,-0.2399,110.0545,33.686,0.648,0.678,8
+Sarolangun,pauh,-2.2132,102.8738,62.362,0.553,0.292,8
+Sarolangun,pelawan,-2.4051,102.7521,65.581,0.547,0.287,8
+Sarolangun,sarolangun,-2.273,102.7135,52.614,0.509,0.251,10
+Solok Selatan,sangirbatanghari,-1.2313,101.3482,283.968,0.61,2.311,8
+Tabalong,tanta,-2.2429,115.4094,35.619,0.564,0.329,10
+Tanah Bumbu,karangbintang,-3.3752,115.8725,22.009,0.818,0.272,10
+Tapin,tapintengah,-2.99,114.9928,6.87,0.658,0.035,10
+Bandung,nagreg,-7.0283,107.8873,946.288,0.733,5.655,10
+Bima,wera,-8.3234,118.9753,377.454,0.705,7.784,10
+Boalemo,paguyaman,0.6207,122.5448,110.36,0.722,2.492,10
+Bolaang Mongondow Utara,bintauna,0.7151,123.6047,443.573,0.86,5.659,10
+Bolaang Mongondow Utara,kaidipang,0.8918,123.254,171.981,0.81,5.114,10
+Bolaang Mongondow Utara,sangkub,0.8596,123.6416,89.659,0.737,3.122,10
+Bondowoso,tenggarang,-7.9348,113.8502,268.842,0.707,0.598,10
+Brebes,salem,-7.1607,108.7925,613.376,0.761,6.081,10
+Brebes,songgom,-7.0043,109.0046,22.79,0.642,0.239,10
+Demak,gajah,-6.9007,110.747,7.46,0.41,0.062,10
+Demak,kebonagung,-7.0029,110.7096,10.891,0.705,0.071,10
+Demak,wonosalam,-6.9188,110.6677,7.394,0.627,0.057,10
+Gorontalo Utara,anggrek,0.8443,122.7264,180.839,0.752,4.273,10
+Gorontalo Utara,atinggola,0.8288,123.1466,436.748,0.848,7.416,8
+Gorontalo Utara,tolinggula,0.9562,122.1344,503.579,0.832,8.367,8
+Gresik,kebomas,-7.178,112.6188,18.94,0.409,0.6,0
+Karangasem,kubu,-8.2692,115.5126,615.134,0.614,8.836,8
+Kotawaringin Timur,cempaga,-2.2518,113.0228,18.025,0.76,0.178,10
+Lampung Selatan,ketapang,-5.7417,105.7715,26.641,0.578,0.736,8
+Lampung Selatan,penengahan,-5.7498,105.6878,192.786,0.714,3.689,10
+Manggarai Barat,lembor,-8.7478,120.1291,411.381,0.769,5.148,8
+Mojokerto,bangsal,-7.5061,112.4994,33.726,0.646,0.355,2
+Mojokerto,jetis,-7.4047,112.4455,32.831,0.701,0.368,10
+Ogan Komering Ulu,peninjauan,-3.8569,104.3625,47.826,0.565,0.301,10
+Ogan Komering Ulu,semidangaji,-4.0293,103.9859,135.718,0.692,0.925,10
+Ogan Komering Ulu,sosohbuayrayap,-4.2076,104.1102,92.113,0.722,0.663,8
+Pasuruan,rembang,-7.6459,112.7962,40.681,0.691,0.567,8
+Pesisir Selatan,pancungsoal,-2.0141,101.0147,388.588,0.786,3.893,8
+Sidoarjo,taman,-7.3659,112.6732,9.757,0.386,0.068,10
+Sigi,dolo,-1.014,119.8675,505.567,0.611,5.538,8
+Solok,gunungtalang,-0.9637,100.6218,1152.836,0.568,7.197,10
+Sragen,sambirejo,-7.4973,111.1084,262.642,0.745,2.309,8
+Subang,kasomalang,-6.6944,107.7533,482.093,0.696,2.892,8
+Sumbawa,batulanteh,-8.6315,117.2036,817.008,0.806,5.972,10
+Tanah Bumbu,batulicin,-3.4605,115.95,12.448,0.717,0.252,10
+Tanah Bumbu,simpangempat,-3.2923,115.9731,68.586,0.712,1.562,8
+Tanah Datar,tanjungbaru,-0.3141,100.5291,950.363,0.505,5.431,8
+Agam,malalak,-0.4131,100.2719,1017.242,0.704,10.661,10
+Alor,alortimurlaut,-8.2203,124.807,615.214,0.71,6.899,10
+Bandung Barat,cipongkor,-6.9447,107.351,754.45,0.765,2.993,8
+Bangkalan,arosbaya,-6.9726,112.8393,16.901,0.646,0.413,8
+Berau,tabalar,1.7002,117.7579,232.635,0.649,2.623,8
+Bojonegoro,kalitidu,-7.1479,111.7657,29.168,0.564,0.259,10
+Bombana,poleangutara,-4.7125,121.7799,152.071,0.749,2.644,10
+Buol,biau,1.1924,121.402,197.201,0.779,3.684,10
+Buol,lakea,1.1731,121.1974,494.77,0.713,6.77,8
+Cirebon,lemahabang,-6.8341,108.6151,59.914,0.71,1.281,8
+Cirebon,pabedilan,-6.8617,108.7703,8.762,0.606,0.096,10
+Cirebon,pangenan,-6.7961,108.6665,3.227,0.495,0.093,10
+Halmahera Timur,wasileutara,1.4607,128.4884,289.083,0.704,4.539,10
+Humbang Hasundutan,parlilitan,2.3756,98.4678,1095.476,0.802,4.277,8
+Jayapura,depapre,-2.453,140.3857,382.05,0.76,9.184,8
+Jayapura,sentani,-2.568,140.5135,317.926,0.573,5.535,8
+Jayapura,sentanitimur,-2.6118,140.5897,294.869,0.536,4.614,10
+Jepara,kalinyamatan,-6.7236,110.7171,24.673,0.431,0.44,10
+Karanganyar,kebakkramat,-7.5203,110.9237,105.452,0.647,0.586,10
+Katingan,katingankuala,-3.0744,113.4548,12.395,0.723,0.15,10
+Katingan,mendawai,-2.7127,113.4061,23.607,0.664,0.15,10
+Kebumen,buluspesantren,-7.7539,109.6785,13.765,0.637,0.138,10
+Kediri,ngasem,-7.8035,112.0476,78.362,0.599,0.303,8
+Konawe,sampara,-3.976,122.409,88.963,0.651,1.685,10
+Kubu Raya,sungaiambawang,-0.0513,109.6499,16.342,0.797,0.156,8
+Kuningan,cidahu,-6.964,108.6615,99.267,0.761,1.203,8
+Kuningan,cilebak,-7.1398,108.5776,510.336,0.762,5.958,10
+Kuningan,cilimus,-6.8763,108.4726,769.382,0.63,7.763,8
+Kuningan,ciniru,-7.0571,108.5059,423.124,0.835,5.141,10
+Kuningan,darma,-7.0097,108.4032,896.465,0.639,5.893,8
+Kuningan,kadugede,-7.0081,108.4522,623.488,0.751,3.945,10
+Kuningan,lebakwangi,-7.0101,108.5856,169.94,0.731,0.993,10
+Kuningan,luragung,-7.0194,108.6302,123.322,0.776,0.921,8
+Kuningan,maleber,-7.0561,108.5721,259.549,0.819,4.34,10
+Kupang,semauselatan,-10.2812,123.3606,37.089,0.7,0.946,10
+Lebak,wanasalam,-6.7652,105.9215,24.866,0.719,0.371,8
+Magetan,maospati,-7.5983,111.4438,92.398,0.605,0.482,2
+Magetan,plaosan,-7.6782,111.2367,1253.305,0.692,9.233,8
+Ngawi,mantingan,-7.3857,111.161,94.911,0.636,0.532,8
+Ngawi,ngawi,-7.4142,111.4543,60.431,0.619,0.282,10
+Ngawi,padas,-7.4484,111.5288,68.988,0.534,0.313,10
+Ogan Ilir,indralaya,-3.2478,104.6857,9.228,0.531,0.12,10
+Ogan Ilir,pemulutanbarat,-3.1762,104.7291,6.023,0.448,0.035,10
+Padang Pariaman,batanggasan,-0.4372,100.0143,58.778,0.792,1.143,8
+Padang Pariaman,vkototimur,-0.4885,100.1884,289.163,0.799,3.428,10
+Pandeglang,saketi,-6.4107,105.967,130.807,0.628,2.402,8
+Pasaman,bonjol,0.0055,100.2422,705.947,0.765,6.533,10
+Pekalongan,bojong,-6.9722,109.5823,16.551,0.733,0.352,10
+Pekalongan,lebakbarang,-7.1329,109.6577,731.602,0.769,8.286,8
+Pesisir Selatan,linggosaribaganti,-1.8211,100.9866,631.543,0.818,5.775,10
+Sampang,torjun,-7.1466,113.205,23.289,0.729,0.449,10
+Seram Bagian Barat,taniwel,-2.9584,128.5137,543.081,0.822,6.05,8
+Sikka,alok,-8.4534,122.2184,43.585,0.591,1.472,10
+Sikka,talibura,-8.4794,122.6003,303.154,0.702,6.165,8
+Situbondo,situbondo,-7.7224,113.9958,56.73,0.59,0.742,10
+Sragen,gesi,-7.3286,111.0069,103.85,0.731,0.508,8
+Sragen,miri,-7.3455,110.8118,125.834,0.599,0.648,10
+Sragen,sumberlawang,-7.314,110.8678,115.544,0.574,0.547,8
+Sumenep,lenteng,-7.0376,113.7674,77.541,0.696,1.639,8
+Tapanuli Utara,pahaejae,1.8204,99.1503,934.927,0.719,5.487,10
+Banggai,lobu,-0.808,122.5184,164.152,0.817,4.107,10
+Banggai,nuhon,-1.0291,122.0655,579.277,0.756,8.124,8
+Enrekang,cendana,-3.6403,119.7719,111.333,0.793,2.287,10
+Indramayu,jatibarang,-6.4404,108.3128,7.816,0.725,0.089,10
+Indramayu,lohbener,-6.3998,108.2563,4.962,0.72,0.074,10
+Karo,tigabinanga,3.0957,98.2115,739.819,0.699,4.695,8
+Kepahiang,tebatkarai,-3.6506,102.6417,676.516,0.825,3.889,10
+Kerinci,gunungraya,-2.2993,101.5709,1127.533,0.593,5.963,8
+Kota Malang,blimbing,-7.9512,112.6493,458.177,0.429,0.57,10
+Kota Pasuruan,gadingrejo,-7.6401,112.8887,8.779,0.513,0.141,10
+Lamandau,menthobiraya,-1.9967,111.6946,66.866,0.744,1.027,10
+Lebong,amen,-3.1264,102.2142,367.543,0.536,1.916,10
+Lebong,binginkuning,-3.174,102.2842,463.029,0.725,3.622,8
+Lebong,lebongsakti,-3.118,102.2804,938.466,0.618,8.225,8
+Lebong,topos,-3.1499,102.4044,1244.418,0.703,7.71,8
+Lumajang,tempeh,-8.213,113.1783,76.2,0.73,0.684,8
+Nganjuk,gondang,-7.5245,111.9939,84.367,0.671,0.803,10
+Padang Lawas,batanglubusutam,0.9077,100.0655,234.708,0.777,3.335,10
+Parigi Moutong,taopa,0.5329,121.0616,303.711,0.753,4.099,8
+Sijunjung,kupitan,-0.7067,100.8327,271.346,0.781,2.356,10
+Sijunjung,lubuktarok,-0.7937,100.9979,364.557,0.786,3.754,8
+Tapanuli Selatan,sipirok,1.6034,99.2995,952.712,0.67,6.118,8
+Tuban,bangilan,-6.9604,111.7106,85.626,0.679,0.944,8
+Agam,ivkoto,-0.3343,100.3188,1207.359,0.718,5.936,8
+Agam,sungaipua,-0.3735,100.4053,1521.317,0.621,9.661,10
+Banggai,toili,-1.3234,122.1955,510.52,0.664,5.685,10
+Boalemo,botumoito,0.6935,122.2184,440.256,0.766,5.51,10
+Bone,ajangale,-4.2747,120.1361,32.429,0.571,0.377,10
+Buton Utara,kulisusuutara,-4.5442,123.0884,362.935,0.59,5.608,10
+Cirebon,pabuaran,-6.8944,108.7208,17.239,0.562,0.125,10
+Enrekang,baraka,-3.4196,119.9089,1229.259,0.655,9.875,10
+Enrekang,malua,-3.3805,119.8595,654.702,0.758,5.557,10
+Halmahera Selatan,ganebarat,-0.4498,127.9339,279.43,0.718,5.61,10
+Halmahera Selatan,ganetimur,-0.0665,127.8706,92.971,0.822,1.887,8
+Kepulauan Aru,arutengah,-6.205,134.4451,32.916,0.618,0.428,10
+Konawe Selatan,kolono,-4.3343,122.724,173.083,0.803,3.264,10
+Konawe Utara,asera,-3.3978,121.8376,545.159,0.683,7.493,10
+Konawe Utara,langgikima,-3.3156,122.2387,102.315,0.69,2.925,10
+Kota Sukabumi,warudoyong,-6.9307,106.9131,546.437,0.549,1.697,10
+Kutai Barat,barongtongkok,-0.2132,115.681,122.01,0.56,1.223,8
+Kutai Barat,longiram,0.068,115.5989,110.847,0.528,1.701,10
+Kutai Barat,melak,-0.2929,115.822,27.906,0.524,0.336,8
+Kutai Barat,tering,-0.0351,115.6544,61.866,0.532,1.067,8
+Landak,sebangki,0.1622,109.5952,33.421,0.754,0.923,10
+Lima Puluh Kota,larehsagohalaban,-0.2943,100.7616,716.023,0.771,5.663,8
+Luwu,belopautara,-3.3589,120.3748,13.826,0.521,0.289,2
+Luwu,ponrangselatan,-3.2581,120.3515,16.204,0.491,0.188,2
+Mandailing Natal,hutabargot,0.8776,99.4511,902.637,0.773,7.955,8
+Manokwari,oransbari,-1.3218,134.1776,513.383,0.724,7.83,8
+Merauke,kurik,-8.1664,140.2961,13.23,0.678,0.171,8
+Minahasa,eris,1.2132,124.9458,648.214,0.744,4.595,8
+Minahasa,kakas,1.1373,124.9288,396.573,0.819,3.037,8
+Minahasa,langowanselatan,1.0735,124.895,283.064,0.85,3.171,8
+Minahasa,lembeantimur,1.1657,125.0043,133.415,0.848,2.931,8
+Minahasa,tondanobarat,1.3029,124.8897,814.034,0.723,4.113,8
+Muara Enim,lawangkidul,-3.7747,103.8317,102.858,0.651,0.892,8
+Nagan Raya,sukamakmue,4.1811,96.3175,33.454,0.649,0.337,10
+Ogan Komering Ulu,lengkiti,-4.3244,104.0178,309.833,0.814,2.524,8
+Ogan Komering Ulu,muarajaya,-4.1493,103.8573,570.805,0.786,4.312,8
+Ogan Komering Ulu,pengandonan,-4.1036,103.9114,247.189,0.825,2.29,8
+Ogan Komering Ulu,uluogan,-4.1912,103.7117,932.243,0.814,5.199,8
+Ogan Komering Ulu Selatan,buaysandangaji,-4.5421,103.8761,280.484,0.797,1.409,8
+Ogan Komering Ulu Selatan,kisamilir,-4.4772,103.7789,535.629,0.778,2.596,10
+Ogan Komering Ulu Selatan,simpang,-4.4531,104.1749,157.859,0.788,1.385,10
+Ogan Komering Ulu Timur,martapura,-4.3029,104.33,101.9,0.735,0.327,8
+Parigi Moutong,tinombo,0.3705,120.1738,600.072,0.747,8.744,10
+Poso,posopesisirutara,-1.2375,120.4748,778.249,0.67,6.92,10
+Pringsewu,ambarawa,-5.4104,104.9427,112.135,0.454,0.401,10
+Pringsewu,pringsewu,-5.3567,104.957,116.905,0.609,0.547,8
+Sanggau,sekayam,0.8233,110.5585,93.534,0.77,1.184,8
+Sanggau,tayanhulu,0.3481,110.2634,63.362,0.772,0.922,8
+Sigi,kulawiselatan,-1.6655,120.0666,1078.027,0.789,9.056,8
+Tanah Datar,rambatan,-0.5238,100.573,500.468,0.736,2.585,8
+Tanggamus,airnaningan,-5.2506,104.7151,344.656,0.835,1.875,8
+Tanggamus,bandarnegerisemuong,-5.4276,104.4772,135.433,0.83,3.056,10
+Tanggamus,kotaagungbarat,-5.4694,104.5821,98.676,0.762,2.575,10
+Tanggamus,kotaagungtimur,-5.4928,104.7056,296.731,0.794,6.142,10
+Tanggamus,talangpadang,-5.3664,104.7748,270.626,0.723,1.338,10
+Boalemo,paguyamanpantai,0.5396,122.5701,240.628,0.48,4.725,10
+Bolaang Mongondow,lolayan,0.6648,124.2326,454.103,0.753,6.739,8
+Bone Bolango,suwawa,0.5796,123.1809,473.232,0.647,8.183,8
+Bone Bolango,suwawaselatan,0.4979,123.1758,261.103,0.706,6.37,8
+Bone Bolango,suwawatimur,0.535,123.3726,632.212,0.628,6.554,8
+Cirebon,losari,-6.8058,108.8061,2.157,0.354,0.102,6
+Deli Serdang,pancurbatu,3.4868,98.5794,95.544,0.734,0.622,8
+Gorontalo,biluhu,0.5073,122.7781,320.046,0.571,6.928,8
+Gorontalo,boliyohuto,0.6006,122.6518,175.781,0.52,3.131,8
+Gorontalo,bongomeme,0.5697,122.8096,208.734,0.585,3.266,8
+Gorontalo,pulubala,0.6802,122.7504,227.395,0.643,3.065,10
+Halmahera Tengah,wedaselatan,0.2036,127.8589,107.779,0.568,2.257,10
+Kota Gorontalo,kotabarat,0.54,123.0257,107.993,0.651,5.393,8
+Kota Gorontalo,kotatimur,0.5169,123.0765,117.619,0.597,4.586,8
+Ogan Komering Ulu,lubukraja,-4.1263,104.2911,77.092,0.763,0.336,8
+Pandeglang,cikeusik,-6.77,105.8299,30.555,0.768,0.501,10
+Pohuwato,duhiadaa,0.4723,121.9024,5.954,0.416,0.226,10
+Pohuwato,wanggarasi,0.6962,121.6911,383.676,0.739,5.732,10
+Purwakarta,purwakarta,-6.5401,107.4548,88.842,0.524,0.499,10
+Sigi,palolo,-1.1317,120.1326,1010.399,0.797,6.447,8
+Sukabumi,jampangtengah,-7.0681,106.7904,525.609,0.787,3.057,10
+Sukabumi,lengkong,-7.1137,106.6849,619.089,0.805,3.357,8
+Sukabumi,surade,-7.3433,106.5625,113.646,0.768,0.897,10
+Tanah Bumbu,kuranji,-3.5289,115.7007,25.209,0.664,0.232,10
+Tanah Bumbu,kusanhilir,-3.5558,115.8953,10.765,0.592,0.17,10
+Tanah Bumbu,kusanhulu,-3.3898,115.5813,190.259,0.678,2.841,8
+Tanggamus,pugung,-5.4168,104.8226,294.99,0.595,2.102,10
+Banggai,batui,-1.1882,122.4408,586.857,0.642,5.586,10
+Bone Bolango,bulangotimur,0.6101,123.1077,144.081,0.782,3.713,8
+Bone Bolango,kabila,0.5451,123.1034,15.39,0.675,0.211,2
+Bone Bolango,tilongkabila,0.5899,123.1326,175.739,0.797,3.984,10
+Buru,waeapo,-3.3934,126.8822,278.116,0.803,3.971,8
+Gorontalo,batudaa,0.5389,122.9679,176.035,0.71,5.979,8
+Gorontalo,telaga,0.6599,123.0411,309.525,0.766,5.195,8
+Gorontalo,telagabiru,0.6982,123.0421,433.949,0.794,6.471,10
+Gorontalo,telagajaya,0.5806,123.0231,10.752,0.521,0.241,10
+Gorontalo,tilango,0.5615,123.023,10.095,0.457,0.796,8
+Indramayu,sliyeg,-6.4501,108.3486,8.156,0.351,0.082,2
+Konawe,puriala,-4.0497,122.1078,56.698,0.741,1.43,8
+Konawe,uepai,-3.8703,121.984,193.824,0.773,3.512,8
+Konawe Selatan,laeya,-4.3237,122.481,111.341,0.753,1.777,10
+Kota Gorontalo,dungingi,0.5605,123.0396,12.791,0.441,0.257,0
+Kota Gorontalo,kotautara,0.5697,123.0733,18.196,0.629,0.153,2
+Lebak,malingping,-6.7684,106.0046,63.384,0.789,1.243,10
+Mamuju,papalang,-2.4301,119.2043,160.527,0.808,3.101,8
+Seram Bagian Barat,huamualbelakang,-3.17,127.8333,208.212,0.778,4.869,10
+Sidenreng Rappang,kulo,-3.7807,119.7993,49.758,0.743,0.671,2
+Sidenreng Rappang,pancarijang,-3.8416,119.8511,44.323,0.724,0.367,10
+Sigi,dolobarat,-1.0648,119.8393,994.456,0.785,9.973,10
+Sukamara,permatakecubung,-2.1993,111.2095,63.655,0.7,0.696,8
+Bolaang Mongondow,bolaang,0.8558,124.1568,340.702,0.811,8.158,8
+Bolaang Mongondow,passibarat,0.7903,124.2576,488.52,0.781,7.364,10
+Bone Bolango,bonepantai,0.4146,123.2286,375.606,0.703,6.124,10
+Bone Bolango,boneraya,0.3584,123.3534,502.23,0.655,8.326,8
+Deli Serdang,percutseituan,3.6578,98.751,9.028,0.598,0.09,10
+Gunung Mas,sepang,-1.5039,113.8709,62.231,0.596,0.324,10
+Kepulauan Yapen,kosiwo,-1.7951,136.0943,350.747,0.768,6.044,10
+Parigi Moutong,parigiutara,-0.7094,120.0573,410.99,0.742,7.675,8
+Banyumas,pekuncen,-7.3483,109.0839,554.67,0.74,5.749,10
+Deli Serdang,labuhandeli,3.7675,98.6575,6.402,0.392,0.071,5
+Deli Serdang,pantailabu,3.6675,98.8791,4.868,0.384,0.087,8
+Kota Medan,medanmarelan,3.7118,98.6551,5.9,0.256,0.07,10
+Langkat,salapian,3.4308,98.3117,280.258,0.628,2.08,10
+Mandailing Natal,muarasipongi,0.6135,99.8811,984.777,0.786,7.084,8
+Samosir,simanindo,2.6664,98.8059,1245.922,0.586,6.212,10
+Aceh Tamiang,kotakualasimpang,4.2851,98.0616,15.591,0.51,0.289,0
+Aceh Tengah,rusipantara,4.7167,96.4755,1130.549,0.875,8.244,8
+Asahan,tanjungbalai,3.0356,99.8176,6.718,0.636,0.117,10
+Dairi,tanahpinem,2.9973,98.1052,652.801,0.793,7.7,10
+Deli Serdang,patumbak,3.4949,98.7224,56.4,0.655,0.396,8
+Deli Serdang,stmhilir,3.374,98.7216,180.932,0.819,1.151,8
+Labuhanbatu,pangkatan,2.1862,100.0169,11.686,0.677,0.134,10
+Lembata,atadei,-8.4763,123.502,514.705,0.663,7.681,8
+Lembata,nubatukan,-8.4085,123.405,199.522,0.527,3.929,8
+Mamuju,tommo,-2.2622,119.4432,591.002,0.822,5.588,8
+Mandailing Natal,nagajuang,0.9294,99.4541,600.299,0.806,9.314,8
+Padang Lawas,lubukbarumun,1.1602,99.7868,194.879,0.794,1.331,8
+Padang Pariaman,ivkotoaurmalintang,-0.3694,100.0796,337.141,0.729,3.708,8
+Padang Pariaman,ulakantapakis,-0.701,100.2162,9.91,0.634,0.179,10
+Serdang Bedagai,tebingsyahbandar,3.2948,99.2048,35.497,0.755,0.312,8
+Simalungun,gunungmaligas,3.0475,99.154,185.31,0.679,0.599,8
+Tapanuli Selatan,muarabatangtoru,1.3875,98.8994,31.142,0.746,0.667,8
+Cilacap,cipari,-7.4049,108.7762,79.679,0.728,2.378,10
+Deli Serdang,beringin,3.6233,98.8777,9.882,0.297,0.12,10
+Deli Serdang,kutalimbaru,3.4161,98.5214,345.596,0.423,1.993,10
+Jember,semboro,-8.1826,113.4376,34.237,0.65,0.358,10
+Kebumen,karangsambung,-7.572,109.7026,182.142,0.659,3.943,8
+Kebumen,kuwarasan,-7.6593,109.5118,13.419,0.395,0.325,10
+Kebumen,sempor,-7.5496,109.5122,167.112,0.55,3.059,10
+Ketapang,simpangdua,-0.7593,110.2479,55.332,0.676,0.869,8
+Kota Sukabumi,baros,-6.9598,106.9324,489.92,0.536,1.394,10
+Kota Sukabumi,cibeureum,-6.9414,106.9481,560.865,0.543,1.835,10
+Kota Sukabumi,cikole,-6.9152,106.9393,649.585,0.487,2.601,10
+Kota Sukabumi,citamiang,-6.9373,106.931,548.857,0.502,1.899,10
+Kota Sukabumi,gunungpuyuh,-6.9085,106.9175,627.284,0.539,2.118,10
+Kota Sukabumi,lembursitu,-6.9652,106.9001,445.73,0.603,1.615,10
+Kuantan Singingi,singingihilir,-0.2183,101.3027,109.369,0.634,1.103,8
+Labuhanbatu Utara,kualuhhilir,2.5413,99.9672,3.881,0.664,0.062,10
+Labuhanbatu Utara,kualuhhulu,2.5493,99.6392,73.473,0.598,0.991,8
+Labuhanbatu Utara,kualuhleidong,2.698,99.9159,5.315,0.662,0.118,8
+Labuhanbatu Utara,kualuhselatan,2.4717,99.6492,79.885,0.605,1.356,10
+Malang,bantur,-8.3141,112.5523,270.034,0.531,1.718,8
+Padang Lawas,huristak,1.3819,99.9084,101.706,0.764,0.582,8
+Pidie,mutiara,5.2872,95.9741,20.64,0.46,0.163,10
+Pulang Pisau,kahayanhilir,-2.7614,114.2028,9.482,0.463,0.106,10
+Tapanuli Tengah,pandan,1.6869,98.8394,52.109,0.572,2.556,10
+Asahan,seikepayang,2.8329,99.8648,8.74,0.774,0.12,10
+Barru,pujananting,-4.6742,119.7195,432.63,0.312,6.177,10
+Barru,soppengriaja,-4.2629,119.6716,199.204,0.286,3.523,10
+Bima,donggo,-8.4326,118.5656,664.866,0.577,7.679,10
+Bima,lambu,-8.6633,119.0419,195.591,0.523,5.179,10
+Bondowoso,tlogosari,-8.033,113.9774,1132.917,0.636,5.608,10
+Bondowoso,wonosari,-7.9171,113.8985,286.974,0.698,1.192,8
+Bone,tellulimpoe,-4.6576,119.8307,703.703,0.334,6.954,8
+Ciamis,lakbok,-7.4057,108.6627,13.971,0.323,0.286,10
+Cianjur,cijati,-7.2818,107.0151,221.171,0.638,3.699,8
+Cianjur,cikadu,-7.3127,107.2553,678.704,0.695,4.41,8
+Cianjur,cikalongkulon,-6.6812,107.2077,407.463,0.506,4.244,8
+Cianjur,pagelaran,-7.1574,107.1787,942.768,0.634,4.928,8
+Cianjur,pasirkuda,-7.2034,107.2211,990.71,0.649,5.095,10
+Cianjur,sukanagara,-7.1005,107.0903,998.936,0.667,2.877,10
+Cianjur,tanggeung,-7.2568,107.1207,407.249,0.631,5.149,8
+Gowa,pallangga,-5.2509,119.4687,18.84,0.357,0.145,10
+Halmahera Selatan,bacanbaratutara,-0.4103,127.4765,249.64,0.763,5.629,10
+Indramayu,cantigi,-6.2981,108.2388,1.992,0.195,0.057,6
+Jember,sumberjambe,-8.0786,113.9349,842.432,0.57,5.294,10
+Kampar,kamparkirihilir,0.1253,101.4683,47.026,0.692,0.319,10
+Kepulauan Selayar,bontomatene,-5.8756,120.4891,100.757,0.644,2.251,10
+Kepulauan Talaud,moronge,3.9027,126.7088,20.376,0.597,1.034,8
+Kota Malang,lowokwaru,-7.9389,112.6158,515.298,0.417,1.125,10
+Kuantan Singingi,logastanahdarat,-0.2543,101.5881,89.539,0.783,0.526,10
+Lampung Timur,labuhanmaringgai,-5.3444,105.8079,14.346,0.462,0.439,8
+Lebak,cijaku,-6.719,106.0664,262.384,0.454,1.428,10
+Lombok Barat,kuripan,-8.678,116.1697,67.783,0.464,1.805,8
+Lombok Timur,sakrabarat,-8.7229,116.4739,171.641,0.542,1.416,10
+Mamuju,kalumpang,-2.5307,119.5859,1087.522,0.55,9.671,8
+Padang Lawas Utara,padangbolak,1.5491,99.6095,334.309,0.825,3.51,10
+Pamekasan,proppo,-7.1344,113.409,55.403,0.555,0.761,2
+Pandeglang,angsana,-6.6027,105.8498,46.658,0.428,0.641,8
+Pandeglang,cibaliung,-6.7236,105.7554,92.079,0.461,0.964,10
+Pandeglang,cigeulis,-6.6181,105.6846,107.845,0.458,1.939,8
+Pandeglang,menes,-6.3808,105.9238,101.851,0.445,1.093,10
+Pandeglang,munjul,-6.6302,105.9083,56.514,0.487,0.72,8
+Pandeglang,pulosari,-6.3332,105.9392,415.715,0.473,7.38,8
+Pangkajene Dan Kepulauan,balocci,-4.9053,119.7141,372.652,0.376,5.64,8
+Pangkajene Dan Kepulauan,bungoro,-4.7831,119.6098,77.201,0.308,2.169,8
+Pangkajene Dan Kepulauan,labakkang,-4.7613,119.553,11.231,0.24,0.293,10
+Pangkajene Dan Kepulauan,mandalle,-4.6068,119.6105,58.656,0.23,2.968,10
+Pangkajene Dan Kepulauan,minasatene,-4.8435,119.6138,135.184,0.349,3.433,10
+Pangkajene Dan Kepulauan,pangkajene,-4.8569,119.5412,3.108,0.123,0.089,6
+Pangkajene Dan Kepulauan,segeri,-4.6677,119.6147,44.761,0.278,1.341,10
+Ponorogo,mlarak,-7.9191,111.5237,148.134,0.63,0.844,8
+Ponorogo,sambit,-8.0017,111.5153,394.718,0.61,4.995,8
+Ponorogo,sawoo,-7.982,111.5856,365.38,0.753,4.254,8
+Poso,posopesisirselatan,-1.5217,120.5833,929.055,0.653,7.479,8
+Purbalingga,bukateja,-7.4347,109.4502,61.083,0.507,0.406,10
+Seram Bagian Timur,wakate,-4.58,131.6846,81.811,0.604,3.605,10
+Serdang Bedagai,kotarih,3.2887,98.8572,135.184,0.753,0.715,8
+Sidoarjo,prambon,-7.4645,112.5847,13.545,0.548,0.05,10
+Sukabumi,bantargadung,-6.9715,106.6639,232.878,0.598,2.717,10
+Sukabumi,cidadap,-7.2995,106.9213,218.747,0.668,3.035,8
+Sukabumi,cidolog,-7.2875,106.8587,345.764,0.663,2.589,8
+Sukabumi,cikidang,-6.8907,106.6367,564.604,0.453,4.542,8
+Sukabumi,cimanggu,-7.2357,106.6807,439.375,0.489,2.56,8
+Sukabumi,curugkembar,-7.1958,106.9468,413.832,0.613,2.954,8
+Sukabumi,kabandungan,-6.7859,106.595,961.836,0.408,5.191,10
+Sukabumi,nagrak,-6.8433,106.8385,644.047,0.589,2.936,10
+Sukabumi,nyalindung,-7.0141,106.9241,661.923,0.642,4.175,8
+Sukabumi,sukalarang,-6.8838,107.0127,947.768,0.447,5.025,8
+Sukabumi,waluran,-7.2091,106.5999,457.247,0.48,2.106,10
+Sukamara,jelai,-2.9482,110.8981,4.944,0.741,0.079,10
+Sumenep,batuan,-7.0224,113.837,33.025,0.54,1.005,10
+Temanggung,kranggan,-7.3304,110.2341,554.793,0.537,1.77,10
+Tuban,montong,-6.9747,111.8831,223.992,0.627,1.617,10
+Tuban,rengel,-7.0702,112.0093,70.358,0.569,1.962,10
