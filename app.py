@@ -28,7 +28,7 @@ def load_model():
 
 @st.cache_data
 def load_master():
-    return pd.read_csv("master_kecamatan.csv")
+    return pd.read_csv("master_kecamatan_bersih.csv")
 
 
 model = load_model()
