@@ -12,7 +12,7 @@ from streamlit_folium import st_folium
 # =====================================================
 
 st.set_page_config(
-    page_title="Prediksi Risiko Banjir Indonesia",
+    page_title="Prediksi Risiko Banjir Jabodetabek",
     page_icon="🌊",
     layout="wide"
 )
@@ -25,33 +25,73 @@ st.set_page_config(
 def load_model():
     return joblib.load("model_rf_banjir_indonesia.pkl")
 
+
 @st.cache_data
 def load_master():
-    return pd.read_csv("master_kecamatan_bersih.csv")
+    return pd.read_csv("master_kecamatan.csv")
+
 
 model = load_model()
 master = load_master()
 
 # =====================================================
+# FILTER JABODETABEK
+# =====================================================
+
+VALID_KABUPATEN = [
+
+    "jakarta barat",
+    "jakarta timur",
+    "jakarta selatan",
+    "jakarta utara",
+    "jakarta pusat",
+
+    "bekasi",
+    "kota bekasi",
+
+    "bogor",
+    "kota bogor",
+
+    "depok",
+
+    "tangerang",
+    "kota tangerang",
+    "tangerang selatan"
+
+]
+
+master = master[
+    master["NAME_2"].str.lower().isin(
+        VALID_KABUPATEN
+    )
+].copy()
+
+# =====================================================
 # HEADER
 # =====================================================
 
-st.title("🌊 Sistem Prediksi Risiko Banjir Indonesia")
+st.title(
+    "🌊 Sistem Prediksi Risiko Banjir Jabodetabek"
+)
 
 st.markdown("""
-Prediksi risiko banjir tingkat kecamatan menggunakan algoritma
-**Random Forest** berdasarkan data meteorologi dan geospasial.
+Prediksi risiko banjir tingkat kecamatan
+menggunakan algoritma Random Forest
+berdasarkan variabel meteorologi
+dan geospasial.
 """)
 
-st.info("""
-Model Random Forest yang digunakan memiliki:
+st.info(
+    """
+    Model dikembangkan menggunakan data
+    historis wilayah Jabodetabek.
 
-• Accuracy : 94,05%
-
-• ROC-AUC : 96,53%
-
-• F1-Score : 87,90%
-""")
+    Hasil prediksi direkomendasikan
+    hanya untuk wilayah Jabodetabek
+    agar sesuai dengan karakteristik
+    data pelatihan model.
+    """
+)
 
 st.divider()
 
@@ -103,7 +143,9 @@ col1, col2 = st.columns([1, 2])
 
 with col1:
 
-    st.subheader("📊 Karakteristik Wilayah")
+    st.subheader(
+        "📊 Karakteristik Wilayah"
+    )
 
     st.metric(
         "Elevasi",
@@ -121,12 +163,17 @@ with col1:
     )
 
     st.metric(
-        "Landcover Class",
+        "Landcover",
         landcover
     )
 
-    st.write(f"Latitude : {lat}")
-    st.write(f"Longitude : {lon}")
+    st.write(
+        f"Latitude : {lat}"
+    )
+
+    st.write(
+        f"Longitude : {lon}"
+    )
 
 # =====================================================
 # MAP
@@ -134,7 +181,9 @@ with col1:
 
 with col2:
 
-    st.subheader("🗺️ Lokasi Kecamatan")
+    st.subheader(
+        "🗺️ Lokasi Kecamatan"
+    )
 
     m = folium.Map(
         location=[lat, lon],
@@ -156,7 +205,7 @@ with col2:
 st.divider()
 
 # =====================================================
-# FORECAST
+# BUTTON FORECAST
 # =====================================================
 
 if st.button(
@@ -165,7 +214,7 @@ if st.button(
 ):
 
     with st.spinner(
-        "Mengambil data cuaca dari Open-Meteo..."
+        "Mengambil data cuaca..."
     ):
 
         try:
@@ -190,7 +239,9 @@ if st.button(
 
             for i in range(7):
 
-                tanggal = data["daily"]["time"][i]
+                tanggal = (
+                    data["daily"]["time"][i]
+                )
 
                 avg_temperature = float(
                     data["daily"]["temperature_2m_mean"][i]
@@ -200,29 +251,35 @@ if st.button(
                     data["daily"]["precipitation_sum"][i]
                 )
 
-                # estimasi hujan maksimum harian
-                max_rainfall = avg_rainfall * 2
+                max_rainfall = avg_rainfall
 
-                # rata-rata dataset training
-                soil_moisture = 36.30
+                soil_moisture = 36.3
 
                 X_pred = pd.DataFrame({
 
-                    "avg_rainfall": [avg_rainfall],
+                    "avg_rainfall":
+                    [avg_rainfall],
 
-                    "max_rainfall": [max_rainfall],
+                    "max_rainfall":
+                    [max_rainfall],
 
-                    "avg_temperature": [avg_temperature],
+                    "avg_temperature":
+                    [avg_temperature],
 
-                    "elevation": [elevation],
+                    "elevation":
+                    [elevation],
 
-                    "landcover_class": [landcover],
+                    "landcover_class":
+                    [landcover],
 
-                    "ndvi": [ndvi],
+                    "ndvi":
+                    [ndvi],
 
-                    "slope": [slope],
+                    "slope":
+                    [slope],
 
-                    "soil_moisture": [soil_moisture]
+                    "soil_moisture":
+                    [soil_moisture]
 
                 })
 
@@ -236,13 +293,13 @@ if st.button(
                     )[0][1] * 100
                 )
 
-                if prob >= 80:
+                if prob >= 75:
                     status = "Risiko Sangat Tinggi"
 
-                elif prob >= 60:
+                elif prob >= 50:
                     status = "Risiko Tinggi"
 
-                elif prob >= 40:
+                elif prob >= 25:
                     status = "Risiko Sedang"
 
                 else:
@@ -251,19 +308,19 @@ if st.button(
                 hasil_prediksi.append({
 
                     "Tanggal":
-                        tanggal,
+                    tanggal,
 
                     "Curah Hujan (mm)":
-                        round(avg_rainfall, 2),
+                    round(avg_rainfall, 2),
 
                     "Temperatur (°C)":
-                        round(avg_temperature, 2),
+                    round(avg_temperature, 2),
 
                     "Probabilitas (%)":
-                        round(prob, 2),
+                    round(prob, 2),
 
                     "Status":
-                        status
+                    status
 
                 })
 
@@ -275,22 +332,14 @@ if st.button(
                 f"Forecast berhasil diproses untuk Kecamatan {kecamatan}"
             )
 
-            # =====================================================
-            # TABEL
-            # =====================================================
-
             st.subheader(
-                "📅 Prediksi Risiko Banjir 7 Hari Ke Depan"
+                "🗓️ Prediksi Risiko Banjir 7 Hari Ke Depan"
             )
 
             st.dataframe(
                 hasil_df,
                 use_container_width=True
             )
-
-            # =====================================================
-            # GRAFIK
-            # =====================================================
 
             fig = px.line(
                 hasil_df,
@@ -305,51 +354,29 @@ if st.button(
                 use_container_width=True
             )
 
-            # =====================================================
-            # RISIKO TERTINGGI
-            # =====================================================
-
             risiko_tertinggi = hasil_df.loc[
-                hasil_df["Probabilitas (%)"].idxmax()
+                hasil_df[
+                    "Probabilitas (%)"
+                ].idxmax()
             ]
 
             st.subheader(
-                "🚨 Informasi Risiko Tertinggi"
+                "🚨 Risiko Tertinggi"
             )
 
-            if risiko_tertinggi["Probabilitas (%)"] >= 80:
+            if risiko_tertinggi[
+                "Probabilitas (%)"
+            ] >= 75:
 
                 st.error(
                     f"""
                     Tanggal : {risiko_tertinggi['Tanggal']}
 
-                    Probabilitas : {risiko_tertinggi['Probabilitas (%)']}%
+                    Probabilitas :
+                    {risiko_tertinggi['Probabilitas (%)']}%
 
-                    Status : Risiko Sangat Tinggi
-                    """
-                )
-
-            elif risiko_tertinggi["Probabilitas (%)"] >= 60:
-
-                st.warning(
-                    f"""
-                    Tanggal : {risiko_tertinggi['Tanggal']}
-
-                    Probabilitas : {risiko_tertinggi['Probabilitas (%)']}%
-
-                    Status : Risiko Tinggi
-                    """
-                )
-
-            elif risiko_tertinggi["Probabilitas (%)"] >= 40:
-
-                st.info(
-                    f"""
-                    Tanggal : {risiko_tertinggi['Tanggal']}
-
-                    Probabilitas : {risiko_tertinggi['Probabilitas (%)']}%
-
-                    Status : Risiko Sedang
+                    Status :
+                    {risiko_tertinggi['Status']}
                     """
                 )
 
@@ -357,11 +384,11 @@ if st.button(
 
                 st.success(
                     f"""
-                    Tanggal : {risiko_tertinggi['Tanggal']}
+                    Probabilitas tertinggi :
+                    {risiko_tertinggi['Probabilitas (%)']}%
 
-                    Probabilitas : {risiko_tertinggi['Probabilitas (%)']}%
-
-                    Status : Risiko Rendah
+                    Status :
+                    {risiko_tertinggi['Status']}
                     """
                 )
 
